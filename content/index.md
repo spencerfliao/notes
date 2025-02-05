@@ -1,7 +1,9 @@
 ---
 title: Welcome to my Digital Garden
 ---
-I’m Spencer, an enthusiast on the intersection of science and public knowledge, and an avid reader on topics about how we and the world we live in works. Below you will find works that influenced my thinking, and ideas that I find worth sharing, categorized by fields.
+I’m Spencer, an enthusiast and reader on the intersections of technology and humanities, of science and its communication, and of our inner workings in relation to the world’s mechanisms.
+Here, you’ll find works that have influenced my thinking and ideas I believe are worth sharing—categorized by field. And when it comes to understanding ourselves and the systems we live in, I hope that, like me, you’ll come to realize... IT'S SIMPLY COMPLICATED!
+Learn more about me and this site at [[About]].
 ## [[Natural & Social Sciences]]
 
 **Featured Ideas**
