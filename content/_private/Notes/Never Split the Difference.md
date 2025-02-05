@@ -1,2 +1,0 @@
-- Mirror the last 3 words and they re-rationalize
-- Silence and wait draws others' thoughts out
