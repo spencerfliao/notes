@@ -1,17 +1,24 @@
 ## Life Science
 
 **Featured Ideas**
-idea1
-idea2
+* idea1
+* idea2
+* idea3
 
 **Featured Books**
-```
+```dataview
+TABLE "[![](" + Cover + ")](" + Cover + ")" AS Cover, Title, Author, Year
+FROM ""
+WHERE Cover AND Title
+SORT file.mtime DESC
+LIMIT 10
 ```
 ## Human Science
 
 **Featured Ideas**
-idea1
-idea2
+* idea1
+* idea2
+* idea3
 
 **Featured Books**
 ```
@@ -20,8 +27,9 @@ idea2
 ## Physical Science
 
 **Featured Ideas**
-idea1
-idea2
+* idea1
+* idea2
+* idea3
 
 **Featured Books**
 ```
