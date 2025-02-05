@@ -7,10 +7,10 @@ import xml.etree.ElementTree as ET
 # Define shelves and their respective vault paths
 shelves = {
     "biographies": "/Users/SFL/notes/content/Other Genres/Biographies",
-    "business": "/Users/SFL/notes/content/Other Genres/Business",
+    "business": "/Users/SFL/notes/content/Self-help/Business Thinking",
     "fiction": "/Users/SFL/notes/content/Other Genres/Fiction",
     "humanities": "/Users/SFL/notes/content/Other Genres/Humanities",
-    "personal": "/Users/SFL/notes/content/Self-help",
+    "personal": "/Users/SFL/notes/content/Self-help/Personal Development",
     "sciences": "/Users/SFL/notes/content/Natural & Social Sciences"
 }
 
