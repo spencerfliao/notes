@@ -60,7 +60,8 @@ Status: "{status}"
 """
         if subtitle.strip():  # Check if subtitle is not empty
             content += f"""
-### — {subtitle}
+
+## — {subtitle}
 """
             
         with open(filename, "w", encoding="utf-8") as f:

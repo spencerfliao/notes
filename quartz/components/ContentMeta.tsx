@@ -15,8 +15,8 @@ interface ContentMetaOptions {
 }
 
 const defaultOptions: ContentMetaOptions = {
-  showReadingTime: true,
-  showComma: true,
+  showReadingTime: false,
+  showComma: false,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -29,9 +29,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
-      }
+      // Commenting out to disable dates on pages
+      // if (fileData.dates) {
+      //   segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+      // }
 
       // Display reading time if enabled
       if (options.showReadingTime) {
@@ -42,15 +43,27 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
-      return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segments}
-        </p>
-      )
-    } else {
-      return null
-    }
-  }
+      if (segments.length > 0) {
+            return (
+              <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+                {segments}
+              </p>
+            )
+          }
+        }
+      
+        // Return null if there's no content to display
+        return null
+      }
+  //     return (
+  //       <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+  //         {segments}
+  //       </p>
+  //     )
+  //   } else {
+  //     return null
+  //   }
+  // }
 
   ContentMetadata.css = style
 
