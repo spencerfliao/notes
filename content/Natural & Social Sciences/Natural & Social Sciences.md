@@ -6,13 +6,11 @@
 * idea3
 
 **Featured Books**
-```dataview
-TABLE "[![](" + Cover + ")](" + Cover + ")" AS Cover, Title, Author, Year
-FROM ""
-WHERE Cover AND Title
-SORT file.mtime DESC
-LIMIT 10
-```
+| Cover | Title | Author | Year |
+|---|---|---|---|
+| <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430105543l/19013971.jpg" width="100"/> | [[The Extended Phenotype]] | Richard Dawkins | 1982 |
+| <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328826673l/5510571.jpg" width="100"/> | [[Wetware]] | Dennis Bray | 2009 |
+| <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595l/64582.jpg" width="100"/> | [[Chaos]] | James Gleick | 1987 |
 ## Human Science
 
 **Featured Ideas**
@@ -21,8 +19,11 @@ LIMIT 10
 * idea3
 
 **Featured Books**
-```
-```
+| Cover | Title | Author | Year |
+|---|---|---|---|
+| <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430105543l/19013971.jpg" width="100"/> | [[The Extended Phenotype]] | Richard Dawkins | 1982 |
+| <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328826673l/5510571.jpg" width="100"/> | [[Wetware]] | Dennis Bray | 2009 |
+| <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595l/64582.jpg" width="100"/> | [[Chaos]] | James Gleick | 1987 |
 
 ## Physical Science
 
