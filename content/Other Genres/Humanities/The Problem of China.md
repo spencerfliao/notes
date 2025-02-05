@@ -1,8 +1,10 @@
 ---
 Title: "The Problem of China"
-Cover: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348217109l/1258011.jpg"
+Full Title: "The Problem of China"
+Subtitle: ""
+Cover: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394255046l/18899574.jpg"
 Author: "Bertrand Russell"
-Year: "Unknown Year"
+Year: "1922"
 Shelf: "humanities"
-Status: "Want to Read"
+Status: "Read"
 ---

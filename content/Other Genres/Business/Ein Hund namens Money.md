@@ -1,8 +1,10 @@
 ---
 Title: "Ein Hund namens Money"
+Full Title: "Ein Hund namens Money"
+Subtitle: ""
 Cover: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328332521l/7520087.jpg"
 Author: "Bodo Schäfer"
-Year: "Unknown Year"
+Year: "1999"
 Shelf: "business"
 Status: "Want to Read"
 ---

@@ -1,8 +1,10 @@
 ---
 Title: "On Photography"
-Cover: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1671548651l/52372._SY475_.jpg"
+Full Title: "On Photography"
+Subtitle: ""
+Cover: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386782576l/19378189.jpg"
 Author: "Susan Sontag"
-Year: "Unknown Year"
+Year: "1973"
 Shelf: "humanities"
-Status: "Want to Read"
+Status: "Read"
 ---

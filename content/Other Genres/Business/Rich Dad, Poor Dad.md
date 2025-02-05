@@ -1,8 +1,10 @@
 ---
 Title: "Rich Dad, Poor Dad"
+Full Title: "Rich Dad, Poor Dad"
+Subtitle: ""
 Cover: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388211242l/69571.jpg"
 Author: "Robert T. Kiyosaki"
-Year: "Unknown Year"
+Year: "1997"
 Shelf: "business"
 Status: "Want to Read"
 ---
