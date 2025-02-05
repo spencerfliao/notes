@@ -1,6 +1,34 @@
+## Life Science
+
+**Featured Ideas**
+idea1
+idea2
+
+**Featured Books**
+```
+```
+## Human Science
+
+**Featured Ideas**
+idea1
+idea2
+
+**Featured Books**
+```
+```
+
+## Physical Science
+
+**Featured Ideas**
+idea1
+idea2
+
+**Featured Books**
+```
+```
 
 
-Full List of Books in this Category A-Z
+**Full List of Books in this Category A-Z**
 [[21 Lessons for the 21st Century]]
 [[A Brief History of Intelligence]]
 [[A Brief History of Time]]
