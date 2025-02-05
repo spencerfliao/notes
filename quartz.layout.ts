@@ -31,33 +31,33 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph({
       localGraph: {
-        drag: true, // whether to allow panning the view around
-        zoom: true, // whether to allow zooming in and out
-        depth: 1, // how many hops of notes to display
-        scale: 1.1, // default view scale
-        repelForce: 0.5, // how much nodes should repel each other
-        centerForce: 0.3, // how much force to use when trying to center the nodes
-        linkDistance: 30, // how long should the links be by default?
-        fontSize: 0.6, // what size should the node labels be?
-        opacityScale: 1, // how quickly do we fade out the labels when zooming out?
-        removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
-        enableRadial: false, // whether to constrain the graph, similar to Obsidian
+        drag: true,
+        zoom: true,
+        depth: 2, // Show up to 2 hops for more connections
+        scale: 1.5, // Slightly zoomed in for better clarity
+        repelForce: 0.7, // More spacing between nodes
+        centerForce: 0.5, // Stronger pull toward the center
+        linkDistance: 50, // Spread nodes further apart
+        fontSize: 1, // Larger node labels
+        opacityScale: 0.8, // Labels fade out more slowly
+        removeTags: [], // No tags removed
+        showTags: true, // Show tags in the graph
+        enableRadial: true, // Constrain to a radial layout
       },
       globalGraph: {
         drag: true,
         zoom: true,
-        depth: -1,
-        scale: 0.9,
-        repelForce: 0.5,
-        centerForce: 0.3,
-        linkDistance: 30,
-        fontSize: 0.6,
-        opacityScale: 1,
-        removeTags: [], // what tags to remove from the graph
-        showTags: true, // whether to show tags in the graph
-        enableRadial: true, // whether to constrain the graph, similar to Obsidian
-      },
+        depth: -1, // Unlimited depth for global graphs
+        scale: 1.2, // Slightly zoomed out for global clarity
+        repelForce: 0.7, // More spacing for global view
+        centerForce: 0.5, // Keep global graph focused
+        linkDistance: 50, // Spread nodes further apart
+        fontSize: 1, // Larger labels for global view
+        opacityScale: 0.8, // Labels fade out more slowly
+        removeTags: [], // No tags removed
+        showTags: true, // Show tags in global graph
+        enableRadial: true, // Constrain global graph to a radial layout
+      },    
     }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
