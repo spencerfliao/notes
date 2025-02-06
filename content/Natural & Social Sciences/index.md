@@ -1,6 +1,7 @@
 ---
 title: Natural & Social Sciences
 ---
+
 ## Life Science
 
 **Featured Ideas**
