@@ -5,13 +5,7 @@ Subtitle: ""
 Cover: "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429288603l/25374689.jpg"
 Author: "William Porter"
 Year: "2015"
-Shelf: "personal"
+Field: "Personal Development"
+Subfield: ""
 Status: "Want to Read"
 ---
-- Heart rate ↑ without activity = RedBloodCell lifespan ↑ & carry less O2
-- Alcohol makes the body wrongfully thinks it's water-full & eject reserve
-- Drugs amplify activity or deaden inhibition ≠ "true self"
-- Intoxication of body ↑ when maintaining mental effect
-- **Addiction forms when intake relieves withdrawal caused by the drug itself**
-- Tolerance builds bc work under influence ↑ & counter measures ↑
-- The brain is not passive but reactive to what we put into it
