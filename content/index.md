@@ -13,6 +13,8 @@ Learn more about me and this site at [[About]].
 * idea3
 
 **Featured Books**
+[[The Inner Game of Tennis]]
+[[Quotes format test]]
 
 ## [[Self-help/Personal Development/index.md|Personal Development]]
 
