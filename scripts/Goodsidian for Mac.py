@@ -132,7 +132,7 @@ Status: "{status}"
         # Append preserved content
         if preserved_content:
             content += f"\n{preserved_content}\n"
-            print(f"Kept: {short_title}")
+            print(f"Kept existing content of: {short_title}")
 
         # Write the updated content back to the note
         with open(filename, "w", encoding="utf-8") as f:

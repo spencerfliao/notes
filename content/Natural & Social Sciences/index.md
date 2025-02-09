@@ -15,6 +15,7 @@ title: Natural & Social Sciences
 | <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430105543l/19013971.jpg" width="100"/> | [[The Extended Phenotype]] | Richard Dawkins | 1982 |
 | <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328826673l/5510571.jpg" width="100"/> | [[Wetware]] | Dennis Bray | 2009 |
 | <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327941595l/64582.jpg" width="100"/> | [[Chaos]] | James Gleick | 1987 |
+
 ## Human Science
 
 **Featured Ideas**
@@ -51,6 +52,7 @@ title: Natural & Social Sciences
 [[Behave]]
 [[Chaos]]
 [[Death by Black Hole]]
+[[Determined]]
 [[Enlightenment Now]]
 [[Evolution 2e & Study Guide]]
 [[Evolutionary Psychology]]
@@ -63,7 +65,6 @@ title: Natural & Social Sciences
 [[Making Sense]]
 [[Memory]]
 [[Monkeyluv]]
-[[Natural & Social Sciences/index.md]]
 [[On Human Nature]]
 [[Parasite Rex]]
 [[She Has Her Mother's Laugh]]

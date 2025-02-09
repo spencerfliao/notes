@@ -12,23 +12,15 @@ Status: "Want to Read"
 
 ## Select Quotes
 
-> Rather than thinking, I’m the only one, we start thinking, I can’t believe it! You too? I’m normal? I thought it was just me! Once we start to see the big picture, we are better able to reality-check our shame triggers and the messages and expectations that we’re never good enough. – Page 104
-> 
-> > This is a note for testing and I want to say that I’ve got nothing else to say
-
 > when you read a book, you walk away with certain takeaways that are thematically linked. In most books, these takeaways don’t occur sequentially. An alternative index is based on ideas that are important to you—not just keywords—so a personalized index allows you to find and document the patterns that create personal meaning and understanding. – Page 12
->
-> > This is a note for test in I’ve got nothing else to say
 
 > Beautiful language (borrowed this one from Maria): Don’t understand—need to learn more: FD (stands for family dinner—something I want to discuss as a family): Had no idea: More books to read: Organizational culture change: Quotes: RHR (this stands for rabbit hole research—it’s my way of saying I want to look at original source material): Share with Steve: SO HARD: – Page 12
-> 
-> > This is a note for testing and I want to say that I’ve got nothing else to say that I’ve got nothing else to that I’ve got nothing else to
 
 > When you’re done, you have new information and a blueprint of how to integrate it into your life. – Page 13
 
+> brenebrown.com/ wholeheartedinventory. – Page 13
+
 > The greatest casualty of trauma—the thing that trauma often takes away from us—is the emotional, and sometimes even physical, safety that is necessary for us to be vulnerable. I’ve seen this in my work with the military, veterans, and survivors. And, in addition to the trauma of violence, neglect and poverty are trauma. Dehumanization—the core of racism, sexism, homophobia, transphobia, xenophobia, and all systemic forms of oppression and/ or bias—is a form of daily trauma. – Page 14
-> 
-> >This is a note for testing and I want to say that I’ve got nothing else to
 
 > How much we know and understand ourselves is critically important, but there is something that is even more essential to living a wholehearted life: loving ourselves. Knowledge is important, but only if we’re being kind and gentle with ourselves as we work to discover who we are. – Page 20
 
@@ -38,17 +30,11 @@ Status: "Want to Read"
 
 > “If you need to refuel and losing yourself online is fun and relaxing, then do it. If not, do something deliberately relaxing. Find something inspiring to do rather than something soul-sucking. Then, last but not least, get up and do it!” I closed my laptop, said a little prayer to remind myself to be self-compassionate, and watched a movie on Netflix that I’d been dying to see. It was exactly what I needed. It wasn’t the old Dig Deep—the pushing through. I didn’t force myself to start working or to do something productive. Rather, I prayerfully, intentionally, and thoughtfully did something restorative. – Page 29
 
-> Rather than thinking, I’m the only one, we start thinking, I can’t believe it! You too? I’m normal? I thought it was just me! Once we start to see the big picture, we are better able to reality-check our shame triggers and the messages and expectations that we’re never good enough. – Page 104
-> > This is a note for testing and I want to say that I’ve got nothing else to say
-
 > Trying to co-opt or win over someone like that guy is always a mistake, because it means trading in your authenticity for approval. You stop believing in your worthiness and start hustling for it. – Page 34
 
 > When the shame winds are whipping all around me, it’s almost impossible to hold on to any perspective or to recall anything good about myself. I went right into the bad self-talk of God, I’m such an idiot. Why did I do that? – Page 34
 
 > Shame hates it when we reach out and tell our story. It hates having words wrapped around it—it can’t survive being shared. Shame loves secrecy. The most dangerous thing to do after a shaming experience is hide or bury our story. – Page 35
-
-> Rather than thinking, I’m the only one, we start thinking, I can’t believe it! You too? I’m normal? I thought it was just me! Once we start to see the big picture, we are better able to reality-check our shame triggers and the messages and expectations that we’re never good enough. – Page 104
->>This is a note for testing and I want to say that I’ve got nothing else to say
 
 > We definitely want to avoid the following: – Page 35
 
@@ -57,9 +43,6 @@ Status: "Want to Read"
 > Heroics is often about putting our life on the line. Ordinary courage is about putting our vulnerability on the line. – Page 40
 
 > We see it when people reach out for help, like I did with Ashley. I see it in my classroom when a student raises their hand and says, “I’m completely lost. I have no idea what you’re talking about.” – Page 40
-
-> Rather than thinking, I’m the only one, we start thinking, I can’t believe it! You too? I’m normal? I thought it was just me! Once we start to see the big picture, we are better able to reality-check our shame triggers and the messages and expectations that we’re never good enough. – Page 104
-> > This is a note for testing and I want to say that I’ve got nothing else to say
 
 > Compassion is not a relationship between the healer and the wounded. It’s a relationship between equals. – Page 44
 
@@ -176,5 +159,4 @@ Status: "Want to Read"
 > Shame works like the zoom lens on a camera. When we are feeling shame, the camera is zoomed in tight and all we see is our flawed selves, alone and struggling. – Page 103
 
 > Rather than thinking, I’m the only one, we start thinking, I can’t believe it! You too? I’m normal? I thought it was just me! Once we start to see the big picture, we are better able to reality-check our shame triggers and the messages and expectations that we’re never good enough. – Page 104
-> 
-> > This is a note for testing and I want to say that I’ve got nothing else to say – Page 104
+> > ==This is a note for testing and I want to say that I’ve got nothing else to say==

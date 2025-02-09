@@ -14,7 +14,7 @@ Learn more about me and this site at [[About]].
 
 **Featured Books**
 [[The Inner Game of Tennis]]
-[[Quotes format test]]
+[[Format Ref]]
 
 ## [[Self-help/Personal Development/index.md|Personal Development]]
 
