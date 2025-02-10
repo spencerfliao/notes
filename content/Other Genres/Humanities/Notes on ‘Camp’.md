@@ -7,5 +7,5 @@ Author: "Susan Sontag"
 Year: "1964"
 Field: "Humanities"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---

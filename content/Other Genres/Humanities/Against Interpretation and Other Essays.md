@@ -10,7 +10,12 @@ Subfield: ""
 Status: "Read"
 ---
 
+
 ## Select Quotes
+
+### Part I
+
+#### Against Interpretation
 
 > It is only shallow people who do not judge by appearances. The mystery of the world is the visible, not the invisible. OSCAR WILDE, in a letter – Page 3
 
@@ -54,6 +59,8 @@ Status: "Read"
 
 > The aim of all commentary on art now should be to make works of art—and, by analogy, our own experience—more, rather than less, real to us. The function of criticism should be to show how it is what it is, even that it is what it is, rather than to show what it means. – Page 14
 
+#### On Style
+
 > In fact, to talk about the style of a particular novel or poem at all as a “style,” without implying, whether one wishes to or not, that style is merely decorative, accessory, is extremely hard. – Page 16
 
 > Contemporary writers and other artists with a style that is intricate, hermetic, demanding—not to speak of “beautiful”—get their ration of unstinting praise. Still, it is clear that such a style is often felt to be a form of insincerity: evidence of the artist’s intrusion upon his materials, which should be allowed to deliver themselves in a pure state. – Page 16
@@ -92,6 +99,10 @@ Status: "Read"
 
 > Usually critics who want to praise a work of art feel compelled to demonstrate that each part is justified, that it could not be other than it is. And every artist, when it comes to his own work, remembering the role of chance, fatigue, external distractions, knows what the critic says to be a lie, knows that it could well have been otherwise. The sense of inevitability that a great work of art projects is not made up of the inevitability or necessity of its parts, but of the whole. – Page 33
 
+### Part V
+
+#### Notes On “Camp”
+
 > For no one who wholeheartedly shares in a given sensibility can analyze it; he can only, whatever his intention, exhibit it. To name a sensibility, to draw its contours and to recount its history, requires a deep sympathy modified by revulsion. – Page 276
 
 > To patronize the faculty of taste is to patronize oneself. For taste governs every free—as opposed to rote—human response. Nothing is more decisive. – Page 276
@@ -110,6 +121,8 @@ Status: "Read"
 
 > vis-à-vis – Page 290
 
+#### One Culture And The New Sensibility
+
 > in response to this new function (more felt than clearly articulated), artists have had to become self-conscious aestheticians: continually challenging their means, their materials and methods. Often, the conquest and exploitation of new materials and methods drawn from the world of “non-art”—for example, from industrial technology, from commercial processes and imagery, from purely private and subjective fantasies and dreams—seems to be the principal effort of many artists. – Page 296
 
 > The tendency, he remarks, is to upgrade the old environment into art form (thus Nature became a vessel of aesthetic and spiritual values in the new industrial environment) “while the new conditions are regarded as corrupt and degrading.” Typically, it is only certain artists in any given era who “have the resources and temerity to live in immediate contact with the environment of their age … That is why they may seem to be ‘ahead of their time’… More timid people prefer to accept the … previous environment’s values as the continuing reality of their time. – Page 299
@@ -120,8 +133,16 @@ Status: "Read"
 
 > It does not mean the renunciation of all standards: there is plenty of stupid popular music, as well as inferior and pretentious “avant-garde” paintings, films, and music. The point is that there are new standards, new standards of beauty and style and taste. The new sensibility is defiantly pluralistic; it is dedicated both to an excruciating seriousness and to fun and wit and nostalgia. It is also extremely history-conscious; and the voracity of its enthusiasms (and of the supercession of these enthusiasms) is very high-speed and hectic. From the vantage point of this new sensibility, the beauty of a machine or of the solution to a mathematical problem, of a painting by Jasper Johns, of a film by Jean-Luc Godard, and of the personalities and music of the Beatles is equally accessible. – Page 303
 
+### Afterword: Thirty Years Later …
+
+#### Page 308 · Location 4948
+
 > The radical change I’d made in my own life, a change embedded in my moving to New York, was that I was not going to settle for being an academic: I would pitch my tent outside the seductive, stony safety of the university world. – Page 308
 
+#### Page 311 · Location 4994
+
 > The two poles of distinctively modern sentiment are nostalgia and utopia. Perhaps the most interesting characteristic of the time now labeled the Sixties was that there was so little nostalgia. In that sense, it was indeed a utopian moment. – Page 311
+
+#### Page 312 · Location 5019
 
 > Now the very idea of the serious (and of the honorable) seems quaint, “unrealistic,” to most people, and when allowed—as an arbitrary decision of temperament—probably unhealthy, too. – Page 312

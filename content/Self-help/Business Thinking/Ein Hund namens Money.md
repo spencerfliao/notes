@@ -7,5 +7,5 @@ Author: "Bodo Schäfer"
 Year: "1999"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---

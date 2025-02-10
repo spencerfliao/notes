@@ -7,24 +7,45 @@ Author: "Jared Diamond"
 Year: "1997"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Fates of Human Societies
 
+
 ## Select Quotes
+
+### Preface To The Paperback Edition: Why Is World History Like An Onion?
+
+#### Page 8 · Location 106
 
 > All those ingredients are just proximate factors, not ultimate explanations. Why didn’t capitalism flourish in Native Mexico, mercantilism in sub-Saharan Africa, scientific inquiry in China, advanced technology in Native North America, and nasty germs in Aboriginal Australia? If one responds by invoking idiosyncratic cultural factors—e.g., scientific inquiry supposedly stifled in China by Confucianism but stimulated in western Eurasia by Greek or Judaeo-Christian traditions—then one is continuing to ignore the need for ultimate explanations: why didn’t traditions like Confucianism and the Judaeo-Christian ethic instead develop in western Eurasia and China, respectively? In addition, one is ignoring the fact that Confucian China was technologically more advanced than western Eurasia until about A.D. 1400. – Page 8
 
+### Prologue Yali’S Question
+
+#### Page 15 · Location 200
+
 > One objection goes as follows. If we succeed in explaining how some people came to dominate other people, may this not seem to justify the domination? Doesn’t it seem to say that the outcome was inevitable, and that it would therefore be futile to try to change the outcome today? This objection rests on a common tendency to confuse an explanation of causes with a justification or acceptance of results. What use one makes of a historical explanation is a question separate from the explanation itself. Understanding is more often used to try to alter an outcome than to repeat or perpetuate it. That’s why psychologists try to understand the minds of murderers and rapists, why social historians try to understand genocide, and why physicians try to understand the causes of human disease. Those investigators do not seek to justify murder, rape, genocide, and illness. Instead, they seek to use their understanding of a chain of causes to interrupt the chain. – Page 15
+
+#### Page 16 · Location 212
 
 > Far from glorifying peoples of western European origin, we shall see that most basic elements of their civilization were developed by other peoples living elsewhere and were then imported to western Europe. – Page 16
 
+#### Page 17 · Location 220
+
 > My motive for investigating these geographic differences in human societies is not to celebrate one type of society over another but simply to understand what happened in history. – Page 17
+
+#### Page 26 · Location 351
 
 > Until we have some convincing, detailed, agreed-upon explanation for the broad pattern of history, most people will continue to suspect that the racist biological explanation is correct after all. – Page 26
 
+#### Page 27 · Location 354
+
 > For this book, here is such a sentence: “History followed different courses for different peoples because of differences among peoples’ environments, not because of biological differences among peoples themselves.” – Page 27
+
+### Part One: From Eden To Cajamarca
+
+#### Chapter 1. Up To The Starting Line
 
 > Human history, as something separate from the history of animals, began there about 7 million years ago (estimates range from 5 to 9 million years ago). – Page 38
 
@@ -42,15 +63,31 @@ Status: "Want to Read"
 
 > One might at first be surprised that Clovis descendants could reach Patagonia, lying 8,000 miles south of the U.S.-Canada border, in less than a thousand years. However, that translates into an average expansion of only 8 miles per year, a trivial feat for a hunter-gatherer likely to cover that distance even within a single day’s normal foraging. – Page 50
 
+#### Chapter 3. Collision At Cajamarca
+
 > In short, literacy made the Spaniards heirs to a huge body of knowledge about human behavior and history. By contrast, not only did Atahuallpa have no conception of the Spaniards themselves, and no personal experience of any other invaders from overseas, but he also had not even heard (or read) of similar threats to anyone else, anywhere else, anytime previously in history. – Page 97
+
+### Part Two: The Rise And Spread Of Food Production
+
+#### Chapter 4. Farmer Power
 
 > Most species are useless to us as food, for one or more of the following reasons: they are indigestible (like bark), poisonous (monarch butterflies and death-cap mushrooms), low in nutritional value (jellyfish), tedious to prepare (very small nuts), difficult to gather (larvae of most insects), or dangerous to hunt (rhinoceroses). – Page 102
 
+#### Chapter 5. History’S Haves And Have-Nots
+
 > Table 5.1 summarizes, for these and other areas of local domestication, some of the best-known crops and animals and the earliest known dates of domestication. – Page 119
+
+### Part Three: From Food To Guns, Germs, And Steel
+
+#### Chapter 13. Necessity’S Mother
 
 > That rejection and China’s abandonment of oceangoing ships (as well as of mechanical clocks and water-driven spinning machines) are well-known historical instances of technological reversals in isolated or semi-isolated societies. – Page 329
 
 > These examples, at first so bizarre to us, illustrate well the roles of geography and of diffusion in the history of technology. Without diffusion, fewer technologies are acquired, and more existing technologies are lost. – Page 329
+
+### Part Four: Around The World In Six Chapters
+
+#### Chapter 15. Yali’S People
 
 > Australia stands out from all the other continents: the differences between Eurasia, Africa, North America, and South America fade into insignificance compared with the differences between Australia and any of those other landmasses. Australia is by far the driest, smallest, flattest, most infertile, climatically most unpredictable, and biologically most impoverished continent. It was the last continent to be occupied by Europeans. – Page 376
 
@@ -59,6 +96,8 @@ Status: "Want to Read"
 > aphrodisiac – Page 400
 
 > White English colonists did not create a literate, food-producing, industrial democracy in Australia. Instead, they imported all of the elements from outside Australia: the livestock, all of the crops (except macadamia nuts), the metallurgical knowledge, the steam engines, the guns, the alphabet, the political institutions, even the germs. All these were the end products of 10,000 years of development in Eurasian environments. – Page 409
+
+#### Chapter 16. How China Became Chinese
 
 > While a coarse racial classification of world peoples lumps all Chinese people as so-called Mongoloids, that category conceals much more variation than the differences between Swedes, Italians, and Irish within Europe. In particular, North and South Chinese are genetically and physically rather different: North Chinese are most similar to Tibetans and Nepalese, while South Chinese are similar to Vietnamese and Filipinos. – Page 411
 
@@ -70,19 +109,27 @@ Status: "Want to Read"
 
 > Instead, China’s long east–west rivers (the Yellow River in the north, the Yangtze River in the south) facilitated diffusion of crops and technology between the coast and inland, while its broad east–west expanse and relatively gentle terrain, which eventually permitted those two river systems to be joined by canals, facilitated north–south exchanges. – Page 421
 
+#### Chapter 17. Speedboat To Polynesia
+
 > The concentration of three out of the four Austronesian subfamilies on Taiwan suggests that, within the present Austronesian realm, Taiwan is the homeland where Austronesian languages have been spoken for the most millennia and have consequently had the longest time in which to diverge. All other Austronesian languages, from those on Madagascar to those on Easter Island, would then stem from a population expansion out of Taiwan. – Page 432
 
 > The invention of the double-outrigger sailing canoe may have been the technological breakthrough that triggered the Austronesian expansion from the Chinese mainland. – Page 436
 
 > Again and again, people with access to the prerequisites for food production, and with a location favoring diffusion of technology from elsewhere, replaced peoples lacking these advantages. – Page 450
 
+#### Chapter 18. Hemispheres Colliding
+
 > In those parts of the Americas that did support Native American agriculture, it was constrained by five major disadvantages vis-à-vis Eurasian agriculture: widespread dependence on protein-poor corn, instead of Eurasia’s diverse and protein-rich cereals; hand planting of individual seeds, instead of broadcast sowing; tilling by hand instead of plowing by animals, which enables one person to cultivate a much larger area, and which also permits cultivation of some fertile but tough soils and sods that are difficult to till by hand (such as those of the North American Great Plains); lack of animal manuring to increase soil fertility; and just human muscle power, instead of animal power, for agricultural tasks such as threshing, grinding, and irrigation. – Page 455
+
+#### Chapter 19. How Africa Became Black
 
 > Africa is the only continent to extend from the northern to the southern temperate zone, – Page 482
 
 > The San were similarly shot, displaced, and infected, but a dwindling small number have preserved their distinctness in Namibian desert areas unsuitable for agriculture, as depicted some years ago in the widely seen film The Gods Must Be Crazy. – Page 486
 
 > This strikes me as the single most astonishing fact of human geography for the entire world. – Page 487
+
+#### Chapter 20. Who Are The Japanese?
 
 > Excavation of the tombs is forbidden because it would constitute desecration—and it might also shed undesired light on where Japan’s imperial family really came from (e.g., perhaps Korea?). – Page 519
 
@@ -98,44 +145,90 @@ Status: "Want to Read"
 
 > Like Arabs and Jews, Koreans and Japanese are peoples joined by blood, yet locked in traditional enmity. But enmity is mutually destructive, in East Asia and in the Middle East. Reluctant as Japanese and Koreans are to admit it, they are like twin brothers who shared their formative years. – Page 546
 
+### Epilogue: The Future Of Human History As A Science
+
+#### Page 549 · Location 6997
+
 > In the case of technological innovations and political institutions as well, most societies acquire much more from other societies than they invent themselves. – Page 549
+
+#### Page 551 · Location 7023
 
 > But mention of these environmental differences invites among historians the label “geographic determinism,” which raises hackles. The label seems to have unpleasant connotations, such as that human creativity counts for nothing, or that we humans are passive robots helplessly programmed by climate, fauna, and flora. Of course these fears are misplaced. Without human inventiveness, all of us today would still be cutting our meat with stone tools and eating it raw, like our ancestors of a million years ago. All human societies contain inventive people. It’s just that some environments provide more starting materials, and more favorable conditions for utilizing inventions, than do other environments. – Page 551
 
+#### Page 555 · Location 7069
+
 > The major factor behind these shifts becomes obvious as soon as one compares the modern Fertile Crescent with ancient descriptions of it. – Page 555
+
+#### Page 555 · Location 7075
 
 > Its woodlands were cleared for agriculture, or cut to obtain construction timber, or burned as firewood or for manufacturing plaster. Because of low rainfall and hence low primary productivity (proportional to rainfall), regrowth of vegetation could not keep pace with its destruction, especially in the presence of overgrazing by abundant goats. – Page 555
 
+#### Page 557 · Location 7106
+
 > But in China there was a difference, because the entire region was politically unified. One decision stopped fleets over the whole of China. – Page 557
+
+#### Page 558 · Location 7112
 
 > Had Europe been united under any one of the first three rulers, its colonization of the Americas might have been stillborn. In fact, precisely because Europe was fragmented, Columbus succeeded on his fifth try in persuading one of Europe’s hundreds of princes to sponsor him. Once Spain had thus launched the European colonization of America, other European states saw the wealth flowing into Spain, and six more joined in colonizing America. The story was the same with Europe’s cannon, electric lighting, printing, small firearms, and innumerable other innovations: each was at first neglected or opposed in some parts of Europe for idiosyncratic reasons, but once adopted in one area, it eventually spread to the rest of Europe. These consequences of Europe’s disunity stand in sharp contrast to those of China’s unity. – Page 558
 
+#### Page 559 · Location 7132
+
 > Europe has a highly indented coastline, with five large peninsulas that approach islands in their isolation, and all of which evolved independent languages, ethnic groups, and governments: Greece, Italy, Iberia, Denmark, and Norway / Sweden. China’s coastline is much smoother, and only the nearby Korean Peninsula attained separate importance. – Page 559
+
+#### Page 561 · Location 7155
 
 > If one state did not pursue some particular innovation, another did, forcing neighboring states to do likewise or else be conquered or left economically behind. – Page 561
 
+#### Page 568 · Location 7235
+
 > For the purposes of this book, however, they are scarcely relevant, because even the most ardent proponent of the Great Man theory would find it difficult to interpret history’s broadest pattern in terms of a few Great Men. Perhaps Alexander the Great did nudge the course of western Eurasia’s already literate, food-producing, iron-equipped states, but he had nothing to do with the fact that western Eurasia already supported literate, food-producing, iron-equipped states at a time when Australia still supported only nonliterate hunter-gatherer tribes lacking metal tools. – Page 568
+
+#### Page 569 · Location 7249
 
 > People’s image of science is unfortunately often based on physics and a few other fields with similar methodologies. Scientists in those fields tend to be ignorantly disdainful of fields to which those methodologies are inappropriate and which must therefore seek other methodologies—such as my own research areas of ecology and evolutionary biology. But recall that the word “science” means “knowledge” (from the Latin scire, “to know,” and scientia, “knowledge”), to be obtained by whatever methods are most appropriate to the particular field. – Page 569
 
+#### Page 569 · Location 7254
+
 > Historical sciences in the broad sense (including astronomy and the like) share many features that set them apart from nonhistorical sciences such as physics, chemistry, and molecular biology. I would single out four: methodology, causation, prediction, and complexity. – Page 569
+
+#### Page 570 · Location 7256
 
 > In physics the chief method for gaining knowledge is the laboratory experiment, – Page 570
 
+#### Page 570 · Location 7262
+
 > Instead, one must gain knowledge in these historical sciences by other means, such as observation, comparison, and so-called natural experiments – Page 570
+
+#### Page 570 · Location 7263
 
 > Historical sciences are concerned with chains of proximate and ultimate causes. In most of physics and chemistry the concepts of “ultimate cause,” “purpose,” and “function” are meaningless, yet they are essential to understanding living systems in general and human activities in particular. – Page 570
 
+#### Page 571 · Location 7272
+
 > Still another difference between historical and nonhistorical sciences involves prediction. In chemistry and physics the acid test of one’s understanding of a system is whether one can successfully predict its future behavior. Again, physicists tend to look down on evolutionary biology and history, because those fields appear to fail this test. In historical sciences, one can provide a posteriori explanations (e.g., why an asteroid impact on Earth 66 million years ago may have driven dinosaurs but not many other species to extinction), but a priori predictions are more difficult (we would be uncertain which species would be driven to extinction if we did not have the actual past event to guide us). However, historians and historical scientists do make and test predictions about what future discoveries of data will show us about past events. – Page 571
+
+#### Page 572 · Location 7282
 
 > Although most biologists agree that biological systems are in the end wholly determined by their physical properties and obey the laws of quantum mechanics, the systems’ complexity means, for practical purposes, that that deterministic causation does not translate into predictability. – Page 572
 
+#### Page 573 · Location 7301
+
 > Little Ice Age. – Page 573
+
+#### Page 573 · Location 7302
 
 > THUS, THE DIFFICULTIES historians face in establishing cause-and-effect relations in the history of human societies are broadly similar to the difficulties facing astronomers, climatologists, ecologists, evolutionary biologists, geologists, and paleontologists. To varying degrees, each of these fields is plagued by the impossibility of performing replicated, controlled experimental interventions, the complexity arising from enormous numbers of variables, the resulting uniqueness of each system, the consequent impossibility of formulating universal laws, and the difficulties of predicting emergent properties and future behavior. Prediction in history, as in other historical sciences, is most feasible on large spatial scales and over long times, when the unique features of millions of small-scale brief events become averaged out. – Page 573
 
+#### Page 574 · Location 7313
+
 > While neither astronomers studying galaxy formation nor human historians can manipulate their systems in controlled laboratory experiments, they both can take advantage of natural experiments, by comparing systems differing in the presence or absence (or in the strong or weak effect) of some putative causative factor. For example, epidemiologists, forbidden to feed large amounts of salt to people experimentally, have still been able to identify effects of high salt intake by comparing groups of humans who already differ greatly in their salt intake; and cultural anthropologists, unable to provide human groups experimentally with varying resource abundances for many centuries, still study long-term effects of resource abundance on human societies by comparing recent Polynesian populations living on islands differing naturally in resource abundance. – Page 574
 
+### 2017 Afterword: Rich And Poor Countries In Light Of Guns, Germs, And Steel
+
+#### Page 581 · Location 7392
+
 > But many economists then go further, by falling into one of the commonest pitfalls awaiting anyone who attempts to explain any complex system: taking a single factor that does explain part of the results, and claiming that it explains all of the results. – Page 581
+
+#### Page 591 · Location 7526
 
 > Good institutions don’t fall from Heaven, independently of geography, onto some countries that happened to have good luck. Instead, good institutions have their own history, which has depended partly on agriculture and its consequences that included the development of complex institutions such as state governments and markets. – Page 591

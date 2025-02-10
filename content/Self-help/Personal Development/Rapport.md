@@ -7,7 +7,7 @@ Author: "Laurence Alison"
 Year: "None"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Four Ways to Read People

@@ -7,5 +7,5 @@ Author: "Richard Dawkins"
 Year: "1976"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---

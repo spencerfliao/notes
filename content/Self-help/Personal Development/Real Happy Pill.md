@@ -7,7 +7,7 @@ Author: "Anders Hansen"
 Year: "2016"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Power Up Your Brain by Moving Your Body

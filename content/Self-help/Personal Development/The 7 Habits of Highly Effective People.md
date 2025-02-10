@@ -7,7 +7,7 @@ Author: "Stephen R. Covey"
 Year: "1989"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Powerful Lessons in Personal Change

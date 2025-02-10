@@ -7,7 +7,7 @@ Author: "Kam Knight"
 Year: "2018"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Learn to Read a 200+ Page Book in 1 Hour Mental Performance

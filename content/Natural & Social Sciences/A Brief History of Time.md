@@ -7,5 +7,5 @@ Author: "Stephen Hawking"
 Year: "1988"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---

@@ -7,7 +7,7 @@ Author: "Ray Dalio"
 Year: "2017"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Life and Work

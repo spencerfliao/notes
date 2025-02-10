@@ -7,7 +7,7 @@ Author: "Kelly McGonigal"
 Year: "2011"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — How Self-Control Works, Why It Matters, and What You Can Do to Get More of It

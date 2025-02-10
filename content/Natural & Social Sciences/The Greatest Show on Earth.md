@@ -7,7 +7,7 @@ Author: "Richard Dawkins"
 Year: "2009"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Evidence for Evolution

@@ -7,7 +7,7 @@ Author: "Jane McGonigal"
 Year: "2010"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Why Games Make Us Better and How They Can Change the World

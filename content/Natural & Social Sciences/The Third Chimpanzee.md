@@ -7,7 +7,7 @@ Author: "Jared Diamond"
 Year: "1991"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Evolution and Future of the Human Animal

@@ -7,7 +7,7 @@ Author: "Matthew Walker"
 Year: "2017"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Unlocking the Power of Sleep and Dreams

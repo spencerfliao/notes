@@ -7,7 +7,7 @@ Author: "W. Timothy Gallwey"
 Year: "1974"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Classic Guide to the Mental Side of Peak Performance

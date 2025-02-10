@@ -7,7 +7,7 @@ Author: "Robert B. Cialdini"
 Year: "1984"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Psychology of Persuasion

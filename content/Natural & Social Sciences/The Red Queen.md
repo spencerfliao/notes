@@ -7,14 +7,23 @@ Author: "Matt Ridley"
 Year: "1993"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Sex and the Evolution of Human Nature
 
+
 ## Select Quotes
 
+### Preface
+
+#### Location 65
+
 > Science writers become accustomed to the feeling that they are intellectual plagiarists, raiding the minds of those who are too busy to tell the world about their discoveries. There are scores of people who could have written each chapter of my book better than I. My consolation is that few could have written all the chapters. My role has been to connect the patches of others’ research together into a quilt. But I remain deeply indebted and grateful to all those whose minds I raided.
+
+### The Red Queen
+
+#### Chapter One: Human Nature
 
 > There is, it is safe to say, such a thing as the typical human stomach and it is different from a non-human stomach. It is the assumption of this book that there is also, in the same way, a typical human nature.
 
@@ -41,6 +50,8 @@ Status: "Want to Read"
 
 > Cars move through the congested streets of London no faster than horse-drawn carriages did a century ago. Computers have no effect on productivity because people learn to complicate and repeat tasks that have been made easier.
 
+#### Chapter Two: The Enigma
+
 > Selection within the species is always going to be more important than selection between the species.
 
 > Throughout the world of animals, individuals are fighting individuals, whether of the same species or of another.
@@ -48,6 +59,8 @@ Status: "Want to Read"
 > But this argument confuses consequence with cause. Its advantages are far too remote; they will appear after a few generations, by which time any asexual competitor will long ago have outnumbered its sexual rivals. Besides, if sex is good at throwing together good combinations of genes it will be even better at breaking them up.
 
 > Thanks to sex, the moment the fabled synergy is found, it is lost again. Sex disobeys that great injunction: ‘If it ain’t broke, don’t fix it.’ Sex increases randomness. 34
+
+#### Chapter Three: The Power Of Parasites
 
 > Biologists have persistently overestimated the importance of physical causes of premature death rather than biological ones.
 
@@ -67,6 +80,8 @@ Status: "Want to Read"
 
 > Women add sperm to their eggs because if they did not, the resulting babies would be identically vulnerable to the first parasite that picked their genetic locks.
 
+#### Chapter Four: Genetic Mutiny And Gender
+
 > The line between a rogue gene and an infectious virus is a blurred one.
 
 > Two genders have been invented, killer which provides the organelles, and victim which does not. Laurence Hurst of Oxford uses these arguments to predict that two genders are a consequence of sex-by-fusion. That is, where sex consists of the fusing of two cells, as in Chlamydomonas and most animals and plants, you find two genders. Where it consists of conjugation–the formation of a pipe between the two cells and the transfer of a nucleus of genes down the pipe–and there is no fusion of cells, then there is no conflict and no need for killer and victim genders.
@@ -85,6 +100,8 @@ Status: "Want to Read"
 
 > Women generally leave home when they marry.
 
+#### Chapter Five: The Peacock’S Tale
+
 > Females choose; their choosiness is inherited; they prefer exaggerated ornaments; exaggerated ornaments are a burden to males. That much is now uncontroversial.
 
 > Sir Ronald Fisher had suggested then that females need no better reason for preferring long tails than that other females also prefer long tails. At first, such logic sounds suspiciously circular, but that is its beauty.
@@ -96,6 +113,8 @@ Status: "Want to Read"
 > Thus, the most disease-resistant male might often turn out to be the descendant of the least resistant one in a previous generation. The lek paradox is thus solved at a stroke. By choosing the healthiest male in each generation, females will be picking a different set of genes each time and never run out of genetic variety to select from.
 
 > It is almost impossible to see how females could avoid the Fisher effect as the male’s ornament gets more exaggerated, generation by generation: the female who is most discriminating picks the most sexy male and so has the most sexy sons, the one who has the most sexy sons has the most granddaughters, so females get more and more discriminating, more and more difficult to seduce or hypnotize.
+
+#### Chapter Six: Polygamy And The Nature Of Men
 
 > The principles I have been trying to establish are better illustrated by aphids, dandelions, slime moulds, fruit flies, peacocks and elephant seals than they are by one peculiar ape. But the peculiar ape is not immune to those principles.
 
@@ -125,6 +144,8 @@ Status: "Want to Read"
 
 > However, if reproductive success was one of the perks of despotic power, one peculiar feature stands out. All six of the early emperors were monogamously married.
 
+#### Chapter Seven: Monogamy And The Nature Of Women
+
 > Women are and always have been far less interested in polygamy than men. But that does not mean they are not sexual opportunists. The eager-male/ coy-female theory has a great deal of difficulty answering a simple question. Why are women ever unfaithful?
 
 > Female promiscuity in monkeys and apes can be explained by the need to share paternity among many males to prevent infanticide.
@@ -151,6 +172,8 @@ Status: "Want to Read"
 > > ==Open relationships==
 
 > There has been no genetic change since we were hunter-gatherers, but deep in the mind of modern man is a simple male hunter-gatherer rule: strive to acquire power and use it to lure women who will bear heirs; strive to acquire wealth and use it to buy affairs with other men’s wives who will bear bastards. It began with a man who shared a piece of prized fish or honey with an attractive neighbour’s wife in exchange for a brief affair and continues with a pop star ushering a model into his Mercedes. From fish to Mercedes, the history is unbroken: via skins and beads, ploughs and cattle, swords and castles. Wealth and power are means to women; women are means to genetic eternity. Likewise, deep in the mind of a modern woman is the same basic hunter-gatherer calculator, too recently evolved to have changed much: strive to acquire a provider husband who will invest food and care in your children; strive to find a lover who can give those children first-class genes. Only if she is very lucky will they be the same man. It began with a woman who married the best unmarried hunter in the tribe and had an affair with the best married hunter, thus ensuring her children a rich supply of meat.
+
+#### Chapter Eight: Sexing The Mind
 
 > The first paragraph is banal; the second inflammatory.
 
@@ -183,6 +206,8 @@ Status: "Want to Read"
 > John Tooby and Leda Cosmides have put the challenge to cultural interpretations of this universal pattern even more baldly: The assertion that ‘culture’ explains human variation will be taken seriously when there are reports of women war parties raiding villages to capture men as husbands, or of parents cloistering their sons but not their daughters to protect their sons’ virtue, or when cultural distributions for preferences concerning physical attractiveness, earning power, relative age and so on show as many cultures with bias in one direction as in the other. 45
 
 > If we choose to redress the sexual differences between the minds of men and women through policy, we are going against nature, but no more than when we outlaw murder.
+
+#### Chapter Nine: The Uses Of Beauty
 
 > If the gay gene is in the mitochondria, then a conspiracy theory springs to the devious minds of Hurst and Haig. Perhaps the gay gene is like those ‘male killer’ genes found in many insects. It effectively sterilizes males, causing the diversion of inherited wealth to female relatives. That would (until recently at least) have enhanced the breeding success of the descendants of those female relatives, which would have caused the gay gene to spread.
 
@@ -221,6 +246,8 @@ Status: "Want to Read"
 > People end up married to their equals in attractiveness: the home-coming queen marries the football hero; the nerd marries the girl in glasses; the man with mediocre prospects marries the woman with mediocre looks. So pervasive is this habit that exceptions stand out a mile: ‘What on earth can she see in him?’
 
 > The game shows with uncomfortable realism how we measure our own relative desirability from others’ reactions to us. Repeated rejection causes us to lower our sights; an unbroken string of successful seductions encourages us to aim a little higher. But it is worth getting off the Red Queen’s treadmill before you drop.
+
+#### Chapter Ten: The Intellectual Chess Game
 
 > There was once a time when it was easy to define what made mankind different from (other) animals. Mankind had learning; animals had instincts. Mankind used tools and had consciousness, culture and self-awareness; animals did not. Gradually these differences have been blurred, or shown to be differences in degree rather than in kind. Snails learn. Finches use tools. Dolphins use language. Dogs are conscious. Orang-utans recognize themselves in mirrors. Japanese macaques pass on cultural tricks. Elephants mourn their dead.
 
@@ -263,5 +290,7 @@ Status: "Want to Read"
 > Remember it presupposes sexual choosiness by one or other sex. But what caused that choosiness? Presumably, the cause was the fact that men took part in parental care, which gave women an incentive to confine probable paternity to one man and gave men an incentive to enter into a long-term relationship so long as they could be certain of paternity. Why then did men take part in parental care? Because by doing so they could increase the chances of rearing a child more than by trying to seek new partners. The reason for this was that children, unusual for ape infants, took a long time to mature and men could help their wives during child-rearing by hunting meat for them. Why did they take a long time to mature? Because they had big heads! The argument is circular.
 
 > I began this book by asking why all human beings were so similar and yet so different, and suggesting that the answer lay in the unique alchemy of sex. An individual is unique because of the genetic variety that sexual reproduction generates in its perpetual chess tournament with disease. An individual is a member of a homogeneous species because of the incessant mixing of that variety in the pool of fellow human beings’ genes. And I end with one of the strangest of the consequences of sex: that the choosiness of human beings in picking their mates has driven the human mind into a history of frenzied expansion for no reason except that wit, virtuosity, inventiveness and individuality turn other people on. It is a somewhat less uplifting perspective upon the purpose of humanity than the religious one, but it is also rather liberating.
+
+#### Epilogue: The Self-Domesticated Ape
 
 > The western cultural revolution that calls itself political correctness will no doubt stifle inquiries it does not like, such as those into the mental differences between men and women. I sometimes feel that we are fated never to understand ourselves, because part of our nature is to turn every inquiry into an expression of our own nature: ambitious, illogical, manipulative and religious.

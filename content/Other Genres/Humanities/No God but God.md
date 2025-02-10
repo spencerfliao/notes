@@ -7,7 +7,7 @@ Author: "Reza Aslan"
 Year: "2005"
 Field: "Humanities"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Origins, Evolution and Future of Islam

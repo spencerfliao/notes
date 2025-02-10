@@ -7,7 +7,7 @@ Author: "Anthony Dunne"
 Year: "2013"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Design, Fiction, and Social Dreaming

@@ -7,7 +7,7 @@ Author: "Cathy Park Hong"
 Year: "2020"
 Field: "Biographies"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — An Asian American Reckoning

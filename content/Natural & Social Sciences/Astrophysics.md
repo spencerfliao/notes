@@ -7,15 +7,26 @@ Author: "James Binney"
 Year: "None"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — A Very Short Introduction
 
+
 ## Select Quotes
+
+### 1 Big Ideas
+
+#### For Ever And Ever
 
 > Astrophysics is the application of the laws of physics to everything that lies outside our planet. – Page 4
 
+### 3 Stars
+
+#### Star Formation
+
 > When an interstellar cloud suffers a runaway increase in its density, it does not form one star but a whole group of stars. – Page 23
+
+#### Exploding Stars
 
 > elements that lie beyond iron in the periodic table were formed in this way—thus the nuclei of bromine, silver, gold, iodine, lead, and uranium were all created in supernova explosions. – Page 38

@@ -7,7 +7,7 @@ Author: "Al Ries"
 Year: "1980"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Battle for Your Mind

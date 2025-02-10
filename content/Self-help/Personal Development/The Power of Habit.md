@@ -7,7 +7,7 @@ Author: "Charles Duhigg"
 Year: "2012"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Why We Do What We Do in Life and Business

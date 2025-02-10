@@ -7,7 +7,7 @@ Author: "Susan Cain"
 Year: "2012"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Power of Introverts in a World That Can't Stop Talking

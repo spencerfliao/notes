@@ -7,7 +7,7 @@ Author: "Hal Elrod"
 Year: "2012"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Not-So-Obvious Secret Guaranteed to Transform Your Life

@@ -7,5 +7,5 @@ Author: "Robert M. Sapolsky"
 Year: "1997"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---

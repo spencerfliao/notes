@@ -7,7 +7,7 @@ Author: "Ichiro Kishimi"
 Year: "2016"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — True Contentment Is In Your Power

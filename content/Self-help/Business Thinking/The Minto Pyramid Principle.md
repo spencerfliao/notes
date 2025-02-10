@@ -7,7 +7,7 @@ Author: "Barbara Minto"
 Year: "1987"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Logic in Writing, Thinking, & Problem Solving

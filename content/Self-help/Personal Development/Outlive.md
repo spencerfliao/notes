@@ -7,12 +7,17 @@ Author: "Peter Attia"
 Year: "2023"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Science & Art of Longevity
 
+
 ## Select Quotes
+
+### Part I
+
+#### Chapter 1: The Long Game: From Fast Death To Slow Death
 
 > As perverse as it sounds, the violence of the city was a “feature” of the training program. – Page 13
 
@@ -23,6 +28,8 @@ Status: "Want to Read"
 > None of our treatments for late-stage lung cancer has reduced mortality by nearly as much as the worldwide reduction in smoking that has occurred over the last two decades, thanks in part to widespread smoking bans. This simple preventive measure (not smoking) has saved more lives than any late-stage intervention that medicine has devised. – Page 18
 
 > We want to delay or prevent these conditions so that we can live longer without disease, rather than lingering with disease. – Page 19
+
+#### Chapter 2: Medicine 3.0: Rethinking Medicine For The Age Of Chronic Disease
 
 > What bothers me most about “First, do no harm,” though, is its implication that the best treatment option is always the one with the least immediate downside risk—and, very often, doing nothing at all. – Page 31
 
@@ -42,6 +49,8 @@ Status: "Want to Read"
 
 > Another, related issue is that longevity itself, and healthspan in particular, doesn’t really fit into the business model of our current healthcare system. There are few insurance reimbursement codes for most of the largely preventive interventions that I believe are necessary to extend lifespan and healthspan. Health insurance companies won’t pay a doctor very much to tell a patient to change the way he eats, or to monitor his blood glucose levels in order to help prevent him from developing type 2 diabetes. Yet insurance will pay for this same patient’s (very expensive) insulin after he has been diagnosed. Similarly, there’s no billing code for putting a patient on a comprehensive exercise program designed to maintain her muscle mass and sense of balance while building her resistance to injury. But if she falls and breaks her hip, then her surgery and physical therapy will be covered. Nearly all the money flows to treatment rather than prevention— – Page 43
 
+#### Chapter 3: Objective, Strategy, Tactics: A Road Map For Reading This Book
+
 > Because I am a math guy, I like to visualize lifespan and healthspan in terms of a mathematical function, as in figure 2 on the following page— – Page 49
 
 > “Tactics without strategy is the noise before defeat.” He was talking about war, but it applies here as well. To achieve our objectives, we first need to have a strategy: an overall approach, a conceptual scaffolding or mental model that is informed by science, is tailored to our goals, and gives us options. – Page 53
@@ -54,9 +63,15 @@ Status: "Want to Read"
 
 > The third and final category of deterioration, I believe, has to do with emotional health. Unlike the others, this one is largely independent of age; it can afflict outwardly healthy young people in their twenties, or it can creep up on you in middle age, as it did with me. Or it can descend later in life. Surveys show that happiness tends to reach its nadir in our forties (age forty-seven, to be exact), – Page 58
 
+### Part Ii
+
+#### Chapter 4: Centenarians: The Older You Get, The Healthier You Have Been
+
 > What’s even more surprising is that Perls’s group has also found that the supercentenarians and the “semisupercentenarians” (ages 105 to 109) actually tend to be in even better health than garden-variety hundred-year-olds. These are the super survivors, and at those advanced ages, lifespan and healthspan are pretty much the same. As Perls and his colleagues put it in a paper title, “The Older You Get, the Healthier You Have Been.” – Page 77
 
 > Genes that prove unfavorable or even harmful in midlife and beyond are not weeded out because they have already been passed on. – Page 80
+
+#### Chapter 5: Eat Less, Live Longer: The Science Of Hunger And Health
 
 > luminaries, – Page 96
 
@@ -68,6 +83,8 @@ Status: "Want to Read"
 
 > Impaired autophagy is thought to be an important driver of numerous aging-related phenotypes and ailments, such as neurodegeneration and osteoarthritis. – Page 100
 
+#### Chapter 6: The Crisis Of Abundance: Can Our Ancient Genes Cope With Our Modern Diet?
+
 > The liver is a highly resilient organ, almost miraculously so. It may be the most regenerative organ in the human body. When a healthy person donates a portion of their liver, both donor and recipient end up with an almost full-sized, fully functional liver within about eight weeks of the surgery, and the majority of that growth takes place in just the first two weeks. – Page 112
 
 > The twist here is that fat—that is, subcutaneous fat, the layer of fat just beneath our skin—is actually the safest place to store excess energy. – Page 117
@@ -75,6 +92,8 @@ Status: "Want to Read"
 > As more calories flood into your subcutaneous fat tissue, it eventually reaches capacity and the surplus begins spilling over into other areas of your body: into your blood, as excess triglycerides; into your liver, contributing to NAFLD; into your muscle tissue, contributing directly to insulin resistance in the muscle (as we’ll see); and even around your heart and your pancreas – Page 119
 
 > Now, when these apes consumed fructose, they generated lots of uric acid, which caused them to store many more of those fructose calories as fat. This newfound ability to store fat enabled them to survive in the colder climate. – Page 128
+
+#### Chapter 7: The Ticker: Confronting—And Preventing—Heart Disease, The Deadliest Killer On The Planet
 
 > What is the most common “presentation” (or symptom) of heart disease? It wasn’t chest pain, left arm pain, or shortness of breath, the most common answers; it was sudden death. You know the patient has heart disease because he or she has just died from it. – Page 136
 
@@ -88,6 +107,8 @@ Status: "Want to Read"
 
 > macadamia nuts, – Page 161
 
+#### Chapter 8: The Runaway Cell: New Ways To Address The Killer That Is Cancer
+
 > In normal aerobic respiration, a cell can turn one molecule of glucose into as many as thirty-six units of ATP. But under anaerobic conditions, that same amount of glucose yields only two net units of ATP. This phenomenon was dubbed the Warburg effect, and even today, one way to locate potential tumors is by injecting the patient with radioactively labeled glucose and then doing a PET scan to see where most of the glucose is migrating. Areas with abnormally high glucose concentrations indicate the possible presence of a tumor. – Page 181
 
 > The Warburg effect, also known as anaerobic glycolysis, turns the same amount of glucose into a little bit of energy and a whole lot of chemical building blocks—which are then used to build new cells rapidly. Thus, the Warburg effect is how cancer cells fuel their own proliferation. – Page 182
@@ -95,6 +116,8 @@ Status: "Want to Read"
 > Siddhartha Mukherjee, who is a practicing oncologist, research scientist, and Pulitzer Prize–winning author of The Emperor of All Maladies, a “biography” of cancer. – Page 187
 
 > As elegant as they are, however, CAR-T treatments have proven successful only against one specific type of cancer called B-cell lymphoma. All B-cells, normal and cancerous alike, express a protein called CD19, which is the target used by the CAR-T cell to zero in and kill them. Since we can live without B-cells, CAR-T works by obliterating all CD19-bearing cells. – Page 193
+
+#### Chapter 9: Chasing Memory: Understanding Alzheimer’S Disease And Other Neurodegenerative Diseases
 
 > They would rather die from cancer or heart disease than lose their minds, their very selves. – Page 216
 
@@ -108,9 +131,17 @@ Status: "Want to Read"
 
 > the epidemiology linking strength and cardiorespiratory fitness to lower risk for neurodegeneration is so uniform in its direction and magnitude that my own skepticism of the power of exercise, circa 2012, has slowly melted away. I now tell patients that exercise is, full stop and hands down, the best tool we have in the neurodegeneration prevention tool kit. – Page 244
 
+### Part Iii
+
+#### Chapter 11: Exercise: The Most Powerful Longevity Drug
+
 > It’s not that I was a passionate devotee of strength training over endurance, or vice versa; I’d done plenty of both. I was reacting to the binary nature of his question. In case you haven’t figured it out by now, I’m not fond of the way we reduce these complex, nuanced, vitally important questions down to simple either-ors. Cardio or weights? Low-carb or plant-based? Olive oil or beef tallow? – Page 261
 
+#### Chapter 12: Training 101: How To Prepare For The Centenarian Decathlon
+
 > The tried-and-true formula for these intervals is to go four minutes at the maximum pace you can sustain for this amount of time—not an all-out sprint, but still a very hard effort. Then ride or jog four minutes easy, which should be enough time for your heart rate to come back down to below about one hundred beats per minute. Repeat this four to six times and cool down.[* 4] – Page 300
+
+#### Chapter 14: Nutrition 3.0: You Say Potato, I Say “Nutritional Biochemistry”
 
 > Religion is a culture of faith; science is a culture of doubt.—Richard Feynman – Page 350
 
@@ -123,6 +154,8 @@ Status: "Want to Read"
 > One classic example of this, I believe, lies in the vast, well-publicized literature correlating “moderate” drinking with improved health outcomes. This notion has become almost an article of faith in the popular media, but these studies are also almost universally tainted by healthy user bias—that is, the people who are still drinking in older age tend to do so because they are healthy, and not the other way around. Similarly, people who drink zero alcohol often have some health-related reason, or addiction-related reason, for avoiding it. And such studies also obviously exclude those who have already died of the consequences of alcoholism. – Page 362
 
 > To me, perhaps the most vexing issue with diet and nutrition studies is the degree of variation between individuals that is found but often obscured. – Page 367
+
+#### Chapter 15: Putting Nutritional Biochemistry Into Practice: How To Find The Right Eating Pattern For You
 
 > The quality of the food you eat could be as important as the quantity. If you’re eating the SAD, then you should eat much less of it. Conversely, if your diet is high quality to begin with, and you are metabolically healthy, then only a slight degree of caloric restriction—or simply not eating to excess—can still be beneficial. – Page 379
 

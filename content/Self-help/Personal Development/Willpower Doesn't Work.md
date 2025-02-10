@@ -7,7 +7,7 @@ Author: "Benjamin P. Hardy"
 Year: "2018"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Discover the Hidden Keys to Success

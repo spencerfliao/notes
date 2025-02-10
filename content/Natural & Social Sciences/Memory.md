@@ -12,72 +12,155 @@ Status: "Read"
 
 ## — A Very Short Introduction Very Short Introductions Book 194
 
+
 ## Select Quotes
+
+### Chapter 1 You Are Your Memory
+
+#### Page 2 · Location 265
 
 > ‘Everything in life is memory, save for the thin edge of the present’. – Page 2
 
+#### Page 3 · Location 280
+
 > The key point here is that we tend to remember the information that is most salient and useful for us. – Page 3
+
+#### Page 8 · Location 323
 
 > As encapsulated by the writer and philosopher C. S. Lewis: Five senses; an incurably abstract intellect; a haphazardly selective memory; a set of preconceptions and assumptions so numerous that I can never examine more than minority of them–never become conscious of them all. How much of total reality can such an apparatus let through? – Page 8
 
+#### Page 9 · Location 339
+
 > Ebbinghaus noted that the rate of forgetting was roughly exponential: that is, forgetting is rapid at first (soon after the material has been learned), but the rate at which information is forgotten gradually decreases. So the rate of forgetting is logarithmic rather than linear. – Page 9
+
+#### Page 9 · Location 350
 
 > psychologist B.F. Skinner when he writes that ‘Education is what survives when what has been learnt has been forgotten.’ – Page 9
 
+#### Page 12 · Location 378
+
 > the stories also became more coherent: i.e. people seemed to make sense of unfamiliar material by linking this material to their pre-existing ideas, general knowledge and cultural expectations; – Page 12
+
+#### Page 12 · Location 382
 
 > Bartlett argued that what people remember is, to some extent, mediated by their emotional and personal commitment to–and investment in–the original to-be-remembered event. In Bartlett’s own words, memory retains ‘a little outstanding detail’, – Page 12
 
+#### Page 12 · Location 385
+
 > instead of reproducing the original event or story, wederivea reconstruction based on our existing presuppositions, expectations and our ‘mental set’. – Page 12
+
+#### Page 13 · Location 401
 
 > constructivist approach describes memory as the combined influences of the world and the person’s own ideas and expectations. – Page 13
 
+#### Page 14 · Location 410
+
 > In fact, we are so good at this sort of re-construction (or ‘filling in the gaps’) that we are often consciously unaware that it has happened. – Page 14
+
+#### Page 14 · Location 412
 
 > In such situations, the ‘re-constructed’ memory often seems as real as the ‘recollected’ memory. – Page 14
 
+### Chapter 2 Mapping Memories
+
+#### Page 30 · Location 653
+
 > By contrast with acoustic representation of information in the short-term store, information in long-term memory is thought to be stored primarily in terms of the meaning of the information. So, when asked to remember later on a selection of meaningful sentences which were presented earlier, people usually cannot reproduce the exact wording, but they can generally report the meaning or gist of the sentences. – Page 30
+
+#### Page 37 · Location 755
 
 > So, the episodic buffer allows us to go beyond what already exists in long-term memory, to combine it in different ways, and to use it to create novel scenarios on which future actions can be based. – Page 37
 
+### Chapter 3 Pulling The Rabbit Out Of The Hat
+
+#### Page 52 · Location 975
+
 > Indeed, one of the mechanisms underlying the success of advertising is that it makes particular products more familiar, and people tend to prefer familiar things to more unfamiliar ones. (Please refer to the mere exposure effect cited in Chapter 2). Hence the old adage, ‘All publicity is good publicity.’ – Page 52
+
+#### Page 58 · Location 1056
 
 > information that has been intentionally learned is generally better recalled than information that was acquired incidentally, but information that is learned unintentionally is sometimes better recognized. – Page 58
 
+### Chapter 4 Inaccuracies In Memory
+
+#### Page 61 · Location 1090
+
 > The debate over whether we ever truly forget anything–or instead encounter difficulties retrieving stored information–will be considered. – Page 61
+
+#### Page 62 · Location 1108
 
 > The second view regards forgetting as a more active process. According to this perspective, there is no strong evidence for the passive fading of information in memory, but forgetting occurs because memory traces are disrupted, obscured or overlaid by other memories. – Page 62
 
+#### Page 63 · Location 1119
+
 > The more similar two experiences are, the greater the likelihood that they will interact in our memory. – Page 63
+
+#### Page 64 · Location 1133
 
 > By comparison, the reminiscence bump occurs when people are asked during later life to remember events from across their lifespan. In these situations, people tend to remember disproportionately more events from the period between their adolescence and early adulthood. – Page 64
 
+#### Page 68 · Location 1175
+
 > Bartlett proposed that we possess schemata (or schemas), which he described as active organizations of past experiences. These schemas help us to make sense of familiar situations, guiding our expectations and providing a framework within which new information is processed. – Page 68
+
+#### Page 70 · Location 1204
 
 > This finding indicates that what we learn appears to depend heavily on our existing knowledge. – Page 70
 
+#### Page 70 · Location 1212
+
 > These findings illustrate the interaction of memory capacity with existing knowledge (and, presumably, interest and motivation, too) in determining what is effectively remembered. – Page 70
+
+#### Page 72 · Location 1233
 
 > even when we believe that we are literally ‘playing back’ some previous event or information in our mind, as if it were a videotape, we are actually constructing a memory from bits and pieces that we actually remember, along with our general (i.e. semantic) knowledge about how these bits should be assembled. – Page 72
 
+### Chapter 5 Memory Impairment
+
+#### Page 89 · Location 1464
+
 > Specifically, it has been famously suggested (by Kenneth Craik) that, for complex systems such as the brain, we may learn more about the functional relationships in these systems i) when they cease to function properly rather than ii) when everything is working smoothly. – Page 89
+
+### Chapter 6 The Seven Ages Of Man
+
+#### Page 108 · Location 1694
 
 > Short-term memory seems to remain quite well preserved in older individuals, – Page 108
 
+#### Page 108 · Location 1699
+
 > Performance on explicit long-term memory (i.e. memory with awareness of the memory experience; see Chapter 2) tasks typically declines significantly, especially on measures of free recall, although recognition holds up well with age. – Page 108
+
+#### Page 108 · Location 1705
 
 > Implicit memory (i.e. memory without awareness, typically tested indirectly via the evaluation of changes in behaviour rather than recollection of the memory experience) seems to decline little with age. – Page 108
 
+#### Page 109 · Location 1709
+
 > There is little effect of ageing on semantic memory. In fact, this capacity seems to improve throughout life. – Page 109
+
+#### Page 111 · Location 1739
 
 > In addition, mental exercise (such as crosswords, chess–and learning news skills such as information technology) may well be useful in maintaining neurological and psychological capacity. – Page 111
 
+### Chapter 7 Improving Memory
+
+#### Page 117 · Location 1807
+
 > A beneficial by-product of errorless learning is that the motivation of the learner is sustained, because the rate of memory failure is kept at a low level. – Page 117
+
+#### Page 122 · Location 1898
 
 > Perhaps the oldest example of an external memory aid is the knot in the handkerchief, which doesn’t provide us with any information as such, but tells us that we need to search our memory system to recall an important piece of information. – Page 122
 
+#### Page 127 · Location 1948
+
 > To remember a name, it first had to be converted into some easy-to-image pegword form. – Page 127
 
+#### Page 131 · Location 2004
+
 > So, it is apparently easier to learn that someone is a carpenter than that they are named Mr Carpenter! – Page 131
+
+#### Page 137 · Location 2108
 
 > Memory is observed through free recall, cued recall, recognition, familiarity, and other behavioural changes such as priming and our physical actions. – Page 137

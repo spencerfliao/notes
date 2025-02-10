@@ -7,7 +7,7 @@ Author: "James Clear"
 Year: "2018"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — An Easy & Proven Way to Build Good Habits & Break Bad Ones

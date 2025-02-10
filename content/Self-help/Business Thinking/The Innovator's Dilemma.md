@@ -7,12 +7,17 @@ Author: "Clayton M. Christensen"
 Year: "1997"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — The Revolutionary Book that Will Change the Way You Do Business
 
+
 ## Select Quotes
+
+### Part One: Why Great Companies Can Fail
+
+#### Chapter One: How Can Great Firms Fail? Insights From The Hard Disk Drive Industry
 
 > When a measurable trajectory of improvement has been established, determining whether a new technology is likely to improve a product’s performance relative to earlier products is an unambiguous question. But in other cases, the impact of technological change is quite different. For instance, is a notebook computer better than a mainframe? This is an ambiguous question because the notebook computer established a completely new performance trajectory, with a definition of performance that differs substantially from the way mainframe performance is measured. Notebooks, as a consequence, are generally sold for very different uses. This study of technological change over the history of the disk drive industry revealed two types of technology change, each with very different effects on the industry’s leaders. Technologies of the first sort sustained the industry’s rate of improvement in product performance (total capacity and recording density were the two most common measures) and ranged in difficulty from incremental to radical. The industry’s dominant firms always led in developing and adopting these technologies. By contrast, innovations of the second sort disrupted or redefined performance trajectories—and consistently resulted in the failure of the industry’s leading firms.
 
@@ -27,6 +32,8 @@ Status: "Want to Read"
 > despite the established firms’ technological prowess in leading sustaining innovations, from the simplest to the most radical, the firms that led the industry in every instance of developing and adopting disruptive technologies were entrants to the industry, not its incumbent leaders.
 
 > Finding new applications and markets for these new products seems to be a capability that each of these firms exhibited once, upon entry, and then apparently lost. It was as if the leading firms were held captive by their customers, enabling attacking entrant firms to topple the incumbent industry leaders each time a disruptive technology emerged.
+
+#### Chapter Two: Value Networks And The Impetus To Innovate
 
 > companies’ organizational structures typically facilitate component-level innovations, because most product development organizations consist of subgroups that correspond to a product’s components. Such systems work very well as long as the product’s fundamental architecture does not require change.
 

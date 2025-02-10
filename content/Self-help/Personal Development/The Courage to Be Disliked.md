@@ -7,7 +7,7 @@ Author: "Ichiro Kishimi"
 Year: "2013"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — How to Free Yourself, Change your Life and Achieve Real Happiness

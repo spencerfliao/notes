@@ -7,7 +7,7 @@ Author: "Timothy Ferriss"
 Year: "2007"
 Field: "Business Thinking"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Escape the 9-5, Live Anywhere and Join the New Rich

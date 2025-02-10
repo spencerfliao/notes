@@ -7,10 +7,15 @@ Author: "Roxane Gay"
 Year: "2014"
 Field: "Humanities"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
+
 ## Select Quotes
+
+### Introduction
+
+#### Feminism (N.): Plural
 
 > When feminism falls short of our expectations, we decide the problem is with feminism rather than with the flawed people who act in the name of the movement. – Page 7
 
@@ -19,6 +24,10 @@ Status: "Want to Read"
 > I try to keep my feminism simple. I know feminism is complex and evolving and flawed. I know feminism will not and cannot fix everything. I believe in equal opportunities for women and men. I believe in women having reproductive freedom and affordable and unfettered access to the health care they need. I believe women should be paid as much as men for doing the same work. Feminism is a choice, and if a woman does not want to be a feminist, that is her right, but it is still my responsibility to fight for her rights. I believe feminism is grounded in supporting the choices of women even if we wouldn’t make certain choices for ourselves. I believe women not just in the United States but throughout the world deserve equality and freedom but know I am in no position to tell women of other cultures what that equality and freedom should look like. – Page 9
 
 > Feminism’s failings do not mean we should eschew feminism entirely. People do terrible things all the time, but we don’t regularly disown our humanity. We disavow the terrible things. We should disavow the failures of feminism without disavowing its many successes and how far we have come. – Page 10
+
+### Me
+
+#### Feel Me. See Me. Hear Me. Reach Me.
 
 > I love being with someone who is endlessly interesting because we are so different. Wanting to belong to people or a person is not about finding a mirror image of myself. – Page 14
 
@@ -30,15 +39,23 @@ Status: "Want to Read"
 
 > By the end of my last year of school, with all the other things I was dealing with in my personal life, I was completely burnt out. I had nothing left to give. All too often, the students just did not give a damn and neither did I. I’m not proud of this, but I really was dealing with a lot. – Page 20
 
+#### Peculiar Benefits
+
 > We tend to believe that accusations of privilege imply we have it easy, which we resent because life is hard for nearly everyone. Of course we resent these accuastions. Look at white men when they are accused of having privilege. They tend to be immediately defensive (and, at times, understandably so). – Page 27
 
 > To have privilege in one or more areas does not mean you are wholly privileged. Surrendering to the acceptance of privilege is difficult, but it is really all that is expected. – Page 27
 
 > Does privilege automatically negate any merits of what a privilege holder has to say? – Page 28
 
+#### Typical First Year Professor
+
 > Walking down the hall, I hear a young woman saying “Dr. Gay” over and over and think, That Dr. Gay is rather rude for ignoring that poor student. I turn around to say something before I realize she is talking to me. – Page 32
 
 > There is a plague on grandmothers. The elder relations of my students begin passing away at an alarming rate one week. – Page 34
+
+### Gender & Sexuality
+
+#### How To Be Friends With Another Woman
 
 > Abandon the cultural myth that all female friendships must be bitchy, toxic, or competitive. – Page 51
 
@@ -48,7 +65,11 @@ Status: "Want to Read"
 
 > Sometimes you will be the person dating someone your friends cannot stand. If your man or woman is a scrub, just own it so you and your friends can talk about more interesting things. My go-to explanation is “I am dating an asshole because I’m lazy.” You are welcome to borrow it. – Page 52
 
+#### Girls, Girls, Girls
+
 > Girls reminds me of how terrible my twenties were—being lost and awkward, having terrible sex with terrible people, being perpetually broke, eating ramen. I am not nostalgic for that time. I had no money and no hope. Like the girls in Girls, I was never really on the verge of destitution but I lived a generally crappy life. There was nothing romantic about the experience. – Page 59
+
+#### I Once Was Miss America
 
 > They were so American and, therefore, exotic because they had freedoms I did not. – Page 67
 
@@ -58,9 +79,13 @@ Status: "Want to Read"
 
 > I was never going to become Miss America. I know that now. Vanessa Williams and her glittering teeth could only do so much. Nonetheless, I continue to have a very active fantasy life. – Page 73
 
+#### Not Here To Make Friends
+
 > When characters are unlikable, they don’t meet our mutable, varying standards. Certainly we can find kinship in fiction, but literary merit shouldn’t be dictated by whether we want to be friends or lovers with those about whom we read. – Page 90
 
 > Freed from the constraints of likability, they are able to exist on and beyond the page as fully realized, interesting, and realistic characters. – Page 94
+
+#### How We All Lose
 
 > If women’s fortunes improve, it must mean men’s fortunes will suffer, as if there is a finite amount of good fortune in the universe that cannot be shared equally between men and women. This is certainly how I felt while reading Hanna Rosin’s interesting and intelligent, but ultimately frustrating, The End of Men: And the Rise of Women. What does it even mean to suggest that the end of men is explicitly connected to the rise of women? – Page 100
 
@@ -70,13 +95,19 @@ Status: "Want to Read"
 
 > Her criticism rises from emotion. It is appealing to see a writer so plainly locate the motivations behind her criticism. All too often, criticism is treated rather antiseptically under the auspices of objectivity. There is no such distance in Heroines. Zambreno revels in subjectivity. – Page 109
 
+#### Reaching For Catharsis: Getting Fat Right (Or Wrong) And Diana Spechler’S Skinny
+
 > She spends her days trying to make herself beautiful, as if through beauty she will find happiness. – Page 115
 
 > Gray thinks about her boyfriend, Mikey, occasionally but shows little remorse for how she betrays the man who loves her and how she betrays herself. She is grieving, after all, and in grief, there is a certain amount of indulgence for bad behavior. Sorrow allows us a freedom happiness does not. – Page 118
 
 > When it comes to fat, there has to be a reason. We need to be able to trace the genealogy of obesity. Without that genealogy, we are simply mystified. People need an explanation for how a person can lose such control over her body. – Page 119
 
+#### The Smooth Surfaces Of Idyll
+
 > Happiness is not a popular subject in literary fiction. We struggle, as writers, to make happiness, contentment, and satisfaction interesting. Perfection often lacks texture. What do we say about that smooth surface of idyll? How do we find something for narrative to hold on to? Or, perhaps, we fail to see how happiness can have texture and complexity so we write about unhappiness. – Page 125
+
+#### What We Hunger For
 
 > As a critic, I recognize the significant flaws, I do, but The Hunger Games is not a movie I am able to watch as a critic. The story means too much to me. – Page 144
 
@@ -86,9 +117,15 @@ Status: "Want to Read"
 
 > At times, I thought, This is too much, but I know something of the world now, and there are rarely limits to suffering. – Page 149
 
+#### The Illusion Of Safety/The Safety Of Illusion
+
 > Human endurance fascinates me, probably too much because more often than not, I think of life in terms of enduring instead of living. – Page 156
 
+#### The Spectacle Of Broken Men
+
 > When asked, “Are you sexually attracted to young boys?,” Sandusky repeats the question. Instead of simply saying, “No,” which is what most people would say whether they were guilty or innocent, he says, “Am I sexually attracted to young boys? I enjoy young people. I love to be around them. But no, I’m not sexually attracted to young boys.” The denial is an afterthought. – Page 161
+
+#### A Tale Of Three Coming Out Stories
 
 > We want to know everything. In this information age, we are inundated with information, so now we feel entitled. We also like taxonomy, classification, definition. Are you a man or a woman? Are you a Democrat or a Republican? Are you married or single? Are you gay or straight? We don’t know what to do when we don’t know the answers to these questions or, worse, when the answers to these questions do not fall neatly into a category. – Page 164
 

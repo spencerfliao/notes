@@ -7,12 +7,17 @@ Author: "Yuval Noah Harari"
 Year: "2011"
 Field: "Humanities"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — A Brief History of Humankind
 
+
 ## Select Quotes
+
+### Part One: The Cognitive Revolution
+
+#### 1. An Animal Of No Significance
 
 > Homo sapiens, too, belongs to a family. This banal fact used to be one of history’s most closely guarded secrets. Homo sapiens long preferred to view itself as set apart from animals, an orphan who has no family, no cousins and–most importantly–no parents. But that’s just not the case. Like it or not, we are members of a large and particularly noisy family called the great apes. – Page 5
 
@@ -21,6 +26,8 @@ Status: "Want to Read"
 > Tolerance is not a Sapiens trademark. In modern times, a small difference in skin colour, dialect or religion has been enough to prompt one group of Sapiens to set about exterminating another group. – Page 18
 
 > When Charles Darwin indicated that Homo sapiens was just another kind of animal, people were outraged. Even today many refuse to believe it. Had the Neanderthals survived, would we still imagine ourselves to be a creature apart? Perhaps this is exactly why our ancestors wiped out the Neanderthals. They were too familiar to ignore, but too different to tolerate. – Page 18
+
+#### 2. The Tree Of Knowledge
 
 > The gossip theory might sound like a joke, but numerous studies support it. Even today the vast majority of human communication–whether in the form of emails, phone calls or newspaper columns–is gossip. It comes so naturally to us that it seems as if our language evolved for this very purpose. – Page 24
 
@@ -36,6 +43,8 @@ Status: "Want to Read"
 
 > The Cognitive Revolution is accordingly the point when history declared its independence from biology. – Page 37
 
+#### 3. A Day In The Life Of Adam And Eve
+
 > Thanks to the appearance of fiction, even people with the same genetic make-up who lived under similar ecological conditions were able to create very different imagined realities, which manifested themselves in different norms and values. – Page 44
 
 > The heated debates about Homo sapiens’ ‘natural way of life’ miss the main point. Ever since the Cognitive Revolution, there hasn’t been a single natural way of life for Sapiens. There are only cultural choices, from among a bewildering palette of possibilities. – Page 45
@@ -46,11 +55,17 @@ Status: "Want to Read"
 
 > The theories of scholars who claim to know what the foragers felt shed much more light on the prejudices of their authors than on Stone Age religions. – Page 55
 
+### Part Two: The Agricultural Revolution
+
+#### 5. History’S Biggest Fraud
+
 > How many young college graduates have taken demanding jobs in high-powered firms, vowing that they will work hard to earn money that will enable them to retire and pursue their real interests when they are thirty-five? But by the time they reach that age, they have large mortgages, children to school, houses in the suburbs that necessitate at least two cars per family, and a sense that life is not worth living without really good wine and expensive holidays abroad. – Page 87
 
 > One of history’s few iron laws is that luxuries tend to become necessities and to spawn new obligations. – Page 87
 
 > This discrepancy between evolutionary success and individual suffering is perhaps the most important lesson we can draw from the Agricultural Revolution. – Page 97
+
+#### 6. Building Pyramids
 
 > History is something that very few people have been doing while everyone else was ploughing fields and carrying water buckets. – Page 101
 
@@ -70,9 +85,13 @@ Status: "Want to Read"
 
 > There is no way out of the imagined order. When we break down our prison walls and run towards freedom, we are in fact running into the more spacious exercise yard of a bigger prison. – Page 118
 
+#### 7. Memory Overload
+
 > The most important impact of script on human history is precisely this: it has gradually changed the way humans think and view the world. Free association and holistic thought have given way to compartmentalisation and bureaucracy. – Page 130
 
 > Writing was born as the maidservant of human consciousness, but is increasingly becoming its master. Our computers have trouble understanding how Homo sapiens talks, feels and dreams. So we are teaching Homo sapiens to talk, feel and dream in the language of numbers, which can be understood by computers. – Page 132
+
+#### 8. There Is No Justice In History
 
 > Many of those who signed the Declaration of Independence were slaveholders. They did not release their slaves upon signing the Declaration, nor did they consider themselves hypocrites. In their view, the rights of men had little to do with Negroes. – Page 133
 
@@ -89,6 +108,10 @@ Status: "Want to Read"
 > Gender is a race in which some of the runners compete only for the bronze medal. – Page 153
 
 > Throughout Elizabeth’s forty-five-year reign, all Members of Parliament were men, all officers in the Royal Navy and army were men, all judges and lawyers were men, all bishops and archbishops were men, all theologians and priests were men, all doctors and surgeons were men, all students and professors in all universities and colleges were men, all mayors and sheriffs were men, and almost all the writers, architects, poets, philosophers, painters, musicians and scientists were men. – Page 153
+
+### Part Three: The Unification Of Humankind
+
+#### 9. The Arrow Of History
 
 > This network of artificial instincts is called ‘culture’. – Page 163
 
@@ -108,6 +131,8 @@ Status: "Want to Read"
 
 > Osama Bin Laden, for all his hatred of American culture, American religion and American politics, was very fond of American dollars. – Page 172
 
+#### 10. The Scent Of Money
+
 > ‘Everyone would work according to their abilities, and receive according to their needs’ turned out in practice into ‘everyone would work as little as they can get away with, and receive as much as they could grab’. – Page 176
 
 > This is perhaps its most basic quality. Everyone always wants money because everyone else also always wants money, which means you can exchange money for whatever you want or need. – Page 178
@@ -115,6 +140,8 @@ Status: "Want to Read"
 > For thousands of years, philosophers, thinkers and prophets have besmirched money and called it the root of all evil. Be that as it may, money is also the apogee of human tolerance. Money is more open-minded than language, state laws, cultural codes, religious beliefs and social habits. Money is the only trust system created by humans that can bridge almost any cultural gap, and that does not discriminate on the basis of religion, gender, race, age or sexual orientation. Thanks to money, even people who don’t know each other and don’t trust each other can nevertheless cooperate effectively. – Page 186
 
 > Devout Christians have murdered, stolen and cheated–and later used their spoils to buy forgiveness from the church. – Page 186
+
+#### 11. Imperial Visions
 
 > It’s not our kind of story. We like to see underdogs win. But there is no justice in history. – Page 189
 
@@ -127,6 +154,8 @@ Status: "Want to Read"
 > contradiction to the modern Western view that a just world is composed of separate nation states, in China periods of political fragmentation were seen as dark ages of chaos and injustice. – Page 197
 
 > India’s Muslim conquerors, such as the Taj Mahal? – Page 208
+
+#### 12. The Law Of Religion
 
 > Religion can thus be defined as a system of human norms and values that is founded on a belief in a superhuman order. – Page 210
 
@@ -150,6 +179,8 @@ Status: "Want to Read"
 
 > Our judicial and political systems largely try to sweep such inconvenient discoveries under the carpet. But in all frankness, how long can we maintain the wall separating the department of biology from the departments of law and political science? – Page 236
 
+#### 13. The Secret Of Success
+
 > They can describe how Christianity took over the Roman Empire, but they cannot explain why this particular possibility was realised. What is the difference between describing ‘how’ and explaining ‘why’? To describe ‘how’ means to reconstruct the series of specific events that led from one point to another. To explain ‘why’ means to find causal connections that account for the occurrence of this particular series of events to the exclusion of all others. – Page 238
 
 > Not that everything is possible. Geographical, biological and economic forces create constraints. Yet these constraints leave ample room for surprising developments, which do not seem bound by any deterministic laws. – Page 239
@@ -161,6 +192,10 @@ Status: "Want to Read"
 > Ever more scholars see cultures as a kind of mental infection or parasite, with humans as its unwitting host. – Page 242
 
 > This approach is sometimes called memetics. It assumes that, just as organic evolution is based on the replication of organic information units called ‘genes’, so cultural evolution is based on the replication of cultural information units called ‘memes’. 1 Successful cultures are those that excel in reproducing their memes, irrespective of the costs and benefits to their human hosts. – Page 242
+
+### Part Four: The Scientific Revolution
+
+#### 14. The Discovery Of Ignorance
 
 > Modern science is based on the Latin injunction ignoramus–‘we do not know’. It assumes that we don’t know everything. – Page 250
 
@@ -186,6 +221,8 @@ Status: "Want to Read"
 
 > In short, scientific research can flourish only in alliance with some religion or ideology. – Page 274
 
+#### 15. The Marriage Of Science And Empire
+
 > The Chinese and Persians did not lack technological inventions such as steam engines (which could be freely copied or bought). They lacked the values, myths, judicial apparatus and sociopolitical structures that took centuries to form and mature in the West and which could not be copied and internalised rapidly. – Page 282
 
 > What potential did Europe develop in the early modern period that enabled it to dominate the late modern world? There are two complementary answers to this question: modern science and capitalism. – Page 282
@@ -195,6 +232,8 @@ Status: "Want to Read"
 > alike. – Page 303
 
 > in terms of historical differences between cultures rather than biological differences between races. We no longer say, ‘It’s in their blood.’ We say, ‘It’s in their culture.’ – Page 303
+
+#### 16. The Capitalist Creed
 
 > For better or worse, in sickness and in health, the modern economy has been growing like a hormone-soused teenager. – Page 305
 
@@ -208,9 +247,13 @@ Status: "Want to Read"
 
 > Much like the Agricultural Revolution, so too the growth of the modern economy might turn out to be a colossal fraud. The human species and the global economy may well keep growing, but many more individuals may live in hunger and want. – Page 333
 
+#### 17. The Wheels Of Industry
+
 > Just as the Atlantic slave trade did not stem from hatred towards Africans, so the modern animal industry is not motivated by animosity. – Page 343
 
 > The history of ethics is a sad tale of wonderful ideals that nobody can live up to. Most Christians did not imitate Christ, most Buddhists failed to follow Buddha, and most Confucians would have caused Confucius a temper tantrum. – Page 349
+
+#### 18. A Permanent Revolution
 
 > Perhaps 65 million years from now, intelligent rats will look back gratefully on the decimation wrought by humankind, just as we today can thank that dinosaur-busting asteroid. – Page 351
 
@@ -224,14 +267,22 @@ Status: "Want to Read"
 
 > The answer is a matter of timing. It is sobering to realise how often our view of the past is distorted by events of the last few years. – Page 375
 
+#### 19. And They Lived Happily Ever After
+
 > Unfortunately for all hopes of creating heaven on earth, our internal biochemical system seems to be programmed to keep happiness levels relatively constant. – Page 386
 
 > The scientist who says her life is meaningful because she increases the store of human knowledge, the soldier who declares that his life is meaningful because he fights to defend his homeland, and the entrepreneur who finds meaning in building a new company are no less delusional than their medieval counterparts who found meaning in reading scriptures, going on a crusade or building a new cathedral. – Page 391
+
+#### 20. The End Of Homo Sapiens
 
 > True, we still don’t have the acumen to achieve this, but there seems to be no insurmountable technical barrier preventing us from producing superhumans. The main obstacles are the ethical and political objections that have slowed down research on humans. And no matter how convincing the ethical arguments may be, it is hard to see how they can hold back the next step for long, especially if what is at stake is the possibility of prolonging human life indefinitely, conquering incurable diseases, and upgrading our cognitive and emotional abilities. – Page 403
 
 > what do we want to become? This question, sometimes known as the Human Enhancement question, dwarfs the debates that currently preoccupy politicians, philosophers, scholars and ordinary people. – Page 413
 
 > But since we might soon be able to engineer our desires too, the real question facing us is not ‘What do we want to become?’, but ‘What do we want to want?’ Those who are not spooked by this question probably haven’t given it enough thought. – Page 414
+
+### Afterword: The Animal That Became A God
+
+#### Page 415 · Location 6452
 
 > Is there anything more dangerous than dissatisfied and irresponsible gods who don’t know what they want? – Page 415

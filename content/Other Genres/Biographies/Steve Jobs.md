@@ -7,5 +7,5 @@ Author: "Walter Isaacson"
 Year: "2011"
 Field: "Biographies"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---

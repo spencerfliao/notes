@@ -7,26 +7,49 @@ Author: "Max Solomon Bennett"
 Year: "None"
 Field: "Natural & Social Sciences"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
 
 ## — Evolution, AI, and the Five Breakthroughs That Made Our Brains
 
+
 ## Select Quotes
+
+### Introduction
+
+#### Page 18 · Location 183
 
 > What is most striking when we examine the brains of other animals is how remarkably similar their brains are to our own. The difference between our brain and a chimpanzee’s brain, besides size, is barely anything. – Page 18
 
+#### Page 21 · Location 230
+
 > survival instincts, emotions, and cognition do not delineate cleanly—they emerge from diverse networks of systems spanning all three of these supposed layers. – Page 21
+
+#### Page 25 · Location 276
 
 > I wrote this book because I wanted to read this book. – Page 25
 
+### 1: The World Before Brains
+
+#### Page 45 · Location 529
+
 > The fungal strategy was, by some measures, more successful than the animals’—by biomass, there is about six times more fungus on Earth than animals. But as we will continually see, it is usually the worse strategy, the harder strategy, from which innovation emerges. – Page 45
+
+#### Page 46 · Location 536
 
 > Active killing was, of course, not new; the first eukaryotes had long ago invented a strategy—phagotrophy—for killing life. But this worked only on level-one (single-cellular) life; level-two multicellular blobs were far too big to engulf into a single cell. And so early animals evolved internal digestion as a strategy for eating level-two life. – Page 46
 
+#### Page 58 · Location 682
+
 > These features of neurons—all-or-nothing spikes, rate coding, adaptation, and chemical synapses with excitatory and inhibitory neurotransmitters—are universal across all animals, – Page 58
 
+#### Page 58 · Location 686
+
 > All-or-nothing electrical spikes triggered rapid and orchestrated reflexive movements so animals could catch prey in response to even the subtlest of touches or smells. Rate coding enabled animals to modify their responses based on the strengths of a touch or smell. Adaptation enabled animals to adjust the sensory threshold for when spikes are generated, allowing them to be highly sensitive to even the subtlest of touches or smells while also preventing overstimulation at higher strengths of stimuli. – Page 58
+
+### Breakthrough #1: Steering And The First Bilaterians
+
+#### 2: The Birth Of Good And Bad
 
 > Radially symmetrical body plans work fine with the coral strategy of waiting for food. But they work horribly for the hunting strategy of navigating toward food. – Page 64
 
@@ -37,6 +60,8 @@ Status: "Want to Read"
 > But it may not be a coincidence that the first successful domestic robot contained an intelligence not so unlike the intelligence of the first brains. Both used tricks that enabled them to navigate a complex world without actually understanding or modeling that world. – Page 75
 
 > This requirement of integrating input across sensory modalities was likely one reason why steering required a brain and could not have been implemented in a distributed web of reflexes like those in a coral polyp. All these sensory inputs voting for steering in different directions had to be integrated together in a single place to make a single decision; you can go in only one direction at a time. The first brain was this mega-integration center—one big neural circuit in which steering directions were selected. – Page 80
+
+#### 3: The Origin Of Emotion
 
 > These persistent affective states are a trick to overcome this challenge: If I detect a passing sniff of food that quickly fades, it is likely that there is food nearby even if I no longer smell it. Therefore, it is more effective to persistently search my surroundings after encountering food, as opposed to only responding to food smells in the moment that they are detected. Similarly, a worm passing through an area full of predators won’t experience a constant smell of predators but rather catch a transient hint of one nearby; if a worm wants to escape, it is a good idea to persistently swim away even after the smell has faded. – Page 90
 
@@ -56,6 +81,8 @@ Status: "Want to Read"
 
 > Chronic stress isn’t all that different from acute stress; stress hormones and opioids remain elevated, chronically inhibiting digestion, immune response, appetite, and reproduction. But chronic stress differs from acute stress in at least one important way: it turns off arousal and motivation. – Page 102
 
+#### 4: Associating, Predicting, And The Dawn Of Learning
+
 > It seems that at the same time valence—the categorizing of things in the world into good and bad—emerged, so too did the ability to use experience to change what is considered good and bad in the first place. – Page 110
 
 > An early bilaterian that could remember to avoid a chemical that had previously been found near predators would survive far better than a bilaterian that could not. – Page 110
@@ -74,9 +101,15 @@ Status: "Want to Read"
 
 > Circuits whereby different valence neurons can be integrated into a singular steering decision (hence a big cluster of neurons we identify as a brain) – Page 123
 
+### Breakthrough #2: Reinforcing And The First Vertebrates
+
+#### 5: The Cambrian Explosion
+
 > It was originally believed that the only way to explain such intelligent behavior in animals was through some notion of insight or imitation or planning, but Thorndike showed how simple trial and error was all an animal really needed. Thorndike summarized his result in his now famous law of effect: Responses that produce a satisfying effect in a particular situation become more likely to occur again in that situation, and responses that produce a discomforting effect become less likely to occur again in that situation. – Page 134
 
 > The second breakthrough was reinforcement learning: the ability to learn arbitrary sequences of actions through trial and error. – Page 137
+
+#### 6: The Evolution Of Temporal Difference Learning
 
 > Minsky realized that reinforcement learning would not work without a reasonable strategy for assigning credit across time; this is called the temporal credit assignment problem. – Page 139
 
@@ -91,6 +124,8 @@ Status: "Want to Read"
 > How can the absence of something be reinforcing? The answer is that the omission of an expected punishment is itself reinforcing; it is relieving. And the omission of an expected reward is itself punishing; it is disappointing. – Page 153
 
 > In our metaphor, the basal ganglian student initially learns solely from the hypothalamic judge, but over time learns to judge itself, knowing when it makes a mistake before the hypothalamus gives any feedback. This is why dopamine neurons initially respond when rewards are delivered, but over time shift their activation toward predictive cues. This is also why receiving a reward that you knew you were going to receive doesn’t trigger dopamine release; predictions from the basal ganglia cancel out the excitement from the hypothalamus. – Page 160
+
+#### 7: The Problems Of Pattern Recognition
 
 > This was the first problem of pattern recognition, that of discrimination: how to recognize overlapping patterns as distinct. – Page 166
 
@@ -110,6 +145,8 @@ Status: "Want to Read"
 
 > His architecture first decomposed input pictures into multiple feature maps, like V1 seemed to do. Each feature map was a grid that signaled the location of a feature—such as vertical or horizontal lines—within the input picture. This process is called a convolution, hence the name applied to the type of network that Fukushima had invented: convolutional neural networks.* – Page 182
 
+#### 8: Why Life Got Curious
+
 > For trial-and-error learning to work, agents need to, well, have lots of trials from which to learn. This means that reinforcement learning can’t work by just exploiting behaviors they predict lead to rewards; it must also explore new behaviors. In other words, reinforcement learning requires two opponent processes—one for behaviors that were previously reinforced (exploitation) and the other for behaviors that are new (exploration). These choices are, by definition, opposing each other. Exploitation will always drive behavior toward known rewards, and exploration will always drive toward what is unknown. – Page 188
 
 > There is an alternative approach to tackling the exploitation-exploration dilemma, one that is both beautifully simple and refreshingly familiar. The approach is to make AI systems explicitly curious, to reward them for exploring new places and doing new things, to make surprise itself reinforcing. The greater the novelty, the larger the compulsion to explore it. – Page 188
@@ -120,6 +157,10 @@ Status: "Want to Read"
 
 > Gambling and social feeds work by hacking into our five-hundred-million-year-old preference for surprise, producing a maladaptive edge case that evolution has not had time to account for. – Page 190
 
+### Breakthrough #3: Simulating And The First Mammals
+
+#### 10: The Neural Dark Ages
+
 > The neocortex gave this small mouse a superpower—the ability to simulate actions before they occurred. – Page 211
 
 > If the reinforcement-learning early vertebrates got the power of learning by doing, then early mammals got the even more impressive power of learning before doing—of learning by imagining. – Page 212
@@ -127,6 +168,8 @@ Status: "Want to Read"
 > On land, even at night, you can see up to one hundred times farther than you can underwater. Thus, fish opted not to simulate and plan their movements but instead to respond quickly whenever something came at them (hence their large midbrain and hindbrain, and comparatively smaller cortex). – Page 212
 
 > The electrical signaling of neurons is highly sensitive to temperature—at lower temperatures, neurons fire much more slowly than at warmer temperatures. This meant that a side effect of warm-bloodedness was that mammal brains could operate much faster than fish or reptile brains. – Page 212
+
+#### 11: Generative Models And The Neocortical Mystery
 
 > According to Mountcastle, the neocortex does not do different things; each neocortical column does exactly the same thing. The only difference between regions of neocortex is the input they receive and where they send their output; the actual computations of the neocortex itself are identical. – Page 220
 
@@ -150,6 +193,8 @@ Status: "Want to Read"
 
 > The reason the neocortex is so powerful is not only that it can match its inner simulation to sensory evidence (Helmholtz’s perception by inference) but, more important, that its simulation can be independently explored. If you have a rich enough inner model of the external world, you can explore that world in your mind and predict the consequences of actions you have never taken. Yes, your neocortex enables you to open your eyes and recognize the chair in front of you, but it also enables you to close your eyes and still see that chair in your mind’s eye. You can rotate and modify the chair in your mind, change its colors, change its materials. It is when the simulation in your neocortex becomes decoupled from the real external world around you—when it imagines things that are not there—that its power becomes most evident. – Page 242
 
+#### 12: Mice In The Imaginarium
+
 > How groundbreaking this was cannot be overstated—neuroscientists were peering directly into the brain of a rat, and directly observing the rat considering alternative futures. – Page 247
 
 > Buddhists and psychologists alike realize that ruminating about what could have been is a source of great misery for humanity. We cannot change the past, so why torture ourselves with it? The evolutionary roots of this go back to early mammals. In the ancient world, and in much of the world that followed, such ruminating was useful because often the same situation would recur and a better choice could be made. – Page 249
@@ -157,6 +202,8 @@ Status: "Want to Read"
 > Causation itself may live more in psychology than in physics. – Page 253
 
 > we don’t truly remember episodic events. The process of episodic remembering is one of simulating an approximate re-creation of the past. – Page 255
+
+#### 13: Model-Based Reinforcement Learning
 
 > It used search not to logically consider all future possibilities (something that is impossible in most situations) but to simply verify and expand on the hunches that an actor-critic system was already producing. – Page 263
 
@@ -174,15 +221,23 @@ Status: "Want to Read"
 
 > Controlling ongoing behavior often also requires working memory—the maintenance of representations in the absence of any sensory cues. Many imagined paths and tasks involve waiting. – Page 283
 
+#### 14: The Secret To Dishwashing Robots
+
 > This suggests that the motor cortex was originally not the locus of motor commands but of motor planning. When an animal must perform careful movements—placing a paw on a small platform or stepping over an out-of-sight obstacle—it must mentally plan and simulate its body movements ahead of time. This explains why the motor cortex is necessary for learning new complex movements but not for executing well-learned ones. When an animal is learning a new movement, the motor cortex simulations vicariously train the basal ganglia. Once a movement is well learned, the motor cortex is no longer needed. – Page 291
 
 > Figure 14.4: The motor hierarchy in early placental mammals – Page 294
 
 > imaginarium – Page 302
 
+### Breakthrough #4: Mentalizing And The First Primates
+
+#### 15: The Arms Race For Political Savvy
+
 > This process of ever-escalating deceptions and counter-deceptions reveals that both Rock and Belle were able to understand the other’s intent (“ Belle is trying to lead me away from the food,” “Rock is trying to trick me by looking away”), as well as understand that it is possible to manipulate the other’s beliefs (“ I can make Belle think I am not looking by pretending to be disinterested,” “I can make Rock think the food is in the wrong location by leading him in that direction”). – Page 315
 
 > They plucked fruit from trees right after it ripened but before it fell to the forest floor. This allowed primates to have easy access to food without much competition from other species. This unique ecological niche may have offered early primates two gifts that opened the door to their uniquely large brains and complex social groups. First, easy access to fruit gave early primates an abundance of calories, providing the evolutionary option to spend energy on bigger brains. And second, and perhaps more important, it gave early primates an abundance of time. – Page 322
+
+#### 16: How To Model Other Minds
 
 > This suggests that the granular prefrontal cortex plays a key role in your ability to project yourself—your intentions, feelings, thoughts, personality, and knowledge—into your rendered simulations, – Page 330
 
@@ -191,6 +246,8 @@ Status: "Want to Read"
 > Reflexes would say, Because I have an evolutionarily hard-coded rule to turn toward the smell coming from the left. Vertebrate structures would say, Because going left maximizes predicted future reward. Mammalian structures would say, Because left leads to food. But primate structures would say, Because I’m hungry, eating feels good when I am hungry, and to the best of my knowledge, going left leads to food. In other words, the gPFC constructs explanations of the simulation itself, of what the animal wants and knows and thinks. – Page 332
 
 > These newly primate neocortical regions seem to be the locus of both one’s model of one’s own mind and the ability to model other minds. – Page 338
+
+#### 17: Monkey Hammers And Self-Driving Cars
 
 > If mirror neurons were simply automatic mirrors, then they wouldn’t activate in the above cases where monkeys were not directly observing behaviors. – Page 347
 
@@ -210,6 +267,8 @@ Status: "Want to Read"
 
 > Theory of mind evolved in early primates for politicking. But this ability was repurposed for imitation learning. The ability to infer the intent of others enabled early primates to filter out extraneous behaviors and focus only on the relevant ones (what did the person mean to do?); it helped youngsters stay focused on learning over long stretches of time; and it may have enabled early primates to actively teach each other by inferring what a novice does and does not understand. – Page 360
 
+#### 18: Why Rats Can’T Go Grocery Shopping
+
 > Setting up camp en route to a nearby popular fruit patch the night before requires anticipating the fact that you will be hungry tomorrow if you don’t take preemptive steps tonight to get to the food early. – Page 362
 
 > He surprisingly found that being a frugivore seemed to explain the variation in relative brain size perhaps even better than the size of a primate’s social group. – Page 363
@@ -217,6 +276,10 @@ Status: "Want to Read"
 > The mechanics of making a choice based on an anticipated need, one you are not currently experiencing, presents a predicament to the older mammalian brain structures. We have speculated that the mechanism by which the neocortex controls behavior is by simulating decisions vicariously, the outcomes of which are then evaluated by the older vertebrate structures (basal ganglia, amygdala, and hypothalamus). This mechanism allows an animal to choose only simulated paths and behaviors that excite positive valence neurons right now, like imagining food when hungry or water when thirsty. – Page 365
 
 > Suddendorf may have been prescient in proposing that the general ability to model a dissociated mental state from your own can be repurposed for both theory of mind and anticipating future needs. – Page 368
+
+### Breakthrough #5: Speaking And The First Humans
+
+#### 19: The Search For Human Uniqueness
 
 > If it were the case that humans wielded numerous intellectual capabilities that were entirely unique in kind, we would expect human brains to contain some unique neurological structures, some new wiring, some new systems. But the evidence is the opposite—there is no neurological structure found in the human brain that is not also found in the brain of our fellow apes, and evidence suggests that the human brain is literally just a scaled-up primate brain: – Page 374
 
@@ -246,6 +309,8 @@ Status: "Want to Read"
 
 > The emergence of language marked an inflection point in humanity’s history, the temporal boundary when this new and unique kind of evolution began: the evolution of ideas. In this way, the emergence of language was as monumental an event as the emergence of the first self-replicating DNA molecules. – Page 391
 
+#### 20: Language In The Brain
+
 > Wernicke’s aphasia, – Page 394
 
 > The point is that language emerges not from the brain as a whole but from specific subsystems. This suggests that language is not an inevitable consequence of having more neocortex. It is not something humans got “for free” by virtue of scaling up a chimpanzee brain. Language is a specific and independent skill that evolution wove into our brains. – Page 396
@@ -263,6 +328,8 @@ Status: "Want to Read"
 > Even before human children can construct grammatical sentences, they will ask others questions: “Want this?” “Hungry?” All languages use the same rising intonation when asking yes/ no questions. When you hear someone speak in a language you do not understand, you can still identify when you are being asked a question. This instinct to understand how to designate a question may also be a key part of our language curriculum. – Page 406
 
 > What makes these skills possible is not a single region that executes them but a curriculum that forces a complex network of regions to work together to learn them. So this is why your brain and a chimp brain are practically identical and yet only humans have language. What is unique in the human brain is not in the neocortex; what is unique is hidden and subtle, tucked deep in older structures like the amygdala and brain stem. It is an adjustment to hardwired instincts that makes us take turns, makes children and parents stare back and forth, and that makes us ask questions. – Page 407
+
+#### 21: The Perfect Storm
 
 > Both Homo erectus and modern humans have a peculiar method of cooling down—while other mammals pant to lower their body temperature, modern humans sweat. These traits would have kept our ancestors’ bodies cool while they were trekking long distances in the hot savannah. – Page 416
 
@@ -292,6 +359,8 @@ Status: "Want to Read"
 
 > Noam Chomsky, who argues that language initially evolved only as a trick for inner thinking. – Page 432
 
+#### 22: Chatgpt And The Window Into The Mind
+
 > This is a downside of reasoning by simulating—we fill in characters and scenes, often missing the true causal and statistical relationships between things. – Page 444
 
 > Children do not simply listen to endless sequences of words until they can predict what comes next. They are shown an object, engage in a hardwired nonverbal mechanism of shared attention, and then the object is given a name. The foundation of language learning is not sequence learning but the tethering of symbols to components of a child’s already present inner simulation. A human brain, but not GPT-3, can check the answers to mathematical operations using mental simulation. – Page 444
@@ -302,28 +371,60 @@ Status: "Want to Read"
 
 > Even if LLMs correctly answer commonsense and theory-of-mind questions, it does not necessarily mean it reasons about these questions in the same way. – Page 452
 
+### Conclusion: The Sixth Breakthrough
+
+#### Page 456 · Location 6103
+
 > Breakthrough #1 was steering: the breakthrough of navigating by categorizing stimuli into good and bad, and turning toward good things and away from bad things. – Page 456
+
+#### Page 456 · Location 6110
 
 > Breakthrough #2 was reinforcing: the breakthrough of learning to repeat behaviors that historically have led to positive valence and inhibit behaviors that have led to negative valence. – Page 456
 
+#### Page 457 · Location 6118
+
 > Breakthrough #3 was simulating: the breakthrough of mentally simulating stimuli and actions. – Page 457
+
+#### Page 457 · Location 6126
 
 > Breakthrough #4 was mentalizing: the breakthrough of modeling one’s own mind. – Page 457
 
+#### Page 458 · Location 6131
+
 > Breakthrough #5 was speaking: the breakthrough of naming and grammar, of tethering our inner simulations together to enable the accumulation of thoughts across generations. – Page 458
+
+#### Page 459 · Location 6143
 
 > Thus far, humanity’s story has been a saga of two acts. Act 1 is the evolutionary story: how biologically modern humans emerged from the raw lifeless stuff of our universe. Act 2 is the cultural story: how societally modern humans emerged from largely biologically identical but culturally primitive ancestors from around one hundred thousand years ago. – Page 459
 
+#### Page 460 · Location 6169
+
 > It can be hard to conceptualize just how young our fourteen-billion-year-old universe actually is. – Page 460
+
+#### Page 463 · Location 6207
 
 > Portia spiders. – Page 463
 
+#### Page 463 · Location 6212
+
 > The more we understand about our own minds, the better equipped we are to create artificial minds in our image. The more we understand about the process by which our minds came to be, the better equipped we are to choose which features of intelligence we want to discard, which we want to preserve, and which we want to improve upon. – Page 463
+
+### Acknowledgments
+
+#### Page 465 · Location 6243
 
 > Rebecca Gelernter and Mesa Schumacher – Page 465
 
+#### Page 467 · Location 6263
+
 > Behave by Robert Sapolsky. – Page 467
 
+### About The Publisher
+
+#### Page 552 · Location 8606
+
 > Although systems don’t necessarily get more complex, the possibility of complexity increases over time. – Page 552
+
+#### Page 564 · Location 8648
 
 > In fact, recent studies show how elegantly evolution modified the function of dopamine while still retaining its earlier role of generating a state of wanting. The amount of dopamine in the input nuclei of the basal ganglia (called the “striatum”) seems to measure the discounted predicted future reward, triggering the state of wanting based on how good things are likely to be and driving animals to focus on and pursue nearby rewards. As an animal approaches a reward, dopamine ramps up, peaking at the moment when an animal expects the reward to be delivered. During this ramping-up process, if predicted rewards change (some omission or new cue changes the probability of getting a reward), then dopamine levels rapidly increase or decrease to account for the new level of predicted future reward. These rapid fluctuations in dopamine levels are produced through the bursting and pausing of dopamine neurons that Schultz found; these rapid fluctuations in dopamine levels are the temporal difference learning signal. The quantity of dopamine floating around in the striatum modifies the excitability of neurons, which shifts behavior toward exploitation and wanting. In contrast, the rapid changes in dopamine levels trigger modifications in the strength of various connections, thereby reinforcing and punishing behaviors. – Page 564

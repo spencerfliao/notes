@@ -7,5 +7,5 @@ Author: "Erich Fromm"
 Year: "1956"
 Field: "Personal Development"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---

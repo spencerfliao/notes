@@ -7,14 +7,23 @@ Author: "Tara Westover"
 Year: "2018"
 Field: "Biographies"
 Subfield: ""
-Status: "Want to Read"
+Status: "Read"
 ---
+
 
 ## Select Quotes
 
+### Part One
+
+#### Chapter 1: Choose The Good
+
 > My strongest memory is not a memory. It’s something I imagined, then came to remember as if it had happened.
 
+#### Chapter 2: The Midwife
+
 > As soon as he could get the money together, he planned to build a pipeline to bring water down from the mountain, and after that he’d install solar panels all over the farm. That way we’d have water and electricity in the End of Days, when everyone else was drinking from puddles and living in darkness.
+
+#### Chapter 3: Cream Shoes
 
 > “A woman’s place is in the home,” he would say every time he saw a married woman working in town. Now I’m older, I sometimes wonder if Dad’s fervor had more to do with his own mother than with doctrine. I wonder if he just wished that she had been home, so he wouldn’t have been left for all those long hours with Grandpa’s temper.
 
@@ -22,7 +31,11 @@ Status: "Want to Read"
 
 > They are both intoxicated with happiness, Mother with a relaxed smile, Dad with a grin so large it pokes out from under the corners of his mustache. It is difficult for me to believe that the untroubled young man in that photograph is my father. Fearful and anxious, he comes into focus for me as a weary middle-aged man stockpiling food and ammunition.
 
+#### Chapter 4: Apache Women
+
 > We kids called her Raccoon Eyes. We thought it was a great joke, once the black rings had been around for a few weeks, long enough for us to get used to them and make them the subject of jokes. We had no idea it was a medical term. Raccoon eyes. A sign of serious brain injury.
+
+#### Chapter 5: Honest Dirt
 
 > “A man can’t make a living out of books and scraps of paper,” Dad said. “You’re going to be the head of a family. How can you support a wife and children with books?”
 
@@ -32,6 +45,8 @@ Status: "Want to Read"
 
 > It would be many years before I would understand what leaving that day had cost him, and how little he had understood about where he was going. Tony and Shawn had left the mountain, but they’d left to do what my father had taught them to do: drive semis, weld, scrap. Tyler stepped into a void. I don’t know why he did it and neither does he. He can’t explain where the conviction came from, or how it burned brightly enough to shine through the black uncertainty. But I’ve always supposed it was the music in his head, some hopeful tune the rest of us couldn’t hear, the same secret melody he’d been humming when he bought that trigonometry book, or saved all those pencil shavings.
 
+#### Chapter 6: Shield And Buckler
+
 > As children, Richard and I had passed countless hours in the debris, jumping from one mangled car to the next, looting some, leaving others. It had been the backdrop for a thousand imagined battles—between demons and wizards, fairies and goons, trolls and giants.
 
 > If I was skeptical, my skepticism was not entirely my fault. It was the result of my not being able to decide which of my mothers to trust. A year before the accident, when Mother had first heard of muscle testing and energy work, she’d dismissed both as wishful thinking. “People want a miracle,” she’d told me. “They’ll swallow anything if it brings them hope, if it lets them believe they’re getting better. But there’s no such thing as magic. Nutrition, exercise and a careful study of herbal properties, that’s all there is. But when they’re suffering, people can’t accept that.” Now Mother said that healing was spiritual and limitless. Muscle testing, she explained to me, was a kind of prayer, a divine supplication. An act of faith in which God spoke through her fingers.
@@ -40,11 +55,19 @@ Status: "Want to Read"
 
 > The skill I was learning was a crucial one, the patience to read things I could not yet understand.
 
+#### Chapter 7: The Lord Will Provide
+
 > I’D STACKED THE DIRTY dishes and was filling the kitchen sink when I heard it—a shrill, strangled cry that began in one key and ended in another. There was no question it was human. I’d never heard an animal bellow like that, with such fluctuations in tone and pitch.
+
+#### Chapter 8: Tiny Harlots
 
 > The days slipped away quickly, as days do when you’re dreading something.
 
+#### Chapter 9: Perfect In His Generations
+
 > The longer I sat motionless, breathing deeply, trying to inhale the last scent of the fallen world, the more I resented its continuing solidity. Nostalgia turned to fatigue.
+
+#### Chapter 10: Shield Of Feathers
 
 > Dad removed the seats, except the two in front, and in their place he put a queen mattress; then he heaved himself onto it and didn’t move for the rest of the drive.
 
@@ -52,19 +75,29 @@ Status: "Want to Read"
 
 > Rob arrived a few hours later, cackling. “Didn’t you folks damned near kill yerselves last time?”
 
+#### Chapter 11: Instinct
+
 > The surgeon who removed them told Shawn to preserve his baby teeth for as long as possible, then when they rotted out, he’d be given posts. But they never rotted out. They stayed, stubborn relics of a misplaced childhood, reminding anyone who witnessed his pointless, endless, feckless belligerence, that this man was once a boy.
 
 > They were the same instincts that, years before, had prompted me to hoist myself from the scrap bin when Dad was dumping it, because they had understood, even if I had not, that it was better to fall from that great height rather than hope Dad would intervene. All my life those instincts had been instructing me in this single doctrine—that the odds are better if you rely only on yourself.
+
+#### Chapter 12: Fish Eyes
 
 > “Well, Siddle Lister,” Shawn said when we pulled into the junkyard, “back three work.”
 
 > I’m only crying from the pain, I told myself. From the pain in my wrist. Not from anything else. This moment would define my memory of that night, and of the many nights like it, for a decade. In it I saw myself as unbreakable, as tender as stone. At first I merely believed this, until one day it became the truth. Then I was able to tell myself, without lying, that it didn’t affect me, that he didn’t affect me, because nothing affected me. I didn’t understand how morbidly right I was. How I had hollowed myself out. For all my obsessing over the consequences of that night, I had misunderstood the vital truth: that its not affecting me, that was its effect.
 
+#### Chapter 13: Silence In The Churches
+
 > as I gazed at the shadow Shawn cast on my wall, aware of my maturing body, of its evils and of my desire to do evil with it, the meaning of that memory shifted. Suddenly that worth felt conditional, like it could be taken or squandered. It was not inherent; it was bestowed. What was of worth was not me, but the veneer of constraints and observances that obscured me.
+
+#### Chapter 14: My Feet No Longer Touch Earth
 
 > I sometimes dreamed about sine, cosine and tangent, about mysterious angles and concussed computations,
 
 > Then I understood why I hadn’t come sooner. I’d been afraid of how I would feel, afraid that if he died, I might be glad.
+
+#### Chapter 15: No More A Child
 
 > no destiny could tolerate him and her. I would remain a child, in perpetuity, always, or I would lose him.
 
@@ -78,17 +111,31 @@ Status: "Want to Read"
 
 > Now that he was sure the machine worked, Dad motioned for Luke to take over, and Luke, ever eager to please, stepped forward. Five minutes later Luke’s arm was gashed to the bone and he was running toward the house, blood spurting.
 
+#### Chapter 16: Disloyal Man, Disobedient Heaven
+
 > “Congratulations.” I’d been admitted for the semester beginning January 5. Mother hugged me. Dad tried to be cheerful. “It proves one thing at least,” he said. “Our home school is as good as any public education.”
+
+### Part Two
+
+#### Chapter 17: To Keep It Holy
 
 > Nowhere was quiet. I’d never spent more than a few hours in a city and found it impossible to defend myself from the strange noises that constantly invaded. The chirrup of crosswalk signals, the shrieking of sirens, the hissing of air brakes, even the hushed chatter of people strolling on the sidewalk—I heard every sound individually. My ears, accustomed to the silence of the peak, felt battered by them.
 
+#### Chapter 18: Blood And Feathers
+
 > “Carevajio.” That didn’t look right. One of the letters was doubled up, I remembered, so I scratched that out and wrote “Carrevagio.” Wrong again. I auditioned different spellings, each worse than the last.
+
+#### Chapter 20: Recitals Of The Fathers
 
 > Shawn had a gift for language, for using it to define others. He began searching through his repertoire of nicknames. “Wench” was his favorite for a few weeks. “Wench, fetch me a grinding wheel,” he’d shout, or “Raise the boom, Wench!”
 
 > I had read that slaves in colonial times were happier and more free than their masters, because the masters were burdened with the cost of their care. That had made sense to me.
 
+#### Chapter 21: Skullcap
+
 > Charles watched in silence but he must have found my behavior absurd, especially when I began to pull on my ear, which still ached dully, so I could test the limits of this strange witchcraft.
+
+#### Chapter 22: What We Whispered And What We Screamed
 
 > “Are you okay?” Charles kept saying. “Of course I am! Shawn is so, so, so—funny.”
 
@@ -100,9 +147,13 @@ Status: "Want to Read"
 
 > my humiliation was the cause of that pleasure. It was not an accident or side effect. It was the objective.
 
+#### Chapter 23: I’M From Idaho
+
 > He never asked why I’d been sneaking into my own house at three in the morning, and I never asked who he’d been waiting for, sitting up in the middle of the night, with a loaded pistol.
 
 > When other students asked where I was from, I said, “I’m from Idaho,” a phrase that, as many times as I’ve had to repeat it over the years, has never felt comfortable in my mouth. When you are part of a place, growing that moment in its soil, there’s never a need to say you’re from there. I never uttered the words “I’m from Idaho” until I’d left it.
+
+#### Chapter 24: A Knight, Errant
 
 > I began to experience the most powerful advantage of money: the ability to think of things besides money.
 
@@ -112,11 +163,17 @@ Status: "Want to Read"
 
 > She hadn’t sent any remedies for the strep or the mono. Only for the penicillin.
 
+#### Chapter 25: The Work Of Sulphur
+
 > In a final, desperate act, she gave Dad an enema, pushing the tube in as far as she dared, trying to flush enough liquid through his rectum to keep him alive. She had no idea if it would work—if there was even an organ in that part of the body to absorb the water—but it was the only orifice that hadn’t been scorched.
 
 > This was the Lord’s pain, he said, and he would feel every part of it.
 
+#### Chapter 27: If I Were A Woman
+
 > “It was a blessing,” he said. “A miracle. God spared my life and extended to me a great calling. To testify of His power. To show people there’s another way besides the Medical Establishment.”
+
+#### Chapter 28: Pygmalion
 
 > “I can stand in this wind, because I’m not trying to stand in it,” I said. “The wind is just wind. You could withstand these gusts on the ground, so you can withstand them in the air. There is no difference. Except the difference you make in your head.” He stared at me blankly. He hadn’t understood. “I’m just standing,” I said. “You are all trying to compensate, to get your bodies lower because the height scares you. But the crouching and the sidestepping are not natural. You’ve made yourselves vulnerable. If you could just control your panic, this wind would be nothing.”
 
@@ -132,11 +189,19 @@ Status: "Want to Read"
 
 > I couldn’t tell him that the reason I couldn’t return to Cambridge was that being here threw into great relief every violent and degrading moment of my life. At BYU I could almost forget, allow what had been to blend into what was. But the contrast here was too great, the world before my eyes too fantastical. The memories were more real—more believable—than the stone spires.
 
+#### Chapter 29: Graduation
+
 > I didn’t tell a single reporter that I’d never gone to school. I didn’t know why I couldn’t tell them. I just couldn’t stand the thought of people patting me on the back, telling me how impressive I was. I didn’t want to be Horatio Alger in someone’s tear-filled homage to the American dream. I wanted my life to make sense, and nothing in that narrative made sense to me.
+
+### Part Three
+
+#### Chapter 30: Hand Of The Almighty
 
 > “Negative liberty,” he said, “is the freedom from external obstacles or constraints. An individual is free in this sense if they are not physically prevented from taking action.” I was reminded for a moment of Richard, who had always seemed able to recite with exactness anything he’d ever read. “Very good,” the lecturer said. “And the second?” “Positive liberty,” another student said, “is freedom from internal constraints.”
 
 > Of the nature of women, nothing final can be known. Never had I found such comfort in a void, in the black absence of knowledge. It seemed to say: whatever you are, you are woman.
+
+#### Chapter 31: Tragedy Then Farce
 
 > Audrey asked me no questions about England or Cambridge. She had no frame of reference for my life, so we talked about hers—how the public school system was corrupt so she was teaching her children herself, at home.
 
@@ -156,23 +221,37 @@ Status: "Want to Read"
 
 > Only then did I understand where the shame had come from: it wasn’t that I hadn’t studied in a marble conservatory, or that my father wasn’t a diplomat. It wasn’t that Dad was half out of his mind, or that Mother followed him. It had come from having a father who shoved me toward the chomping blades of the Shear, instead of pulling me away from them. It had come from those moments on the floor, from knowing that Mother was in the next room, closing her eyes and ears to me, and choosing, for that moment, not to be my mother at all.
 
+#### Chapter 32: A Brawling Woman In A Wide House
+
 > It was as if he wanted to fight, to punish himself for the old woman’s death. Or perhaps the punishment was for her life, for the conflict that had been between them, which had only ended now she was dead.
 
+#### Chapter 35: West Of The Sun
+
 > I had begun to conceive of what my education might cost me, and I had begun to resent it.
+
+#### Chapter 36: Four Long Arms, Whirling
 
 > “Have you ever thought maybe you should just let them go?” I hadn’t, not once. “It’s not permanent,” I said. “I can fix it.”
 
 > Everything I had worked for, all my years of study, had been to purchase for myself this one privilege: to see and experience more truths than those given to me by my father, and to use those truths to construct my own mind. I had come to believe that the ability to evaluate many ideas, many histories, many points of view, was at the heart of what it means to self-create. If I yielded now, I would lose more than an argument. I would lose custody of my own mind. This was the price I was being asked to pay, I understood that now. What my father wanted to cast from me wasn’t a demon: it was me.
 
+#### Chapter 37: Gambling For Redemption
+
 > The thing about having a mental breakdown is that no matter how obvious it is that you’re having one, it is somehow not obvious to you. I’m fine, you think. So what if I watched TV for twenty-four straight hours yesterday. I’m not falling apart. I’m just lazy. Why it’s better to think yourself lazy than think yourself in distress, I’m not sure. But it was better. More than better: it was vital.
 
 > the precious thing, that was the maze. That’s all that was left of the life I’d had here: a puzzle whose rules I would never understand, because they were not rules at all but a kind of cage meant to enclose me. I could stay, and search for what had been home, or I could go, now, before the walls shifted and the way out was shut.
+
+#### Chapter 38: Family
 
 > How do you craft an apology for weakening someone’s ties to his father, to his family? Perhaps there aren’t words for that. How do you thank a brother who refused to let you go, who seized your hand and wrenched you upward, just as you had decided to stop kicking and sink? There aren’t words for that, either.
 
 > I had lost Buck’s Peak, not by leaving but by leaving silently. I had retreated, fled across an ocean and allowed my father to tell my story for me, to define me to everyone I had ever known. I had conceded too much ground—not just the mountain, but the entire province of our shared history. It was time to go home.
 
+#### Chapter 39: Watching The Buffalo
+
 > During the drive back, my aunt Debbie invited me to visit her in Utah. My uncle Daryl echoed her. “We’d love to have you in Arizona,” he said. In the space of a day, I had reclaimed a family—not mine, hers.
+
+#### Chapter 40: Educated
 
 > Guilt is the fear of one’s own wretchedness. It has nothing to do with other people. I shed my guilt when I accepted my decision on its own terms, without endlessly prosecuting old grievances, without weighing his sins against mine. Without thinking of my father at all.
 
