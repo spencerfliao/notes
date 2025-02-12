@@ -1,70 +1,13 @@
 ---
-title: Welcome to my Digital Garden
+title: 🚧👷🦺 Under Construction 建设中
 ---
+> [!note] This site is still a work in progress, but the core functionalities have been built to a **minimum viable product (MVP) level**. You can explore the scripts for my first social media content and notes on books I've read as I continue migrating everything here.
+> 本网站仍在建设中，但尽量保证核心功能已达到**最小可行产品**水平。你可以浏览我的自媒体内容脚本，以及我的一些阅读笔记（仍在迁移过程中）。
+
 Hi, I’m Spencer, an enthusiast and reader on the intersections of technology and humanities, of science and its communication, and of our inner workings in relation to the world’s mechanisms.
 Here, you’ll find works that have influenced my thinking and ideas I believe are worth sharing—categorized by field. And when it comes to understanding ourselves and the systems we live in, I hope that, like me, you’ll come to realize... IT'S SIMPLY COMPLICATED!
+我是一个热衷于探索**技术与人文的交汇点、科学与其传播方式，以及我们自身运作机制与世界体系之间关系**的阅读者与思考者。  
+在这里，你会找到**影响我思考的作品**，以及我认为值得分享的观点——按领域分类整理。而在理解我们自身以及所处的系统时，我希望你能和我一样意识到…… **事情总是简单是表象，复杂是本质！**  
 
-Learn more about me and this site at [[About]].
-## [[Natural & Social Sciences/index.md|Natural & Social Sciences]]
-
-**Featured Ideas**
-* idea1
-* idea2
-* idea3
-
-**Featured Books**
-[[The Inner Game of Tennis]]
-[[Format Ref]]
-
-## [[Self-help/Personal Development/index.md|Personal Development]]
-
-**Featured Ideas**
-* idea1
-* idea2
-* idea3
-
-**Featured Books**
-
-## [[Self-help/Business Thinking/index.md|Business Thinking]]
-
-**Featured Ideas**
-* idea1
-* idea2
-* idea3
-
-**Featured Books**
-```
-```
-
-## [[Other Genres/Humanities/index.md|Humanities]]
-
-**Featured Ideas**
-* idea1
-* idea2
-* idea3
-
-**Featured Books**
-```
-```
-
-## [[Other Genres/Biographies/index.md|Biographies]]
-
-**Featured Ideas**
-* idea1
-* idea2
-* idea3
-
-**Featured Books**
-```
-```
-
-## [[Other Genres/Fiction/index.md|Fiction]]
-
-**Featured Ideas**
-* idea1
-* idea2
-* idea3
-
-**Featured Books**
-```
-```
+Learn more about me and this site at [[About 关于我]].
+了解更多关于我和这个网站的信息，请访问 [[About 关于我]]。
