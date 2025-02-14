@@ -43,7 +43,7 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
                   const text = toString(node).trim()
                   
                   // Ignore headings that start with "–"
-                  if (text.startsWith("–")) return
+                  if (text.startsWith("—")) return
                   
                   highestDepth = Math.min(highestDepth, node.depth)
                   toc.push({
