@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private/**/*.md"],
+    ignorePatterns: ["_private/**/*.md"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
