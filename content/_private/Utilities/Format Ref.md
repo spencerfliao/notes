@@ -1,43 +1,18 @@
 
-## – Subtitle of the Book
+# 1# Select Quotes (never, even bigger than titles)
+## 2# Select Quotes (subtitle and top headings)
+### 3# Select Quotes (actual headings for chapters/sections)
+#### 4# Select Quotes (big ideas, smaller ones are rendered the same size)
 
+**Small ideas**
+text text text text text text text text text text text text
 
-## Select Quote
-
-#### Introduction
-
-
->What is most striking when we examine the brains of other animals is how remarkably similar their brains are to our own. The difference between our brain and a chimpanzee’s brain, besides size, is barely anything. – Page 18
->>==Comment: I wrote this book because I wanted to read this book.==
-
->Survival instincts, emotions, and cognition do not delineate cleanly—they emerge from diverse networks of systems spanning all three of these supposed layers. – Page 21
-
->I wrote this book because I wanted to read this book. – Page 25
-
->The fungal strategy was, by some measures, more successful than the animals’—by biomass, there is about six times more fungus on Earth than animals. But as we will continually see, it is usually the worse strategy, the harder strategy, from which innovation emerges. – Page 45
-
->Active killing was, of course, not new; the first eukaryotes had long ago invented a strategy—phagotrophy—for killing life. But this worked only on level-one (single-cellular) life; level-two multicellular blobs were far too big to engulf into a single cell. And so early animals evolved internal digestion as a strategy for eating level-two life. – Page 46
->>==Comment: Survival instincts, emotions, and cognition do not delineate cleanly—they emerge from diverse networks of systems spanning all three of these supposed layers.==
-
->These features of neurons—all-or-nothing spikes, rate coding, adaptation, and chemical synapses with excitatory and inhibitory neurotransmitters—are universal across all animals, – Page 58
-
-#### 1: The World Before Brains
-
-
-
-# 1 Select Quotes (nope, even bigger than titles)
-## 2 Select Quotes
-### 3 Select Quotes
-#### 4 Select Quotes (smaller ones are rendered the same size)
-
-Select Quotes
-
-block quotes
+block quotes:
 
 >What is most striking when we examine the brains of other animals is how remarkably similar their brains are to our own. The difference between our brain and a chimpanzee’s brain, besides size, is barely anything.
 >>What is most striking when we examine the brains of other animals is how remarkably similar their brains are to our own. The difference between our brain and a chimpanzee’s brain, besides size, is barely anything.
 
-callouts
+callouts:
 
 > [! ] abc
 > vfsnuifves
