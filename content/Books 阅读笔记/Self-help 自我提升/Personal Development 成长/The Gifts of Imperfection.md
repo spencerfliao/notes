@@ -326,4 +326,4 @@ Status: "Read"
 #### Page 104 · Location 1297
 
 > Rather than thinking, I’m the only one, we start thinking, I can’t believe it! You too? I’m normal? I thought it was just me! Once we start to see the big picture, we are better able to reality-check our shame triggers and the messages and expectations that we’re never good enough. – Page 104
-> > ==This is a note for testing and I want to say that I’ve got nothing else to say==
+
