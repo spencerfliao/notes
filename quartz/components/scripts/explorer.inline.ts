@@ -133,3 +133,14 @@ function toggleCollapsedByPath(array: FolderState[], path: string) {
     entry.collapsed = !entry.collapsed
   }
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+  const burgerButton = document.getElementById("explorer-toggle");
+  const explorerContent = document.getElementById("explorer-content");
+  
+  if (burgerButton && explorerContent) {
+    burgerButton.addEventListener("click", () => {
+      explorerContent.classList.toggle("collapsed");
+    });
+  }
+});
