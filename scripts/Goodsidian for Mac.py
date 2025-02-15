@@ -6,12 +6,17 @@ import xml.etree.ElementTree as ET
 # Define shelves and their respective vault paths
 
 shelves = {
-    "biographies": "/Users/SFL/notes/content/Other Genres/Biographies",
-    "business": "/Users/SFL/notes/content/Self-help/Business Thinking",
-    "fiction": "/Users/SFL/notes/content/Other Genres/Fiction",
-    "humanities": "/Users/SFL/notes/content/Other Genres/Humanities",
-    "personal": "/Users/SFL/notes/content/Self-help/Personal Development",
-    "sciences": "/Users/SFL/notes/content/Natural & Social Sciences"
+    "biographies": '/Users/SFL/notes/content/Books 阅读笔记/Other Genres 其他/Biographies 传记',
+    "personal": '/Users/SFL/notes/content/Books 阅读笔记/Self-help 自我提升/Personal Development 成长',
+    "business": '/Users/SFL/notes/content/Books 阅读笔记/Self-help 自我提升/Business Thinking 商业',
+    "fiction": '/Users/SFL/notes/content/Books 阅读笔记/Other Genres 其他/Fiction 小说',
+    "humanities": '/Users/SFL/notes/content/Books 阅读笔记/Other Genres 其他/Humanities 人文',
+    "sciences": '/Users/SFL/notes/content/Books 阅读笔记/Natural & Social Sciences 科学+社科'
+}
+
+WHITELIST_BOOKS = {
+    "The Art of Loving",
+    "Real Happy Pill"
 }
 
 # Goodreads RSS URL template
@@ -51,12 +56,21 @@ def fetch_books(shelf, folder):
     response = urllib.request.urlopen(url)
     feed = response.read().decode("utf-8")
     info = ET.fromstring(feed)
+
+    processed_books = set()
     
     for item in info.findall(".//item"):
-        # Extract metadata
         title_element = item.find("title")
         full_title = title_element.text.strip() if title_element is not None else "Unknown Title"
         short_title = full_title.split(":")[0].strip().split("(")[0].strip()
+
+        # only imported whitelisted
+        if short_title not in WHITELIST_BOOKS:
+            continue
+
+        processed_books.add(short_title)
+        print(f"Processing: {short_title} (from shelf: {shelf})")
+
         subtitle = ""
         if ":" in full_title:
             subtitle += full_title.split(":")[1].strip()
@@ -132,16 +146,39 @@ Status: "{status}"
         # Append preserved content
         if preserved_content:
             content += f"\n{preserved_content}\n"
-            print(f"Kept existing content of: {short_title}")
 
         # Write the updated content back to the note
         with open(filename, "w", encoding="utf-8") as f:
             f.write(content)
+        
+    return processed_books
 
-# Iterate through each shelf and process books
+
+# for shelf, folder in shelves.items():
+#     if not os.path.exists(folder):
+#         os.makedirs(folder)
+#     fetch_books(shelf, folder)
+
+# print('All book notes were updated in Obsidian!')
+
+
+all_processed_books = set()
 for shelf, folder in shelves.items():
     if not os.path.exists(folder):
         os.makedirs(folder)
-    fetch_books(shelf, folder)
+    processed = fetch_books(shelf, folder)
+    all_processed_books.update(processed)
 
-print('All book notes were updated in Obsidian!')
+# Print summary
+print("\n=== Import Summary ===")
+print(f"Successfully processed {len(all_processed_books)} books:")
+for book in sorted(all_processed_books):
+    print(f"✓ {book}")
+
+missing_books = WHITELIST_BOOKS - all_processed_books
+if missing_books:
+    print(f"\nNot found ({len(missing_books)} books):")
+    for book in sorted(missing_books):
+        print(f"✗ {book}")
+
+print('\nBook notes update completed!')
