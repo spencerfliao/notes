@@ -2,7 +2,7 @@
 title: 🚧👷🦺 建设中 Under Construction
 ---
 
-> [!note] This site is still a work in progress, but the core functionalities have been built to a **minimum viable product** (MVP) level. You can explore the scripts for my first social media content and notes on books I've read as I continue migrating everything here.
+> [!note] This site is still a work in progress, but the core functionalities have been built to a minimum viable product (MVP) level. You can explore the scripts for my first social media content and notes on books I've read as I continue migrating everything here.
 > 本网站仍在建设中，但尽量保证核心功能已达到**最小可行产品**水平。你可以浏览我的自媒体内容脚本，以及我的一些阅读笔记（仍在迁移过程中）。
 
 查看我的第一篇自媒体笔记：[[01 起号帖]]。
