@@ -16,5 +16,6 @@ In Terminal:
 crontab -e
 0 * * * * cd /path/to//quartz-repo && if [ -n "$(git status --porcelain)" ]; then git add . && git commit -m "Auto-sync notes from iCloud" && git push origin v4; fi
 ```
+- if you're using mac terminal, save and exit by pressing the escape button and entering `:wq`
 - `git status --porcelain` checks if there are uncommitted changes.
 - the sync only runs if changes exist, which ensures no unnecessary commits!
