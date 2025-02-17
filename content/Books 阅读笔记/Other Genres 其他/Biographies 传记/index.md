@@ -17,5 +17,7 @@ title: Biographies
 [[In Order to Live]]
 [[Know My Name]]
 [[Leonardo da Vinci]]
+[[Minor Feelings]]
 [[Nickel and Dimed]]
 [[Shoe Dog]]
+[[Steve Jobs]]

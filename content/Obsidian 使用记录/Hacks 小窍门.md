@@ -9,3 +9,12 @@
 Added `if (text.startsWith("–")) return` to `toc.ts` in `quartz/plugins` Ignore headings that start with "–" because I format all my subtitles like that.
 ![[Screenshot 2025-02-13 at 22.41.25.png]]
 
+**Syncing Quartz Every Hour When Changes Exist**
+I set up a Cron Job for updating the quartz site every hour but only if changes exist.
+In Terminal:
+```
+crontab -e
+0 * * * * cd /path/to//quartz-repo && if [ -n "$(git status --porcelain)" ]; then git add . && git commit -m "Auto-sync notes from iCloud" && git push origin v4; fi
+```
+- `git status --porcelain` checks if there are uncommitted changes.
+- the sync only runs if changes exist, which ensures no unnecessary commits!

@@ -11,7 +11,7 @@ shelves = {
     "business": '/Users/SFL/notes/content/Books 阅读笔记/Self-help 自我提升/Business Thinking 商业',
     "fiction": '/Users/SFL/notes/content/Books 阅读笔记/Other Genres 其他/Fiction 小说',
     "humanities": '/Users/SFL/notes/content/Books 阅读笔记/Other Genres 其他/Humanities 人文',
-    "sciences": '/Users/SFL/notes/content/Books 阅读笔记/Natural & Social Sciences 科学+社科'
+    "sciences": '/Users/SFL/notes/content/Books 阅读笔记/Natural & Social Sciences 科学'
 }
 
 WHITELIST_BOOKS = {
