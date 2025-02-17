@@ -19,3 +19,15 @@ crontab -e
 - if you're using mac terminal, save and exit by pressing the escape button and entering `:wq`
 - `git status --porcelain` checks if there are uncommitted changes.
 - the sync only runs if changes exist, which ensures no unnecessary commits!
+
+
+网站上还可以放：
+- 我的愿望清单（商品链接）
+- 支持我的梦想（房车，帆船）
+- report a bug
+- comments
+
+If my writing means something to you or has brightened your life, consider:
+- Donating to __
+- Leaving me a nice email or an anonymous compliment!
+I prefer messages over donations.

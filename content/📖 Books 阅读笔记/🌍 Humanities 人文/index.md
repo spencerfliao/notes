@@ -1,5 +1,5 @@
 ---
-title: Humanities
+title: 🌍 Humanities 人文
 ---
 
 
