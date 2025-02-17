@@ -81,6 +81,4 @@ Status: "Read"
 
 ### Selected References
 
-#### Page 129 · Location 1422
-
 > Virus: An illustrated guide to 101 incredible microbes. – Page 129

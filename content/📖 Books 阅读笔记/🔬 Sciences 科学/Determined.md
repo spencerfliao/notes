@@ -17,69 +17,37 @@ Status: "Read"
 
 ### 1. Turtles All The Way Down
 
-#### Page 11 · Location 108
-
 > The approach of this book is to show how that determinism works, to explore how the biology over which you had no control, interacting with environment over which you had no control, made you you. – Page 11
-
-#### Page 12 · Location 129
 
 > we are nothing more or less than the cumulative biological and environmental luck, over which we had no control, that has brought us to any moment. – Page 12
 
-#### Page 13 · Location 143
-
 > we have no free will at all. Here would be some of the logical implications of that being the case: That there can be no such thing as blame, and that punishment as retribution is indefensible—sure, keep dangerous people from damaging others, but do so as straightforwardly and nonjudgmentally as keeping a car with faulty brakes off the road. That it can be okay to praise someone or express gratitude toward them as an instrumental intervention, to make it likely that they will repeat that behavior in the future, or as an inspiration to others, but never because they deserve it. And that this applies to you when you’ve been smart or self-disciplined or kind. Oh, as long as we’re at it, that you recognize that the experience of love is made of the same building blocks that constitute wildebeests or asteroids. That no one has earned or is entitled to being treated better or worse than anyone else. And that it makes as little sense to hate someone as to hate a tornado because it supposedly decided to level your house, or to love a lilac because it supposedly decided to make a wonderful fragrance. That’s what it means to conclude that there is no free will. – Page 13
-
-#### Page 14 · Location 158
 
 > We are not machines in most people’s view; as a clear demonstration, when a driver or an automated car makes the same mistake, the former is blamed more.[ – Page 14
 
-#### Page 14 · Location 164
-
 > we’ll look at the way smart, nuanced thinkers argue for free will, from the perspectives of philosophy, legal thought, psychology, and neuroscience. I’ll be trying to present their views to the best of my ability, and to then explain why I think they are all mistaken. Some of these mistakes arise from the myopia (used in a descriptive rather than judgmental sense) of focusing solely on just one sliver of the biology of behavior. Sometimes this is because of faulty logic, such as concluding that if it’s not possible to ever tell what caused X, maybe nothing caused it. Sometimes the mistakes reflect unawareness or misinterpretation of the science underlying behavior. Most interestingly, I sense that mistakes arise for emotional reasons that reflect that there being no free will is pretty damn unsettling; – Page 14
-
-#### Page 16 · Location 195
 
 > Yeah, no single result or scientific discipline can do that. But—and this is the incredibly important point—put all the scientific results together, from all the relevant scientific disciplines, and there’s no room for free will.[*] – Page 16
 
-#### Page 17 · Location 201
-
 > Crucially, all these disciplines collectively negate free will because they are all interlinked, constituting the same ultimate body of knowledge. If you talk about the effects of neurotransmitters on behavior, you are also implicitly talking about the genes that specify the construction of those chemical messengers, and the evolution of those genes—the fields of “neurochemistry,” “genetics,” and “evolutionary biology” can’t be separated. – Page 17
-
-#### Page 19 · Location 232
 
 > The world is not deterministic; there is free will. These are folks who believe, like I do, that a deterministic world is not compatible with free will—however, no problem, the world isn’t deterministic in their view, opening a door for free-will belief. – Page 19
 
-#### Page 20 · Location 247
-
 > the absence of clear dichotomies leads to frothy philosophical concepts like partial free will, situational free will, free will in only a subset of us, free will only when it matters or only when it doesn’t. – Page 20
-
-#### Page 20 · Location 254
 
 > Thus, my stance is that because the world is deterministic, there can’t be free will, and thus holding people morally responsible for their actions is not okay (a conclusion described as “deplorable” by one leading philosopher whose thinking we’re going to dissect big time). – Page 20
 
-#### Page 21 · Location 270
-
 > Phineas Gage is the textbook case that we are the end products of our material brains. – Page 21
-
-#### Page 21 · Location 272
 
 > Raise a compatibilist philosopher from birth in a sealed room where they never learn anything about the brain. Then tell them about Phineas Gage and summarize our current knowledge about the frontal cortex. If their immediate response is “Whatever, there’s still free will,” I’m not interested in their views. The compatibilist I have in mind is one who then wonders, “OMG, what if I’m completely wrong about free will?,” ponders hard for hours or decades, and concludes that there’s still free will, here’s why, and it’s okay for society to hold people morally responsible for their actions. – Page 21
 
-#### Page 22 · Location 279
-
 > What is free will? Groan, we have to start with that, – Page 22
 
-#### Page 23 · Location 287
-
 > Here’s the challenge to a free willer: Find me the neuron that started this process in this man’s brain, the neuron that had an action potential for no reason, where no neuron spoke to it just before. Then show me that this neuron’s actions were not influenced by whether the man was tired, hungry, stressed, or in pain at the time. That nothing about this neuron’s function was altered by the sights, sounds, smells, and so on, experienced by the man in the previous minutes, nor by the levels of any hormones marinating his brain in the previous hours to days, nor whether he had experienced a life-changing event in recent months or years. And show me that this neuron’s supposedly freely willed functioning wasn’t affected by the man’s genes, or by the lifelong changes in regulation of those genes caused by experiences during his childhood. Nor by levels of hormones he was exposed to as a fetus, when that brain was being constructed. Nor by the centuries of history and ecology that shaped the invention of the culture in which he was raised. Show me a neuron being a causeless cause in this total sense. – Page 23
-
-#### Page 26 · Location 332
 
 > Trade every factor over which they had no control, and you will switch who would be in the graduation robe and who would be hauling garbage cans. This is what I mean by determinism. And Why Does This Matter? Because we all know that the graduate and the garbage collector would switch places. And because, nevertheless, we rarely reflect on that sort of fact; we congratulate the graduate on all she’s accomplished and move out of the way of the garbage guy without glancing at him. – Page 26
 
 ### 2. The Final Three Minutes Of A Movie
-
-#### Page 28 · Location 354
 
 > After reviewing these findings, the purpose of this chapter is to show how, nevertheless, all this is ultimately irrelevant to deciding that there’s no free will. This is because this approach misses 99 percent of the story by not asking the key question: And where did that intent come from in the first place? This is so important because, as we will see, while it sure may seem at times that we are free do as we intend, we are never free to intend what we intend. – Page 28
 
@@ -105,11 +73,7 @@ Status: "Read"
 
 ### 3. Where Does Intent Come From?
 
-#### Page 55 · Location 769
-
 > But no matter how fervent, even desperate, you are, you can’t successfully wish to wish for a different intent. And you can’t meta your way out—you can’t successfully wish for the tools (say, more self-discipline) that will make you better at successfully wishing what you wish for. None of us can. – Page 55
-
-#### Page 55 · Location 776
 
 > turtleism – Page 55
 
@@ -227,8 +191,6 @@ Status: "Read"
 
 ### 5. A Primer On Chaos
 
-#### Page 139 · Location 2074
-
 > These are subjects that fundamentally upend how we think about how complex things work. But nonetheless, they are not where free will dwells. – Page 139
 
 #### Chaoticism You Can Do At Home
@@ -265,11 +227,7 @@ Status: "Read"
 
 ### 7. A Primer On Emergent Complexity
 
-#### Page 168 · Location 2447
-
 > Unpredictable is not the same thing as undetermined; reductive determinism is not the only kind of determinism; chaotic systems are purely deterministic, shutting down that particular angle of proclaiming the existence of free will. – Page 168
-
-#### Page 169 · Location 2454
 
 > The amazingness is not that, wow, something as complicated as Versailles can be built out of simple bricks.[*] It’s that once you made a big enough pile of bricks, all those witless little building blocks, operating with a few simple rules, without a human in sight, assembled themselves into Versailles. This is not chaos’s sensitive dependence on initial conditions, where these identical building blocks actually all differed when viewed at a high magnification, and you then butterflew to Versailles. Instead, put enough of the same simple elements together, and they spontaneously self-assemble into something flabbergastingly complex, ornate, adaptive, functional, and cool. With enough quantity, extraordinary quality just . . . emerges, often even unpredictably.[*],[ 1] As it turns out, such emergent complexity occurs in realms very pertinent to our interests. The vast difference between the pile of gormless, identical building blocks and the Versailles they turned themselves into seems to defy conventional cause and effect. Our sensible sides think (incorrectly . . .) of words like indeterministic. Our less rational sides think of words like magic. In either case, the “self” part of self-assembly seems so agentive, so rife with “be the palace of bricks that you wish to be,” that dreams of free will beckon. – Page 169
 
@@ -379,53 +337,29 @@ Status: "Read"
 
 ### 10.5. Interlude
 
-#### Page 258 · Location 3680
-
 > And those influences are deep and subterranean, and our ignorance of the shaping forces beneath the surface leads us to fill in the vacuum with stories of agency. – Page 258
-
-#### Page 258 · Location 3683
 
 > They all merge into one—evolution produces genes marked by the epigenetics of early environment, which produce proteins that, facilitated by hormones in a particular context, work in the brain to produce you. A seamless continuum leaving no cracks between the disciplines into which to slip some free will. – Page 258
 
-#### Page 259 · Location 3688
-
 > We can’t successfully wish to not wish for what we wish for; – Page 259
-
-#### Page 259 · Location 3690
 
 > Moreover, as the point of chapter 4, it’s biological turtles all the way down with respect to all of who we are, not just some parts. It’s not the case that while our natural attributes and aptitudes are made of sciencey stuff, our character, resilience, and backbone come packaged in a soul. – Page 259
 
-#### Page 259 · Location 3694
-
 > we can’t will ourselves to have more willpower. – Page 259
-
-#### Page 259 · Location 3696
 
 > Yes, all the interesting things in the world can be shot through with chaoticism, including a cell, an organ, an organism, a society. And as a result, there are really important things that can’t be predicted, that can never be predicted. But nonetheless, every step in the progression of a chaotic system is made of determinism, not whim. – Page 259
 
-#### Page 260 · Location 3703
-
 > it can be very unsettling when a sentence doesn’t end in the way that you potato. Likewise when behavior is random. – Page 260
-
-#### Page 260 · Location 3710
 
 > I recognize that I’m on the fringe here, fellow traveling with only a handful of scholars (e.g., Gregg Caruso, Sam Harris, Derk Pereboom, Peter Strawson). – Page 260
 
-#### Page 261 · Location 3724
-
 > Will we ever get to the point where our behavior is entirely predictable, given the deterministic gears grinding underneath? Never—that’s one of the points of chaoticism. But the rate at which we are accruing new insights into those gears is boggling—nearly every fact in this book was discovered in the last fifty years, probably half in the last five. The Society for Neuroscience, the world’s premier professional organization for brain scientists, grew from five hundred founding members to twenty-five thousand in its first quarter century. In the time it has taken you to read this paragraph, two different scientists have discovered the function in the brain of some gene and are already squabbling about who did it first. – Page 261
-
-#### Page 262 · Location 3739
 
 > “There, I just decided to pick up this pen—are you telling me that was completely out of my control?” I don’t have the data to prove it, but I think I can predict above the chance level which of any given pair of students will be the one who picks up the pen. It’s more likely to be the student who skipped lunch and is hungry. It’s more likely to be the male, if it is a mixed-sex pair. It is especially more likely if it is a heterosexual male and the female is someone he wants to impress. It’s more likely to be the extrovert. It’s more likely to be the student who got way too little sleep last night and it’s now late afternoon. Or whose circulating androgen levels are higher than typical for them (independent of their sex). It’s more likely to be the student who, over the months of the class, has decided that I’m an irritating blowhard, just like their father. Marching further back, it’s more likely to be the one of the pair who is from a wealthy family, rather than on a full scholarship, who is the umpteenth generation of their family to attend a prestigious university, rather than the first member of their immigrant family to finish high school. It’s more likely if they’re not a firstborn son. It’s more likely if their immigrant parents chose to come to the U.S. for economic gain as opposed to having fled their native land as refugees from persecution, more likely if their ancestry is from an individualist culture rather than a collectivist one. It’s the first half of this book, providing an answer to their question, “There, I just decided to pick up this pen—are you telling me that was completely out of my control?” Yes, I am. – Page 262
 
 ### 11. Will We Run Amok?
 
-#### Page 264 · Location 3756
-
 > The notion of running amok has a certain appeal. Rampaging like a frenzied, headless chicken can let off steam. It’s often a way to meet new, interesting people, plus it can be pretty aerobic. Despite those clear pluses, I haven’t been seriously tempted to run amok very often. It seems kind of tiring and you get all sweaty. And I worry that I’ll just seem insufficiently committed to the venture and wind up looking silly. – Page 264
-
-#### Page 265 · Location 3775
 
 > The traditional interpretation is one that deftly sidesteps free will—through no fault of their own, the person is believed to be possessed by an evil spirit and is not held accountable for their actions.[ 2] “Don’t blame me; I was possessed by Hantu Belian, the evil tiger spirit of the forest” is just a hop, skip, and a jump away from “Don’t blame me; we are just biological machines.” – Page 265
 
@@ -475,11 +409,7 @@ Status: "Read"
 
 ### 12. The Ancient Gears Within Us: How Does Change Happen?
 
-#### Page 289 · Location 4144
-
 > “If there is no free will, how does anything ever change?” How do you decide shortly after this sentence to change your behavior and grab a brownie? If the world is deterministic on the level that matters, isn’t everything thus already determined? The answer is that we don’t change our minds. Our minds, which are the end products of all the biological moments that came before, are changed by circumstances around us. Which seems like a thoroughly unsatisfying response that is incompatible with your intuitions about how you function. – Page 289
-
-#### Page 290 · Location 4152
 
 > When you begin to be biased against some alien group of people because their customs differ from your own, the biology underlying your change in behavior is the same as when a sea slug learns to avoid a shock administered by a researcher. And that sea slug sure isn’t displaying free will when that change occurs. – Page 290
 
@@ -504,8 +434,6 @@ Status: "Read"
 > Change occurring, accomplished with the same molecules that make for a learned Aplysia, all without invoking the sort of willful agency and freedom that we intuitively attribute change to. You learn about how experience changes the nervous system of an Aplysia, and as a result, your nervous system changes. We don’t choose to change, but it is abundantly possible for us to be changed, including for the better. Perhaps even by having read this chapter. – Page 327
 
 ### 13. We Really Have Done This Before
-
-#### Page 329 · Location 4542
 
 > while change happens, we do not freely choose to change; instead, we are changed by the world around us, and one consequence of that is that we are also changed as to what sources of subsequent change we seek. – Page 329
 
@@ -581,15 +509,9 @@ Status: "Read"
 
 ### 15. If You Die Poor
 
-#### Page 417 · Location 5855
-
 > What the science in this book ultimately teaches is that there is no meaning. There’s no answer to “Why?” beyond “This happened because of what came just before, which happened because of what came just before that.” There is nothing but an empty, indifferent universe in which, occasionally, atoms come together temporarily to form things we each call Me. A whole field of psychology explores terror management theory, trying to make sense of the hodgepodge of coping mechanisms we resort to when facing the inevitability and unpredictability of death. As we know, those responses cover the range of humans at our best and worst—becoming closer to your intimates, identifying more with your cultural values (whether humanitarian or fascist in nature), making the world a better place, deciding to live well as the best revenge. And by now, in our age of existential crisis, the terror we feel when shadowed by death has a kid sibling in our terror when shadowed by meaninglessness. Shadowed by our being biological machines wobbling on top of turtles that go all the way down. We are not captains of our ships; our ships never had captains.[ 2] Fuck. That really blows. Which I think helps explain a pattern. One compatibilist philosopher after another reassuringly proclaims their belief in material, deterministic modernity . . . yet somehow, there is still room for free will. As might be kinda clear by now, I think that this doesn’t work (see chapters 1, 2, 3, 4, 5, 6 . . .). I suspect that most of them know this as well. When you read between the lines, or sometimes even the lines themselves in their writing, a lot of these compatibilists are actually saying that there has to be free will because it would be a total downer otherwise, doing contortions to make an emotional stance seem like an intellectual one. Humans “descended from the apes! Let us hope it is not true, but if it is, let us pray that it will not become generally known,” said the wife of an Anglican bishop in 1860, when told about Darwin’s novel theory of evolution.[*] One hundred fifty-six years later, Stephen Cave titled a much-discussed June 2016 article in The Atlantic “There’s No Such Thing as Free Will . . . but We’re Better Off Believing in It Anyway.”[*] – Page 417
 
-#### Page 419 · Location 5881
-
 > Truth doesn’t always set you free; truth, mental health, and well-being have a complex relationship, something explored in an extensive literature on the psychology of stress. Expose a test subject to a series of unpredictable shocks, and she will activate a stress response. If you warn her ten seconds before each shock that it is coming, the stress response is lessened, as truth girds predictability, giving time to prepare a coping response. Give a warning one second before each shock, and there’s too little time for an effect. But give a warning one minute before and the stress response is worsened, as that minute stretches into feeling a year’s worth of anticipatory dread. Thus, truthful predictive information can lessen, worsen, or have no effect on psychological stress, depending on the circumstances.[ 3] Researchers have explored another facet of our complex relationship with truth. If someone’s actions have produced a mildly adverse outcome, truthfully emphasizing the control he had—“ Think how much worse things could have been, good thing you had control”—blunts his stress response. But if someone’s actions have produced a disastrous outcome, untruthfully emphasizing the opposite—“ No one could have stopped the car in time, the way that child darted out”—can be deeply humane. – Page 419
-
-#### Page 420 · Location 5894
 
 > As some evolutionary biologists have pointed out, the only way humans have survived amid being able to understand truths about life is by having evolved a robust capacity for self-deception.[*] – Page 420
 
@@ -625,50 +547,26 @@ Status: "Read"
 
 ### About The Author
 
-#### Page 702 · Location 12761
-
 > *Continuing to gamble activated brain regions associated with incentives and reward; in contrast, quitting activated regions related to subjective pain, anxiety, and conflict. This is amazing—continuing to gamble with the possibility of losing is less neurobiologically aversive than quitting and contemplating the possibility that you would have won if you hadn’t stopped. We’re a really screwed-up species. – Page 702
-
-#### Page 713 · Location 12810
 
 > *Psychology fans will recognize how this study supports the James-Lange theory of emotion (yes, William James!). In its modern incarnation, it posits that our brain “decides” how strongly we feel about something, in part, by canvassing interoceptive info from the body; for example, if your heart is racing (thanks to unknowingly being given an adrenaline-like drug), you perceive your feelings as being more intense. – Page 713
 
-#### Page 787 · Location 13115
-
 > *Stress and adversity are bad for PFC development and, interestingly, this takes the form of accelerated maturation. Faster maturation equals the door being shut sooner on how much environment can foster optimal PFC growth. – Page 787
-
-#### Page 798 · Location 13173
 
 > “On Exactitude in Science,” in which a cartographer makes a perfect map of an empire, leaving out no detail; the map, of course, is as large as the empire.) – Page 798
 
-#### Page 887 · Location 13569
-
 > *I’m forced here to use a term that I have desperately tried to avoid in the main text, because of the confusion it would sow. The phenomenon of neurotransmitter being released in irreducible-size little packets is known as “quantal” release. I’m not going anywhere near why quantal and quantum have the same roots. – Page 887
-
-#### Page 892 · Location 13585
 
 > *Searle, a particularly clear thinker and writer, attacks the implausibility of a dualism that separates self, mind, consciousness, from the underlying biology, sarcastically asking whether, in a restaurant, it would make sense to say to the waiter, “Look, I am a determinist—que será será, I’ll just wait and see what I order.” What is the problem of free will in neurobiology? According to Searle, it’s not whether it exists, independent of underlying biology—it doesn’t. – Page 892
 
-#### Page 893 · Location 13591
-
 > *In addition to randomness being a pretty implausible building block for free will, it turns out that it is extremely hard for people to actually produce randomness. Ask people to randomly generate a sequence of ones and zeros, and inevitably, a significant degree of patterning slips in. – Page 893
-
-#### Page 911 · Location 13675
 
 > *This antiatheist bias runs alongside a widespread belief that being a scientist precludes being moral (amid scientists generally being respected and viewed as “normal” in degree of caring, trustworthiness, or valuing fairness, and not particularly prone toward atheism). Instead, scientists are viewed as being immoral in realms of loyalty, purity, and obedience to authority. One reason makes sense to me, amid its nearly always being wrong—that in the pursuit of scientific findings, scientists would not hesitate to do things that would be considered immoral by some people (e.g., vivisection, human experimentation, fetal tissue research). The second reason kind of floors me—that scientists would be willing to undermine moral norms by promulgating something, just because it happens to be . . . true. – Page 911
 
-#### Page 926 · Location 13745
-
 > we share roughly 70 percent of our genes with sponges—and they don’t even have neurons. – Page 926
-
-#### Page 942 · Location 13827
 
 > *The book demonstrates the fallacy of the myth that technological advances are intrinsically progressive. In the words of historian Jeffrey Russell of the University of California at Santa Barbara, “The swift propagation of the witch hysteria by the press was the first evidence that Gutenberg had not liberated man from original sin.” – Page 942
 
-#### Page 986 · Location 14033
-
 > *As some sort of cosmic joke, spell-check keeps turning funishment into punishment. – Page 986
-
-#### Page 1016 · Location 14167
 
 > Since my teenage years, I’ve struggled with depression. – Page 1016

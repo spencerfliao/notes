@@ -1,3 +1,4 @@
+
 #### Hi! I'm Spencer
 
 I am deeply interested in interdisciplinary studies that combine **biology, anthropology, and evolutionary psychology** to explore the complexities of human behavior, technological evolution, and societal development, as discussed by leading thinkers like Robert Sapolsky and Richard Dawkins. My reading also focuses on how our understanding of neuroscience and the evolution of brains informs the designs of neural networks and influence the advancement of machine learning techniques.

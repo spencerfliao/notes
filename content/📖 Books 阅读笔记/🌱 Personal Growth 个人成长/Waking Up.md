@@ -17,11 +17,7 @@ Status: "Read"
 
 ### Chapter 1: Spirituality
 
-#### Location 57
-
 > Everything we want to accomplish—to paint the house, learn a new language, find a better job—is something that promises that, if done, it would allow us to finally relax and enjoy our lives in the present. Generally speaking, this is a false hope. I’m not denying the importance of achieving one’s goals, maintaining one’s health, or keeping one’s children clothed and fed—but most of us spend our time seeking happiness and security without acknowledging the underlying purpose of our search. Each of us is looking for a path back to the present: We are trying to find good enough reasons to be satisfied now. Acknowledging that this is the structure of the game we are playing allows us to play it differently.
-
-#### Location 79
 
 > Truly wanting him to be happy made his happiness my own.
 
@@ -58,27 +54,15 @@ Status: "Read"
 
 ### Chapter 2: The Mystery Of Consciousness
 
-#### Location 737
-
 > To say that consciousness may only seem to exist, from the inside, is to admit its existence in full—for if things seem any way at all, that is consciousness. Even if I happen to be a brain in a vat at this moment—and all my memories are false, and all my perceptions are of a world that does not exist—the fact that I am having an experience is indisputable (to me, at least). This is all that is required for me (or any other sentient being) to fully establish the reality of consciousness. Consciousness is the one thing in this universe that cannot be an illusion.
-
-#### Location 744
 
 > gossamer
 
-#### Location 780
-
 > Consciousness may very well be the lawful product of unconscious information processing. But I don’t know what that sentence actually means—and I don’t think anyone else does either.
-
-#### Location 790
 
 > Every chain of explanation must end somewhere—generally with a brute fact that neglects to explain itself. Perhaps consciousness presents an impasse of this sort. 18
 
-#### Location 800
-
 > Why can I pass my hand through liquid water and not through rock? Because the molecules of water are not bound so tightly as to resist my motion. Notice that this explanation of fluidity is perfectly reductive: Fluidity really is “nothing but” the free motion of molecules.
-
-#### Location 828
 
 > Might a mature neuroscience nevertheless offer a proper explanation of consciousness in terms of its underlying brain processes? Again, there is nothing about a brain, studied at any scale, that even suggests that it might harbor consciousness—apart from the fact that we experience consciousness directly and have correlated many of its contents, or lack thereof, with processes in our brains. Nothing about human behavior or language or culture demonstrates that it is mediated by consciousness, apart from the fact that we simply know that it is—a truth that someone can appreciate in himself directly and in others by analogy.
 
@@ -110,8 +94,6 @@ Status: "Read"
 
 ### Chapter 3: The Riddle Of The Self
 
-#### Location 1211
-
 > The question of whether I would land in the left hemisphere or the right doesn’t make sense—being based, as it is, on the illusion that there is a self bobbing on the stream of consciousness like a boat on the water. But the stream of consciousness can divide and follow both tributaries simultaneously. Should these tributaries converge again, the final current would inherit the “memories” of each.
 
 #### Lost In Thought
@@ -137,8 +119,6 @@ Status: "Read"
 > This very likely explains why most of us find movies and television so compelling. The moment we turn our eyes to the screen, we are in a social situation that our hominid genes could not have foreseen: We can view the actions of others, along with the minutiae of their facial expressions—even to the point of making eye contact with them—without the slightest risk of being observed ourselves. Movies and television magically transform the primordial context of face-to-face encounters, in which human beings have always been subjected to harrowing social lessons, allowing us, for the first time, to devote ourselves wholly to the act of observing other people.
 
 ### Chapter 4: Meditation
-
-#### Location 1666
 
 > A review of the psychological literature suggests that mindfulness in particular fosters many components of physical and mental health: It improves immune function, blood pressure, and cortisol levels; it reduces anxiety, depression, neuroticism, and emotional reactivity. It also leads to greater behavioral regulation and has shown promise in the treatment of addiction and eating disorders. Unsurprisingly, the practice is associated with increased subjective well-being. 13 Training in compassion meditation increases empathy, as measured by the ability to accurately judge the emotions of others, 14 as well as positive affect in the presence of suffering. 15 The practice of mindfulness has been shown to have similar pro-social effects.
 
@@ -184,10 +164,6 @@ Status: "Read"
 
 ### Conclusion
 
-#### Location 2707
-
 > What is the meaning of life? What is our purpose on earth? These are some of the great, false questions of religion. We need not answer them, for they are badly posed, but we can live our answers all the same.
-
-#### Location 2732
 
 > changing your perception of the world is often as good as changing the world—but it also allows a person to be miserable even when all the material and social conditions for happiness have been met.

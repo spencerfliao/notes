@@ -17,103 +17,53 @@ Status: "Read"
 
 ### 1   The New Human Agenda
 
-#### Page 1 · Location 356
-
 > For generation after generation humans have prayed to every god, angel and saint, and have invented countless tools, institutions and social systems–but they continued to die in their millions from starvation, epidemics and violence. – Page 1
-
-#### Page 2 · Location 367
 
 > For the first time in history, more people die today from eating too much than from eating too little; more people die from old age than from infectious diseases; and more people commit suicide than are killed by soldiers, terrorists and criminals combined. In the early twenty-first century, the average human is far more likely to die from bingeing at McDonald’s than from drought, Ebola or an al-Qaeda attack. – Page 2
 
-#### Page 5 · Location 426
-
 > In the eighteenth century Marie Antoinette allegedly advised the starving masses that if they ran out of bread, they should just eat cake instead. Today, the poor are following this advice to the letter. – Page 5
-
-#### Page 7 · Location 448
 
 > People readily believed in angels and fairies, but they could not imagine that a tiny flea or a single drop of water might contain an entire armada of deadly predators. – Page 7
 
-#### Page 9 · Location 485
-
 > Altogether the pandemic killed between 50 million and 100 million people in less than a year. The First World War killed 40 million from 1914 to 1918.10 – Page 9
-
-#### Page 12 · Location 528
 
 > (Incidentally cancer and heart disease are of course not new illnesses–they go back to antiquity. In previous eras, however, relatively few people lived long enough to die from them.) – Page 12
 
-#### Page 14 · Location 571
-
 > In 2012 about 56 million people died throughout the world; 620,000 of them died due to human violence (war killed 120,000 people, and crime killed another 500,000). In contrast, 800,000 committed suicide, and 1.5 million died of diabetes. 23 Sugar is now more dangerous than gunpowder. – Page 14
-
-#### Page 15 · Location 576
 
 > Nuclear weapons have turned war between superpowers into a mad act of collective suicide, and therefore forced the most powerful nations on earth to find alternative and peaceful ways to resolve conflicts. – Page 15
 
-#### Page 16 · Location 589
-
 > In consequence, the word ‘peace’ has acquired a new meaning. Previous generations thought about peace as the temporary absence of war. Today we think about peace as the implausibility of war. – Page 16
-
-#### Page 18 · Location 626
 
 > In essence, terrorism is a show. – Page 18
 
-#### Page 18 · Location 630
-
 > Terrorists are like a fly that tries to destroy a china shop. The fly is so weak that it cannot budge even a single teacup. So it finds a bull, gets inside its ear and starts buzzing. The bull goes wild with fear and anger, and destroys the china shop. – Page 18
-
-#### Page 21 · Location 679
 
 > Because Christianity, Islam and Hinduism insisted that the meaning of our existence depended on our fate in the afterlife, they viewed death as a vital and positive part of the world. Humans died because God decreed it, and their moment of death was a sacred metaphysical experience exploding with meaning. – Page 21
 
-#### Page 22 · Location 684
-
 > Modern science and modern culture have an entirely different take on life and death. They don’t think of death as a metaphysical mystery, and they certainly don’t view death as the source of life’s meaning. – Page 22
-
-#### Page 24 · Location 716
 
 > The Universal Declaration of Human Rights does not say that humans have ‘the right to life until the age of ninety’. It says that every human has a right to life, period. That right isn’t limited by any expiry date. – Page 24
 
-#### Page 25 · Location 732
-
 > The writing is on the wall: equality is out–immortality is in. – Page 25
-
-#### Page 25 · Location 743
 
 > We mortals daily take chances with our lives, because we know they are going to end anyhow. So we go on treks in the Himalayas, swim in the sea, and do many other dangerous things like crossing the street or eating out. – Page 25
 
-#### Page 35 · Location 900
-
 > Dramatic improvements in conditions, as humankind has experienced in recent decades, translate into greater expectations rather than greater contentment. – Page 35
-
-#### Page 37 · Location 929
 
 > If you have just been fired (or lost a decisive football match), but you are experiencing very pleasant sensations (perhaps because you popped some pill), you might still feel on top of the world. – Page 37
 
-#### Page 37 · Location 941
-
 > Who knows, perhaps it really happened to some lucky squirrel millions of years ago. But if so, that squirrel enjoyed an extremely happy and extremely short life, and that was the end of the rare mutation. – Page 37
-
-#### Page 40 · Location 991
 
 > People drink alcohol to forget, they smoke pot to feel peaceful, they take cocaine and methamphetamines to be sharp and confident, whereas Ecstasy provides ecstatic sensations and LSD sends you to meet Lucy in the Sky with Diamonds. What some people hope to get by studying, working or raising a family, others try to obtain far more easily through the right dosage of molecules. – Page 40
 
-#### Page 46 · Location 1083
-
 > For thousands of years history was full of technological, economic, social and political upheavals. Yet one thing remained constant: humanity itself. Our tools and institutions are very different from those of biblical times, but the deep structures of the human mind remain the same. – Page 46
-
-#### Page 51 · Location 1182
 
 > No clear line separates healing from upgrading. Medicine almost always begins by saving people from falling below the norm, but the same tools and know-how can then be used to surpass the norm. – Page 51
 
-#### Page 57 · Location 1284
-
 > This is the paradox of historical knowledge. Knowledge that does not change behaviour is useless. But knowledge that changes behaviour quickly loses its relevance. – Page 57
 
-#### Page 59 · Location 1304
-
 > Though historians occasionally try their hand at prophecy (without notable success), the study of history aims above all to make us aware of possibilities we don’t normally consider. Historians study the past not in order to repeat it, but in order to be liberated from it. – Page 59
-
-#### Page 66 · Location 1408
 
 > Homo sapiens does its best to forget the fact, but it is an animal. – Page 66
 
@@ -296,7 +246,5 @@ Status: "Read"
 > In ancient times having power meant having access to data. Today having power means knowing what to ignore. – Page 396
 
 ### Acknowledgments
-
-#### Page 398 · Location 7419
 
 > To Yigal Borochovsky, who convinced me to go easy on God. – Page 398

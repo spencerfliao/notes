@@ -283,6 +283,4 @@ Status: "Read"
 
 ### Afterword: The Animal That Became A God
 
-#### Page 415 · Location 6452
-
 > Is there anything more dangerous than dissatisfied and irresponsible gods who don’t know what they want? – Page 415

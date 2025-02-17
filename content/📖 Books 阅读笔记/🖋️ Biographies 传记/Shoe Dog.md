@@ -17,27 +17,15 @@ Status: "Read"
 
 ### Dawn
 
-#### Location 50
-
 > It was strange being home again, strange being lashed again by the daily rains. Stranger still was living again with my parents and twin sisters, sleeping in my childhood bed. Late at night I’d lie on my back, staring at my college textbooks, my high school trophies and blue ribbons, thinking: This is me? Still?
-
-#### Location 63
 
 > My résumé said I was a learned, accomplished soldier, a twenty-four-year-old man in full . . . So why, I wondered, why do I still feel like a kid? Worse, like the same shy, pale, rail-thin kid I’d always been. Maybe because I still hadn’t experienced anything of life. Least of all its many temptations and excitements.
 
-#### Location 87
-
 > As my young heart began to thump, as my pink lungs expanded like the wings of a bird, as the trees turned to greenish blurs, I saw it all before me, exactly what I wanted my life to be. Play. Yes, I thought, that’s it. That’s the word. The secret of happiness, I’d always suspected, the essence of beauty or truth, or all we ever need to know of either, lay somewhere in that moment when the ball is in midair, when both boxers sense the approach of the bell, when the runners near the finish line and the crowd rises as one. There’s a kind of exuberant clarity in that pulsing half second before winning and losing are decided. I wanted that, whatever that was, to be my life, my daily life.
-
-#### Location 106
 
 > I asked myself: What if there were a way, without being an athlete, to feel what athletes feel? To play all the time, instead of working? Or else to enjoy work so much that it becomes essentially the same thing. The world was so overrun with war and pain and misery, the daily grind was so exhausting and often unjust—maybe the only answer, I thought, was to find some prodigious, improbable dream that seemed worthy, that seemed fun, that seemed a good fit, and chase it with an athlete’s single-minded dedication and purpose.
 
-#### Location 131
-
 > Maybe my memory is enlarging this eureka moment, or condensing many eureka moments into one. Or maybe, if there was such a moment, it was nothing more than runner’s high. I don’t know. I can’t say. So much about those days, and the months and years into which they slowly sorted themselves, has vanished, like those rounded, frosty puffs of breath. Faces, numbers, decisions that once seemed pressing and irrevocable, they’re all gone. What remains, however, is this one comforting certainty, this one anchoring truth that will never go away. At twenty-four I did have a Crazy Idea, and somehow, despite being dizzy with existential angst, and fears about the future, and doubts about myself, as all young men and women in their midtwenties are, I did decide that the world is made up of crazy ideas.
-
-#### Location 148
 
 > When you run around an oval track, or down an empty road, you have no real destination. At least, none that can fully justify the effort. The act itself becomes the destination. It’s not just that there’s no finish line; it’s that you define the finish line.
 
@@ -165,34 +153,18 @@ Status: "Read"
 
 ### Night
 
-#### Location 10292
-
 > Could I have risked as much, dared as much, walked the razor’s edge of entrepreneurship between safety and catastrophe, without the early foundation of that feeling, that bliss of safety and contentment? I don’t think so.
-
-#### Location 10572
 
 > Though we knew that much of the criticism was unjust, that Nike was a symbol, a scapegoat, more than the true culprit, all of that was beside the point. We had to admit: We could do better. We told ourselves: We must do better. Then we told the world: Just watch. We’ll make our factories shining examples. And we did. In the ten years since the bad headlines and lurid exposés, we’ve used the crisis to reinvent the entire company.
 
-#### Location 10618
-
 > I think constantly of the poverty I saw while traveling the world in the 1960s. I knew then that the only answer to such poverty is entry-level jobs. Lots of them.
-
-#### Location 10736
 
 > “It means your original eight-thousand-dollar loan to Phil is worth $ 1.6 million.” They looked at each other, looked at Woodell. “I don’t understand,” his mother said. If you can’t trust the company your son works for, who can you trust?
 
-#### Location 10765
-
 > In Europe, I’m told, there are T-shirts that read, Where is Jeff Johnson? Like the famous opening line from Ayn Rand, Who is John Galt? The answer is, Right where he should be.
-
-#### Location 10840
 
 > I’d tell men and women in their midtwenties not to settle for a job or a profession or even a career. Seek a calling. Even if you don’t know what that means, seek it. If you’re following your calling, the fatigue will be easier to bear, the disappointments will be fuel, the highs will be like nothing you’ve ever felt.
 
-#### Location 10854
-
 > A Harvard Business School study recently ranked all the countries of the world in terms of their entrepreneurial spirit. America ranked behind Peru.
-
-#### Location 10859
 
 > Giving up doesn’t mean stopping. Don’t ever stop.

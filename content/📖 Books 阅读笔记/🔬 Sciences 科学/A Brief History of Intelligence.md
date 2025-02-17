@@ -17,33 +17,19 @@ Status: "Read"
 
 ### Introduction
 
-#### Page 18 · Location 183
-
 > What is most striking when we examine the brains of other animals is how remarkably similar their brains are to our own. The difference between our brain and a chimpanzee’s brain, besides size, is barely anything. – Page 18
 
-#### Page 21 · Location 230
-
 > survival instincts, emotions, and cognition do not delineate cleanly—they emerge from diverse networks of systems spanning all three of these supposed layers. – Page 21
-
-#### Page 25 · Location 276
 
 > I wrote this book because I wanted to read this book. – Page 25
 
 ### 1: The World Before Brains
 
-#### Page 45 · Location 529
-
 > The fungal strategy was, by some measures, more successful than the animals’—by biomass, there is about six times more fungus on Earth than animals. But as we will continually see, it is usually the worse strategy, the harder strategy, from which innovation emerges. – Page 45
-
-#### Page 46 · Location 536
 
 > Active killing was, of course, not new; the first eukaryotes had long ago invented a strategy—phagotrophy—for killing life. But this worked only on level-one (single-cellular) life; level-two multicellular blobs were far too big to engulf into a single cell. And so early animals evolved internal digestion as a strategy for eating level-two life. – Page 46
 
-#### Page 58 · Location 682
-
 > These features of neurons—all-or-nothing spikes, rate coding, adaptation, and chemical synapses with excitatory and inhibitory neurotransmitters—are universal across all animals, – Page 58
-
-#### Page 58 · Location 686
 
 > All-or-nothing electrical spikes triggered rapid and orchestrated reflexive movements so animals could catch prey in response to even the subtlest of touches or smells. Rate coding enabled animals to modify their responses based on the strengths of a touch or smell. Adaptation enabled animals to adjust the sensory threshold for when spikes are generated, allowing them to be highly sensitive to even the subtlest of touches or smells while also preventing overstimulation at higher strengths of stimuli. – Page 58
 
@@ -373,58 +359,32 @@ Status: "Read"
 
 ### Conclusion: The Sixth Breakthrough
 
-#### Page 456 · Location 6103
-
 > Breakthrough #1 was steering: the breakthrough of navigating by categorizing stimuli into good and bad, and turning toward good things and away from bad things. – Page 456
-
-#### Page 456 · Location 6110
 
 > Breakthrough #2 was reinforcing: the breakthrough of learning to repeat behaviors that historically have led to positive valence and inhibit behaviors that have led to negative valence. – Page 456
 
-#### Page 457 · Location 6118
-
 > Breakthrough #3 was simulating: the breakthrough of mentally simulating stimuli and actions. – Page 457
-
-#### Page 457 · Location 6126
 
 > Breakthrough #4 was mentalizing: the breakthrough of modeling one’s own mind. – Page 457
 
-#### Page 458 · Location 6131
-
 > Breakthrough #5 was speaking: the breakthrough of naming and grammar, of tethering our inner simulations together to enable the accumulation of thoughts across generations. – Page 458
-
-#### Page 459 · Location 6143
 
 > Thus far, humanity’s story has been a saga of two acts. Act 1 is the evolutionary story: how biologically modern humans emerged from the raw lifeless stuff of our universe. Act 2 is the cultural story: how societally modern humans emerged from largely biologically identical but culturally primitive ancestors from around one hundred thousand years ago. – Page 459
 
-#### Page 460 · Location 6169
-
 > It can be hard to conceptualize just how young our fourteen-billion-year-old universe actually is. – Page 460
 
-#### Page 463 · Location 6207
-
 > Portia spiders. – Page 463
-
-#### Page 463 · Location 6212
 
 > The more we understand about our own minds, the better equipped we are to create artificial minds in our image. The more we understand about the process by which our minds came to be, the better equipped we are to choose which features of intelligence we want to discard, which we want to preserve, and which we want to improve upon. – Page 463
 
 ### Acknowledgments
 
-#### Page 465 · Location 6243
-
 > Rebecca Gelernter and Mesa Schumacher – Page 465
-
-#### Page 467 · Location 6263
 
 > Behave by Robert Sapolsky. – Page 467
 
 ### About The Publisher
 
-#### Page 552 · Location 8606
-
 > Although systems don’t necessarily get more complex, the possibility of complexity increases over time. – Page 552
-
-#### Page 564 · Location 8648
 
 > In fact, recent studies show how elegantly evolution modified the function of dopamine while still retaining its earlier role of generating a state of wanting. The amount of dopamine in the input nuclei of the basal ganglia (called the “striatum”) seems to measure the discounted predicted future reward, triggering the state of wanting based on how good things are likely to be and driving animals to focus on and pursue nearby rewards. As an animal approaches a reward, dopamine ramps up, peaking at the moment when an animal expects the reward to be delivered. During this ramping-up process, if predicted rewards change (some omission or new cue changes the probability of getting a reward), then dopamine levels rapidly increase or decrease to account for the new level of predicted future reward. These rapid fluctuations in dopamine levels are produced through the bursting and pausing of dopamine neurons that Schultz found; these rapid fluctuations in dopamine levels are the temporal difference learning signal. The quantity of dopamine floating around in the striatum modifies the excitability of neurons, which shifts behavior toward exploitation and wanting. In contrast, the rapid changes in dopamine levels trigger modifications in the strength of various connections, thereby reinforcing and punishing behaviors. – Page 564

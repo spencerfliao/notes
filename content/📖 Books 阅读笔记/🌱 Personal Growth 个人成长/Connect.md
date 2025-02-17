@@ -17,57 +17,31 @@ Status: "Read"
 
 ### 1: Seeking Exceptional
 
-#### Location 137
-
 > Too often, we edit what we disclose out of fear of being poorly judged.
-
-#### Location 145
 
 > Challenging someone can actually be a powerful way of supporting them, and yet few people feel confident they can do it well. Someone with whom you have an exceptional relationship calls you on behaviors that really bother them, and when they do, you know it’s a chance for learning, not something against which you have to put up your guard. They know that in helping you understand the impact of your behavior, they are showing commitment to your relationship and helping you grow.
 
-#### Location 181
-
 > We firmly believe that the best way to learn to be more interpersonally effective is to engage with others in real situations and in real time rather than through lectures, readings, case studies, or, yes, even a book. While Connect covers everything that we teach during class, you will need to use the relationships in your life as your laboratory to get the maximum benefit.
-
-#### Location 189
 
 > Experts have come to recognize that interpersonal/ soft skills are fundamental to professional success.
 
-#### Location 210
-
 > You won’t develop them with everybody. That isn’t possible, because these deep connections require a great deal of effort. What’s more, it’s not necessary.
-
-#### Location 220
 
 > We aren’t promising you the “five easy steps to deep connections” because such steps don’t exist. One size does not fit all.
 
 ### 2: A World-Class Course, One Chapter At A Time
 
-#### Location 243
-
 > the only mistake is refusing to learn from our mistakes. The latter reframes problems as learning opportunities.
-
-#### Location 273
 
 > All relationships vary, but most develop in a similar pattern. They often start with a common interest, like music or hiking. At other times, people might have complementary interests—one likes to make plans and initiate activities, while the other finds it a chore.
 
-#### Location 287
-
 > Obligations and expectations build, as do potential points of contention. How will you deal with inevitable annoyances? If you can face and resolve them well, the relationship becomes even stronger.
-
-#### Location 290
 
 > As you negotiate your evolving relationship, you each learn how to influence the other. You build interdependence that makes it easy to ask for help when you need it and to turn it down when it’s not useful.
 
-#### Location 333
-
 > When the going gets tough, there’s a temptation to say, “I can’t. That’s not me.” True, that may not be you now, but can it never be you? Perhaps it’s not you yet,
 
-#### Location 342
-
 > select four or five relationships—with family, friends, or work colleagues—that you would like to significantly deepen.
-
-#### Location 372
 
 > Our students are required to keep a journal throughout the course, and while many of them hate it at the time, most thank us afterward!
 

@@ -17,15 +17,9 @@ Status: "Read"
 
 ### Prologue
 
-#### Page 20 · Location 224
-
 > And if we want to say we inherit genes from our ancestors—using a word that once referred to kingdoms and estates—then we should consider the possibility that we inherit other things that matter greatly to our existence, from the microbes that swarm our bodies to the technology we use to make life more comfortable for ourselves. – Page 20
 
-#### Page 21 · Location 235
-
 > She would inherit a world as well, a human-shaped environment that would help determine the opportunities and limits of her life. – Page 21
-
-#### Page 21 · Location 240
 
 > I realized how consumed I had become with wondering what versions of DNA she might have inherited from me. I kept my arms folded tightly around her, wondering now what sort of world she was inheriting. – Page 21
 

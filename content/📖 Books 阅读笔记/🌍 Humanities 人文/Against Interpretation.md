@@ -135,14 +135,8 @@ Status: "Read"
 
 ### Afterword: Thirty Years Later …
 
-#### Page 308 · Location 4948
-
 > The radical change I’d made in my own life, a change embedded in my moving to New York, was that I was not going to settle for being an academic: I would pitch my tent outside the seductive, stony safety of the university world. – Page 308
 
-#### Page 311 · Location 4994
-
 > The two poles of distinctively modern sentiment are nostalgia and utopia. Perhaps the most interesting characteristic of the time now labeled the Sixties was that there was so little nostalgia. In that sense, it was indeed a utopian moment. – Page 311
-
-#### Page 312 · Location 5019
 
 > Now the very idea of the serious (and of the honorable) seems quaint, “unrealistic,” to most people, and when allowed—as an arbitrary decision of temperament—probably unhealthy, too. – Page 312

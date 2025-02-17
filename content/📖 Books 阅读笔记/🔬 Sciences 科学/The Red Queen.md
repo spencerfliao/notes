@@ -17,8 +17,6 @@ Status: "Read"
 
 ### Preface
 
-#### Location 65
-
 > Science writers become accustomed to the feeling that they are intellectual plagiarists, raiding the minds of those who are too busy to tell the world about their discoveries. There are scores of people who could have written each chapter of my book better than I. My consolation is that few could have written all the chapters. My role has been to connect the patches of others’ research together into a quilt. But I remain deeply indebted and grateful to all those whose minds I raided.
 
 ### The Red Queen
