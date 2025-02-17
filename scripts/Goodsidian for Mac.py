@@ -9,7 +9,6 @@ shelves = {
     "biographies": '/Users/SFL/notes/content/Books 阅读笔记/Other Genres 其他/Biographies 传记',
     "personal": '/Users/SFL/notes/content/Books 阅读笔记/Self-help 自我提升/Personal Development 成长',
     "business": '/Users/SFL/notes/content/Books 阅读笔记/Self-help 自我提升/Business Thinking 商业',
-    "fiction": '/Users/SFL/notes/content/Books 阅读笔记/Other Genres 其他/Fiction 小说',
     "humanities": '/Users/SFL/notes/content/Books 阅读笔记/Other Genres 其他/Humanities 人文',
     "sciences": '/Users/SFL/notes/content/Books 阅读笔记/Natural & Social Sciences 科学'
 }

@@ -13,5 +13,5 @@ Here, you’ll find works that have influenced my thinking and ideas I believe a
 我是一个热衷于探索技术与人文、科学与普及，以及我们自身系统与世界运作机制之间**交汇点**的学者。  
 在这里，你会找到影响我思考的作品，以及我认为值得分享的观点——按领域分类整理。而在理解我们自身以及所处的系统时，我希望你能和我一样意识到…… **事情总是简单是表象，复杂是本质！**  
 
-Learn more about me and this site at [[About 关于我]].
-了解更多关于我和这个网站的信息，请访问 [[About 关于我]]。
+Learn more about me and this site at [[🐣 About 关于我]].
+了解更多关于我和这个网站的信息，请访问 [[🐣 About 关于我]]。
