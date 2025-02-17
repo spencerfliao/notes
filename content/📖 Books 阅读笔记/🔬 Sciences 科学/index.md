@@ -44,7 +44,7 @@ title: Natural & Social Sciences
 
 **Full List of Books in this Category A-Z**
 [[A Brief History of Intelligence]]
-[[📖 Books 阅读笔记/🔬 Natural & Social Sciences 科学/A Brief History of Intelligence notes]]
+[[📖 Books 阅读笔记/🔬 Sciences 科学/A Brief History of Intelligence notes]]
 [[A Planet of Viruses]]
 [[Astrophysics]]
 [[Astrophysics for People in a Hurry]]
