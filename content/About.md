@@ -14,3 +14,5 @@ You can also see an **interactive graph view** that shows the current article 
 
 I continually update my most recent studies through note-taking and quotes of book, courses, and documentaries.
 我会持续更新最新的学习笔记，并记录书籍、课程和纪录片中的重要观点。
+
+这个网站是直接将我的[[Obsidian]]笔记库搬到线上的（用的Quartz），没有做任何专门的网站化设计。

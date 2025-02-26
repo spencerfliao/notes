@@ -5,6 +5,7 @@ outdated myth of 3 layers
 * instincts/emotions/cognition
 * do not delineate clealy and span all supposed layers
 
+⠀
 
 ## 0 First Neurons: Reflex
 
@@ -12,12 +13,14 @@ outdated myth of 3 layers
 * invented digestion VS engulfing single-celled life
 * coral-like reflex to sense & respond to food
 
-**neuron universal features**
+⠀
+**neuron uinversal features**
 * all-or-nothing spikes: can respond to subtle stimuli
 * rate coding: strength-sensitive
 * adaptation: adjust threshold to avoid under- or overstimulation
 * excitatory/inhibitory synapses: enables logic
 
+⠀
 
 ## 1 Breakthrough: Steering
 
@@ -29,16 +32,19 @@ outdated myth of 3 layers
   * diff sensory cells vote for steering in diff directions
   * calculates trade-offs & makes single decision
 
+⠀
 **internal states modulates complex responses**
-![[High arousal 1.png]]
-* direction (good VS bad) and extent (strong VS weak) of internal states ≈ primitive emotions
+![](Screenshot%202024-10-03%20at%2015.45.46.png)
+* direction (good VS bad) and entent (strong VS weak) of internal states ≈ primitive emotions
 * tricks to solve sets of problems
 
+⠀
 **persistence of internal state**
 * triggered by external stimuli
 * solve the problem of hints being transient (smell of food, threat of predator)
 * coral, jelly fish etc. lack affective states → emerged from steering
 
+⠀
 **basic neurotransmitters**
 * dopamine
   * detects food → desire (pos high arousal for exploitation)
@@ -51,15 +57,18 @@ outdated myth of 3 layers
 * opioids
   * after stress response → immobile, ↑pleasure, ↓pain, no sex drive
 
+⠀
 **relief state ≠ baseline**
-* e.g. worm starved will binge eat and pass out because: starvation → signal that food is scarce → stock up in preparation for starvation
+* e.g. worm starved will binge eat and pass out because: starvation → signal that food is scarce → stock up in preperation for starvation
 * in general: stress → circumstances are dire → trauma response is what prepares for the next stressor
 
+⠀
 **primitive depression**
 * acute stress: escapable neg stimuli, spend energy to do so
 * chronic stress: inescapable neg stimuli, preserve energy and wait
 * stress hormones + serotonin = numbness, low arousal & motivation
 
+⠀
 **associative learning**
 * ability to learn associations
   * between stimuli (bell & food)
@@ -74,6 +83,7 @@ outdated myth of 3 layers
   * latent inhibition: frequent stimuli flagged as irrelevant noise
   * blocking stick to established cues and ignore others
 
+⠀
 
 ## 2 Breakthrough: Reinforcement Learning
 
@@ -82,6 +92,7 @@ outdated myth of 3 layers
 * law of effect: responses that produce good/bad effect become more/less likely to occur in that situation
 * complex, indirect, over time VS associative learning: simple, direct, immediate
 
+⠀
 temporal credit assignment: to discern meaningful cues across time
 * ↑dopamine when ↑anticipate future reward (expectation)
 * ↑dopamine when ↓anticipate future penalty (relief)
@@ -89,20 +100,23 @@ temporal credit assignment: to discern meaningful cues across time
 * ↓dopamine when ↑anticipate future penalty (fear/anxiety)
 * signal for reinforcement (decoupled from reward itself for it to work)
 
+⠀
 temporal difference learning in ML
 * actor: decides on action
 * predictor: predict change in future reward for that action
 * actor’s learning: not on actual reward/win, but the “change” predicted
 
-temporal difference learning in vertebrates
-![[Active inhibitory connection 2.png]]
+⠀
+temporal difference learning in vertabrates
+![](Screenshot%202024-10-04%20at%2016.20.39.png)
 * hypothalamus: decider of actual reward
 * actor: basal ganglia → motor system, learn to trigger dopamine
 * critic: basal ganglia → dopamine neurons, learn to anticipate reward & judging itself on how well it predicted the value of actions before hypothalamus gives feedback on actual reward
 
+⠀
 pattern recognition
-* discrimination problem (separating similar patterns)
-![[Predator smell.png]]
+* discrimination problem (seperating similar patterns)
+* ![](Screenshot%202024-10-04%20at%2016.32.22.png)
   * dimensionality expansion: few inputs → many outputs
   * sparsity: an input only connects to a few outputs
 * generalization problem
@@ -117,11 +131,13 @@ pattern recognition
   * reward for novelty, making exploration itself reinforcing (curiosity required for reinforcement learning to work)
   * e.g. novelty triggers dopamine, though there is no external reward
 
+⠀
 internal model
 * percieves its own direction in hindbrain (vestibular sense)
 * percieves 3d space in hippocampus (place cells for spatial maps)
 * constructs model: representation of the external world, initially for remembering locations
 
+⠀
 
 ## 3 Breakthrough: Simulation
 
@@ -133,16 +149,19 @@ requirements for evolving simulation
   * evolved for nocturnal life that avoids ectothermic reptiles
   * sensitive to temperature, could operate faster & stable
 
+⠀
 neocortex features
 * neurons connected vertically across layers respond to similar stimuli, and their horizontal neighbors to others
 * same type of neurons with identical structure for processing of different kinds of sensory information
 * perception & imagination performed with same area
 
+⠀
 perception is simulation
 * filling in + one at a time + cannot unperceive
 * inference: we don’t perceive what is actually experienced, we pecieve a simulated reality infered from what we experience
 * perception optimize for the inner simulated reality’s accuracy in predicting the external sensory input
 
+⠀
 generative: recognize by simulating
 * humans optimize for how well simulated reallity predicts external sensory inputs
 * Helmholtz machine
@@ -155,6 +174,7 @@ generative: recognize by simulating
   * wake phase only: autoencoders; sleep phase comparable to imagining/dreaming
   * unsupervised, but learns to both generalize pattern & generate novel examples of those patterns
 
+⠀
 above = evidence that perception is generative model creating simulation of the wolrd to match sensory inputs
 
 
@@ -165,12 +185,13 @@ above = evidence that perception is generative model creating simulation of the 
 
 ## ML & Bio
 
-1. cleaning machine & worm nervous system
-2. actor/critic system & basal ganglia
-3. CNN & visual cortex
-4. Montezuma’s Revenge & curiosity mechanism
-5. recognize by simulation & Helmholtz machine
+0. cleaning machine & worm nervous system
+1. actor/critic system & basal ganglia
+2. CNN & visual cortex
+3. Montezuma’s Revenge & curiosity mechanism
+4. recognize by simulation & Helmholtz machine
 
+⠀
 ## Other ideas
 
 “I wrote this book because I wanted to read this book.”
@@ -181,21 +202,26 @@ scrolling & gambling exploits uncertainty reinforcement
 * not sure of the outcome (interesting content randomly shows up; surprising when you win at casino)
 * activity itself is unrewarding, but is pursued anyway
 
+⠀
 *-Max Bennett. A Brief History of Intelligence*
 
 ## Graphs (by Max Bennett and Rebecca Gelernter)
 
 **1**
+![](Screenshot%202024-10-04%20at%2015.47.34.png)
+![](Screenshot%202024-10-04%20at%2015.48.17.png)
+![](Screenshot%202024-10-04%20at%2015.48.34.png)
+![](Screenshot%202024-10-04%20at%2015.49.35.png)
 
 **2**
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-10-04%20at%2015.50.18.png)
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-10-04%20at%2015.51.08.png)
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-10-04%20at%2015.51.53.png)
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-10-04%20at%2015.52.46.png)
+![](Screenshot%202024-10-04%20at%2015.50.18.png)
+![](Screenshot%202024-10-04%20at%2015.51.08.png)
+![](Screenshot%202024-10-04%20at%2015.51.53.png)
+![](Screenshot%202024-10-04%20at%2015.52.46.png)
 
 **3**
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-10-04%20at%2016.05.07.png)
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-10-04%20at%2016.05.41.png)
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-10-04%20at%2016.05.55.png)
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-10-04%20at%2016.44.08.png)
-![](A%20Brief%20History%20of%20Intelligence%20notes/Screenshot%202024-12-19%20at%2001.19.52.png)
+![](Screenshot%202024-10-04%20at%2016.05.07.png)
+![](Screenshot%202024-10-04%20at%2016.05.41.png)
+![](Screenshot%202024-10-04%20at%2016.05.55.png)
+![](Screenshot%202024-10-04%20at%2016.44.08.png)
+![](Screenshot%202024-12-19%20at%2001.19.52.png)
