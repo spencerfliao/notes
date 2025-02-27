@@ -1,1 +1,0 @@
-We predict the future based on past memories. BUT our past memories are fallible, so we remember things not as they actually happened, but as we think they happened and tend to fill in details.
