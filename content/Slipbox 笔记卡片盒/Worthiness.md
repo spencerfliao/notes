@@ -1,3 +1,0 @@
-- unconditional: imperfection/vulnerability doesn’t change courage & we are enough just as we are and worthy of love
-- now: it has no prerequisites
-- it lives inside our story: alienating parts of ourselves that don’t fit the “perfect” self = stand outside of our story & leads to proving, performing, pleasing
