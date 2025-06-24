@@ -1,0 +1,12 @@
+
+- **self-relationship sets the blueprint for external relationships**
+	- You can only **love** others as much as you love yourself
+	- You can only **belong** as much as you **accept** yourself
+	- Until we **receive** with an open heart, we cannot truly give **with** one
+	- We **judge** others as we judge ourselves
+	- When we don’t give ourselves **permission to be** free, we rarely tolerate that freedom in others
+- The reverse: feeling loved can facilitate self-love, but only if the person is open to receiving it (unlearn self-rejection)
+- NOT 'treating others by how you want to be treated'
+	- One-way: value → behavior, rather than ↔︎
+	- What if you don't know / don't treat yourself well
+	- Self-compassion need to be learned first

@@ -1,0 +1,3 @@
+Moth
+- By charting those changes over nearly a decade, Ford had begun to watch evolution in action. He had documented gradual changes in the color of moth coats (and thus changes in genes), grand fluctuations in populations and signs of natural selection by moth predators—a macrocosm caught in a marsh.
+- It was Ford’s student Henry B. D. Kettlewell who used this moth-labeling technique to show that dark-colored moths—better camouflaged on pollution-darkened trees—tended to be spared by predatory birds, thus demonstrating “natural selection” in action.

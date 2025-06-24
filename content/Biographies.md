@@ -1,0 +1,19 @@
+
+- **2001 [[A Primate's Memoir]]**
+- **2001 [[Nickel and Dimed]]**
+- **2011 [[Steve Jobs]]**
+- **2014 [[Bad Feminist]]**
+- **2015 [[In Order to Live]]**
+- **2015 [[Between the World and Me]]**
+- **2016 [[Shoe Dog]]**
+- **2017 [[Leonardo da Vinci]]**
+- **2018 [[Educated]]**
+- **2018 [[Becoming]]**
+- **2019 [[Know My Name]]**
+- **2020 [[Minor Feelings]]**
+- 2020 Why Fish Don't Exist
+- **2021 [[Crying in H Mart]]**
+- **2022 [[Anna]]**
+- **2022 [[I'm Glad My Mom Died]]**
+- **2023 [[Coming Up for Air]]**
+- **2023 [[Elon Musk]]**
