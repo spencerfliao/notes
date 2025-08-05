@@ -1,5 +1,5 @@
 
-[[Biology VS Physics]]
+[[Biology & Physics]]
 
 Detail vs whole picture
 ![[Death by Black Hole#^1c37a5]]

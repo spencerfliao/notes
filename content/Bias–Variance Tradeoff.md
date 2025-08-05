@@ -1,5 +1,5 @@
 
-Effective learning ≠ overfitting
+Effective learning vs overfitting
 ![[Genome#^69e9fa]]
 - Comparable to machine learning: mixture of bias (remembering) & generalization (forgetting)
 

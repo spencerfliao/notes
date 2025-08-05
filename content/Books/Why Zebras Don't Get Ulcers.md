@@ -10,6 +10,8 @@ Topic:
 ---
 
 Acute [[Stress]] response adapted for physical challenges → chronically activated by psychological stressors
+- Chronic processes being harmful
+- Overshoot of adaptive decline back to baseline
 
 Pathways
 - [[Autonomic nervous system]]
@@ -86,21 +88,21 @@ Once again, we deal with the central concept of stress physiology in explaining 
 
 ### 4 Stress, Metabolism, And Liquidating Your Assets
 
-The basic process of digestion consists of breaking down chunks of animals and vegetables so that they can then be transformed into chunks of human. We can’t make use of the chunks exactly as they are; we can’t, for example, make our leg muscles stronger by grafting on the piece of chicken muscle we ate. Instead, complex food matter is broken down into its simplest parts (molecules): amino acids (the building blocks of protein), simple sugars like glucose (the building blocks of more complex sugars and of starches [carbohydrates]), and free fatty acids and glycerol (the constituents of fat).
+The basic process of digestion consists of breaking down chunks of animals and vegetables so that they can then be transformed into chunks of human. We can’t make use of the chunks exactly as they are; we can’t, for example, make our leg muscles stronger by grafting on the piece of chicken muscle we ate. Instead, complex food matter is broken down into its simplest parts (molecules): amino acids (the building blocks of protein), simple sugars like glucose (the building blocks of more complex sugars and of starches [carbohydrates]), and free fatty acids and glycerol (the constituents of fat). ^e0231d
 
-We even secrete insulin when we are about to fill our bloodstream with all those nutritive building blocks: if you eat dinner each day at six o’clock, by five forty-five you’re already secreting insulin in anticipation of the rising glucose levels in your bloodstream.
+We even secrete insulin when we are about to fill our bloodstream with all those nutritive building blocks: if you eat dinner each day at six o’clock, by five forty-five you’re already secreting insulin in anticipation of the rising glucose levels in your bloodstream. ^fbea55
 
-Combine the insights into these measures mathematically and, collectively, this information was significantly predictive of who was going to have heart disease, a decline in cognitive or physical functioning, and mortality, far more predictive than subsets of those variables alone.
+Throw in some other measures as well—including resting levels of glucocorticoids, epinephrine, norepinephrine. Combine the insights into these measures mathematically and, collectively, this information was significantly predictive of who was going to have heart disease, a decline in cognitive or physical functioning, and mortality, far more predictive than subsets of those variables alone. ^0373f6
 
 ### 5 Ulcers, The Runs, And Hot Fudge Sundaes
 
-The official numbers are that stress makes about two-thirds of people hyperphagic (eating more) and the rest hypophagic.*
+The official numbers are that stress makes about two-thirds of people hyperphagic (eating more) and the rest hypophagic.* ^94192e
 
-What is really fascinating is that glucocorticoids don’t just stimulate appetite—they stimulate it preferentially for foods that are starchy, sugary, or full of fat—and we reach for the Oreos and not the celery sticks.
+What is really fascinating is that glucocorticoids don’t just stimulate appetite—they stimulate it preferentially for foods that are starchy, sugary, or full of fat—and we reach for the Oreos and not the celery sticks. ^a596e2
 
-What this first person is actually experiencing is frequent intermittent stressors. And what’s going on hormonally in that scenario? Frequent bursts of CRH release throughout the day. As a result of the slow speed at which glucocorticoids are cleared from the circulation, elevated glucocorticoid levels are close to nonstop. Guess who’s going to be scarfing up Krispy Kremes all day at work? So a big reason why most of us become hyperphagic during stress is our westernized human capacity to have intermittent psychological stressors throughout the day. The type of stressor is a big factor.
+What this first person is actually experiencing is frequent intermittent stressors. And what’s going on hormonally in that scenario? Frequent bursts of CRH release throughout the day. As a result of the slow speed at which glucocorticoids are cleared from the circulation, elevated glucocorticoid levels are close to nonstop. Guess who’s going to be scarfing up Krispy Kremes all day at work? So a big reason why most of us become hyperphagic during stress is our westernized human capacity to have intermittent psychological stressors throughout the day. The type of stressor is a big factor. ^2db12f
 
-That’s exactly the time when most people decide that, as a coping device, as a means of being nice to themselves during a tough time, they need to ease up on something about which they’re normally pretty regimented. So if you normally force yourself to watch Masterpiece Theater instead of reality TV as some sort of gesture of self-improvement, on goes Survivor XII. And if it’s food intake that you’re normally regimented about, out come the fudge brownies.
+That’s exactly the time when most people decide that, as a coping device, as a means of being nice to themselves during a tough time, they need to ease up on something about which they’re normally pretty regimented. So if you normally force yourself to watch Masterpiece Theater instead of reality TV as some sort of gesture of self-improvement, on goes Survivor XII. And if it’s food intake that you’re normally regimented about, out come the fudge brownies. ^16e122
 
 Glucocorticoids not only increase appetite but, as an additional means to recover from the stress-response, also increase the storage of that ingested food.
 
@@ -116,15 +118,15 @@ Just think, your femur is made up of tiny pieces of your mother’s chicken potp
 
 In other words, these FOADish tendencies can be transmitted across generations, without the benefit of genes. It’s not due to shared genes, but to shared environment, namely, the intimately shared blood supply during gestation.
 
-To take a concrete, nuts and bolts feature of growth, the rate at which this child was depositing calcium in his long bones could be successfully predicted by his proximity to a loved one. You can’t ask for a clearer demonstration that what is going on in our heads influences every cell in our bodies.
+To take a concrete, nuts and bolts feature of growth, the rate at which this child was depositing calcium in his long bones could be successfully predicted by his proximity to a loved one. You can’t ask for a clearer demonstration that what is going on in our heads influences every cell in our bodies. ^9e85a1
 
 It turns out to be touch, and it has to be active touching.
 
-You begin by reading her book assuming it is going to be an assortment box of prescriptions, that at the end, you’ll emerge with a perfect combo for your kids, a mixture of the Kwakiutl Baby Diet, the Trobriand Sleeping Program, and the Ituri Pygmy Infant Aerobics Plan. But, Small emphasizes, there is no perfect, “natural” program. Societies raise their children so that they grow into adults who behave in a way valued by that society. As Harry Chapin sang in “Cat’s in the Cradle,” that ode to baby boomer remorse, “My boy was just like me.”
+There is no perfect, “natural” program. Societies raise their children so that they grow into adults who behave in a way valued by that society. As Harry Chapin sang in “Cat’s in the Cradle,” that ode to baby boomer remorse, “My boy was just like me.” ^212cac
 
 Something roughly akin to love is needed for proper biological development, and its absence is among the most aching, distorting stressors that we can suffer.
 
-They have taught us the science of why we primates love individuals who treat us badly, why the mistreatment can at times increase the love. They have taught us about why being abused as a child increases the risk of your being an abusive adult.
+They have taught us the science of why we primates love individuals who treat us badly, why the mistreatment can at times increase the love. They have taught us about why being abused as a child increases the risk of your being an abusive adult. ^62a304
 
 ### 7 Sex And Reproduction
 
@@ -136,17 +138,17 @@ This new understanding generates tricks that sexual therapists advise—if you a
 
 The Gods Must Be Crazy)
 
-Think about it: over the course of her life span, she has perhaps two dozen periods. Contrast that with modern Western women, who typically experience hundreds of periods over their lifetime. Huge difference. The hunter-gatherer pattern, the one that has occurred throughout most of human history, is what you see in nonhuman primates. Perhaps some of the gynecological diseases that plague modern westernized women have something to do with this activation of a major piece of physiological machinery hundreds of times when it may have evolved to be used only twenty times; an example of this is probably endometriosis (having uterine lining thickening and sloughing off in places in the pelvis and abdominal wall where it doesn’t belong), which is more common among women with fewer pregnancies and who start at a later age.*
+Think about it: over the course of her life span, she has perhaps two dozen periods. Contrast that with modern Western women, who typically experience hundreds of periods over their lifetime. Huge difference. The hunter-gatherer pattern, the one that has occurred throughout most of human history, is what you see in nonhuman primates. Perhaps some of the gynecological diseases that plague modern westernized women have something to do with this activation of a major piece of physiological machinery hundreds of times when it may have evolved to be used only twenty times; an example of this is probably endometriosis (having uterine lining thickening and sloughing off in places in the pelvis and abdominal wall where it doesn’t belong), which is more common among women with fewer pregnancies and who start at a later age. ^e0a9ec
 
-Theresienstadt concentration camp, 54 percent of the reproductive-age women were found to have stopped menstruating. This is hardly surprising; starvation, slave labor, and unspeakable psychological terror are going to disrupt reproduction. The point typically made is that, of the women who stopped menstruating, the majority stopped within their first month in the camps—before starvation and labor had pushed fat levels down to the decisive point. Many researchers cite this as a demonstration of how disruptive even psychological stress can be to reproduction. To me, the surprising fact is just the opposite. Despite starvation, exhausting labor, and the daily terror that each day would be their last, only 54 percent of those women ceased menstruating. Reproductive mechanisms were still working in nearly half the women (although a certain number may have been having anovulatory cycles). And I would wager that despite the horrors of their situation, there were still many men who were reproductively intact. That reproductive physiology still operated in any individual to any extent, under those circumstances, strikes me as extraordinary.
+Theresienstadt concentration camp, 54 percent of the reproductive-age women were found to have stopped menstruating. This is hardly surprising; starvation, slave labor, and unspeakable psychological terror are going to disrupt reproduction. The point typically made is that, of the women who stopped menstruating, the majority stopped within their first month in the camps—before starvation and labor had pushed fat levels down to the decisive point. Many researchers cite this as a demonstration of how disruptive even psychological stress can be to reproduction. To me, the surprising fact is just the opposite. Despite starvation, exhausting labor, and the daily terror that each day would be their last, only 54 percent of those women ceased menstruating. Reproductive mechanisms were still working in nearly half the women (although a certain number may have been having anovulatory cycles). And I would wager that despite the horrors of their situation, there were still many men who were reproductively intact. That reproductive physiology still operated in any individual to any extent, under those circumstances, strikes me as extraordinary. ^85e06f
 
-The basic machinery of reproduction can be astoundingly resistant to stress in a subset of individuals, as evidence from the Holocaust shows. Reproduction is one of the strongest of biological reflexes—just ask a salmon leaping upstream to spawn, or males of various species risking life and limb for access to females, or any adolescent with that steroid-crazed look. But when it comes to the pirouettes and filigrees of sexuality, stress can wreak havoc with subtleties. That may not be of enormous consequence to a starving refugee or a wildebeest in the middle of a drought. But it matters to us, with our culture of multiple orgasms and minuscule refractory periods and oceans of libido. And while it is easy to make fun of those obsessions of ours, those nuances of sexuality, the Cosmos and GQs and other indices of our indulged lives, matter to us. They provide us with some of our greatest, if also our most fragile and evanescent, joys.
+The basic machinery of reproduction can be astoundingly resistant to stress in a subset of individuals, as evidence from the Holocaust shows. Reproduction is one of the strongest of biological reflexes—just ask a salmon leaping upstream to spawn, or males of various species risking life and limb for access to females, or any adolescent with that steroid-crazed look. But when it comes to the pirouettes and filigrees of sexuality, stress can wreak havoc with subtleties. That may not be of enormous consequence to a starving refugee or a wildebeest in the middle of a drought. But it matters to us, with our culture of multiple orgasms and minuscule refractory periods and oceans of libido. And while it is easy to make fun of those obsessions of ours, those nuances of sexuality, the Cosmos and GQs and other indices of our indulged lives, matter to us. They provide us with some of our greatest, if also our most fragile and evanescent, joys. ^389131
 
 ### 8 Immunity, Stress, And Disease
 
-The autonomic nervous system sends nerves into tissues that form or store the cells of the immune system and eventually enter the circulation. Furthermore, tissue of the immune system turns out to be sensitive to (that is, it has receptors for) all the interesting hormones released by the pituitary under the control of the brain.
+The autonomic nervous system sends nerves into tissues that form or store the cells of the immune system and eventually enter the circulation. Furthermore, tissue of the immune system turns out to be sensitive to (that is, it has receptors for) all the interesting hormones released by the pituitary under the control of the brain. ^105537
 
-The evidence for the brain’s influence on the immune system goes back at least a century, dating to the first demonstration that if you waved an artificial rose in front of someone who is highly allergic to roses (and who didn’t know it was a fake), they’d get an allergic response.
+The evidence for the brain’s influence on the immune system goes back at least a century, dating to the first demonstration that if you waved an artificial rose in front of someone who is highly allergic to roses (and who didn’t know it was a fake), they’d get an allergic response. ^f89c24
 
 The loosening of the capillaries also allows fluid containing proteins that can fight the invasive microbes to flow in from the circulation. And what happens as a result of that? The proteins fight the microbe, but the fluid also makes the area swell up, causing edema. This is your innate immune system leaping into action, causing inflammation.*
 
@@ -154,7 +156,7 @@ Why should evolution set us up to do something as apparently stupid as disassemb
 
 And as does the frequent theme of this book, namely, that if you have a stressor that goes on for too long, an adaptive decline back to baseline can overshoot and you get into trouble.
 
-Amid his skepticism, what he found was that the group therapy intervention extended life span an average of eighteen months, a whopping great effect.
+Women who had just gotten a metastatic breast cancer diagnosis were randomly assigned to either a group that received standard medical care or a group that, in addition, had intensive supportive group psychotherapy with other breast cancer patients. As Spiegel has emphasized in his accounts of this famous study, he went into it anticipating that the group therapy intervention might decrease psychological distress in patients, but he certainly didn’t expect that it would affect the biology of the cancer. Amid his skepticism, what he found was that the group therapy intervention extended life span an average of eighteen months, a whopping great effect. ^afcca7
 
 The advocates of a rather damaging overstatement of these psychology-health relationships are not always addled voices from the lunatic fringe. They include influential health practitioners whose medical degrees appear to lend credence to their extravagant claims.
 
@@ -162,17 +164,17 @@ In his world, deceased patients come back as birds, there are unnamed countries 
 
 Everything bad in human health now is not caused by stress, nor is it in our power to cure ourselves of all our worst medical nightmares merely by reducing stress and thinking healthy thoughts full of courage and spirit and love. Would that it were so. And shame on those who would profit from selling this view.
 
-This period, moreover, gave rise to the verb burking, named after one William Burke, the aging resurrectionist who pioneered the practice of luring beggars in for a charitable meal and then strangling them for a quick sale to the anatomists. (Ironic-ending department: Burke and his sidekick, after their execution, were handed over to the anatomists. Their dissection included particular attention to their skulls, with an attempt to find phrenological causes of their heinous crimes.)
+This period, moreover, gave rise to the verb burking, named after one William Burke, the aging resurrectionist who pioneered the practice of luring beggars in for a charitable meal and then strangling them for a quick sale to the anatomists. (Ironic-ending department: Burke and his sidekick, after their execution, were handed over to the anatomists. Their dissection included particular attention to their skulls, with an attempt to find phrenological causes of their heinous crimes.) ^383526
 
 ### 9 Stress And Pain
 
 The strength of a pain signal, for example, can depend on what other sensory information is funneled to the spine at the same time. This, it turns out, is why it feels great to have a massage when you have sore muscles. Chronic, throbbing pain can be inhibited by certain types of sharp, brief sensory stimulation.
 
-Experiencing a good vigorous mauling massage inhibitsa the dull throbbing pain of sore muscles for a while. An insect bite throbs and itches unbearably, and we often scratch hard right around it to dull the pain. Or we’ll pinch ourselves. In all these cases, the slow chronic pain pathway is shut down for up to a few minutes.
+Experiencing a good vigorous mauling massage inhibits the dull throbbing pain of sore muscles for a while. An insect bite throbs and itches unbearably, and we often scratch hard right around it to dull the pain. Or we’ll pinch ourselves. In all these cases, the slow chronic pain pathway is shut down for up to a few minutes. ^730939
 
-Their pain’s not going to seem all that painful—the war’s over for me; the drug’s working; what carpet? The brain’s interpretation of pain can be extremely subjective.
+Consider three scenarios involving pain. First, a soldier is in the middle of some appalling battle, people being slaughtered all around. He is injured—not life-threatening, but serious enough to warrant evacuation. Second, consider someone with advanced liver cancer, administered an experimental drug. Within a few days, her gut hurts like hell, a sign of the drug killing the tumor cells. Or third, someone is abrading their rear end raw while enthusiastically having sex on a rough carpet. What do they all have in common? Their pain’s not going to seem all that painful—the war’s over for me; the drug’s working; what carpet? The brain’s interpretation of pain can be extremely subjective. ^e0ef04
 
-It turned out that patients who had views of trees from their windows requested significantly less pain medication than those who looked out on blank walls.
+A scientist examined a decade’s worth of records at a suburban hospital, noting how many painkillers were requested by patients who had just had gallbladder surgery. It turned out that patients who had views of trees from their windows requested significantly less pain medication than those who looked out on blank walls. ^bf40ca
 
 ### 10 Stress And Memory
 
@@ -188,13 +190,13 @@ The synapse becomes persistently more excitable, so that next time it takes less
 
 ### 11 Stress And A Good Night’S Sleep
 
-Not getting enough sleep is a stressor; being stressed makes it harder to sleep. Yup, we’ve got a dread vicious cycle on our hands.
+Not getting enough sleep is a stressor; being stressed makes it harder to sleep. Yup, we’ve got a dread vicious cycle on our hands. ^b9051d
 
 During REM sleep, metabolism in the frontal cortex goes way down, disinhibiting the limbic system to come up with the most outlandish ideas. That’s why dreams are dreamlike—illogical, nonsequential, hyperemotional. You breathe underwater, fly in the air, communicate telepathically; you announce your love to strangers, invent languages, rule kingdoms, star in Busby Berkeley musicals.
 
-Moreover, the amount of certain subtypes of sleep at night predicts how well new information is recalled the next day. For example, lots of REM sleep during the night predicts better consolidation of emotional information from the day before, while lots of stage 2 sleep predicts better consolidation of a motor task, and a combination of lots of REM and slow wave sleep predicts better retention of perceptual information.
+Moreover, the amount of certain subtypes of sleep at night predicts how well new information is recalled the next day. For example, lots of REM sleep during the night predicts better consolidation of emotional information from the day before, while lots of stage 2 sleep predicts better consolidation of a motor task, and a combination of lots of REM and slow wave sleep predicts better retention of perceptual information. ^15267e
 
-During slow wave sleep, metabolism remains surprisingly high in areas like the hippocampus. It’s as if sleep is the time when the brain practices those new memory patterns over and over, cementing them into place.
+During slow wave sleep, metabolism remains surprisingly high in areas like the hippocampus. It’s as if sleep is the time when the brain practices those new memory patterns over and over, cementing them into place. ^9d5529
 
 These folks had enough sleep, happily restored and reenergized, and by about eight in the morning, their brains knew it. Start secreting those stress hormones to prepare to end the sleep. But the second group of volunteers went to sleep at the same time but were told that they would be woken up at six in the morning. And what happened with them? At five in the morning, their stress hormone levels began to rise.
 

@@ -34,7 +34,8 @@ the quote that opens this chapter, while poignant and poetic, should have instea
 Modern Physics impresses us particularly with the truth of the old doctrine which teaches that there are realities existing apart from our sense-perceptions, ^3b0a36
 > ==Science expands beyond our direct senses, leaving less and less space for the "supernatural".==
 
-“Q: If you can’t smell the carbon monoxide, then how do you know it’s there? A: You drop dead.” In modern times, if the sole measure of what’s out there flows from your five senses then a precarious life awaits you. ^eb691b
+“Q: If you can’t smell the carbon monoxide, then how do you know it’s there? A: You drop dead.” In modern times, if the sole measure of what’s out there flows from your five senses then a precarious life awaits you.
+^eb691b
 
 ### 3. Seeing Isn’T Believing
 

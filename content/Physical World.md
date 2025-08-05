@@ -15,8 +15,13 @@ Quantum Mechanics
 	- 2019 Letters From An Astrophysicist
 	- 2022 Starry Messenger
 - Leonard Susskind
-	- 2005 The Cosmic Landscape
+	- **2005 [[The Cosmic Landscape]]**
 	- 2008 The Black Hole War
+	- The Theoretical Minimum book series
+		- 2013 The Theoretical Minimum
+		- 2014 Quantum Mechanics
+		- 2017 Special Relativity and Classical Field Theory
+		- 2023 General Relativity
 - 2004 The Fabric of the Cosmos - Brian Greene
 - 1999 Just Six Numbers: The Deep Forces That Shape the Universe - Martin Rees
 - **2005 [[Astrophysics]]: Oxford VSI**

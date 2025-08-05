@@ -225,7 +225,7 @@ definition
 * unpredictable + vast difference in the building blocks & ornate, functional outcomes -> seemingly defy conventional cause and effect
 
 example
-* bees find resouces, comes back to broadcast
+* bees find resources, comes back to broadcast
   * no decision-making bee comparing options
   * longer dancing recruits bees -> optimal choice emerge implicitly
 * tree branches bifurcation

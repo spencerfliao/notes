@@ -1,6 +1,4 @@
 
-[[Determined#^f1efcf]]
-
 Quantum indeterminacy [[Determined#^f1efcf]]
 - [[Uncertainty Principle]], e.g. electron cloud, radioactive decay
 - At the quantum scale (sneeze)
@@ -31,7 +29,6 @@ In systems with no mechanisms of amplification
 - Statistically averaged out by sheer number
 - Decoherence by interaction with the environment
 
-
 Magnitude comparison
 
 | Event               | Domain             | Timescale          | Analogy     |
@@ -44,8 +41,6 @@ Magnitude comparison
 | Neural spike        | Neurophysiological | 10⁻³ s             | 30000 years |
 - Nuclear (atomic) rearrangement in slow
 - Transitional state & energy barrier crossing is slow
-
-
 
 Structured processes + uncertainties (may amplify)
 Comparable to trends vs fluctuations in [[Commonalities & Differences]]

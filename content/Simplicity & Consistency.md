@@ -5,3 +5,5 @@ Essentialism: reducing complex facts to one dimension or principle
 
 Stability
 ![[Genome#^e92f3f]]
+
+Nuances of [[Patterns of Behavior]]

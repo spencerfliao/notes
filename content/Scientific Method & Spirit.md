@@ -1,7 +1,8 @@
 
 [[Science vs Religion]]
+[[Science vs Philosophy]]
 
-The correct way forward builds on errors
+The way forward builds on errors
 ![[Death by Black Hole#^16f209]]
 
 Ignorance = motivation

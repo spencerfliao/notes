@@ -1,10 +1,12 @@
 
 [[Entangled Causation]]
+[[Brain → Body]]
 [[Single-Factor Determinism]]
 
 [[Neuroplasticity]]
 
 [[Perception]]
+[[Pain]]
 [[Intelligence]]
 [[Language]]
 [[Memory]]
