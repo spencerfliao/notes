@@ -10,6 +10,7 @@ I continually update my most recent studies through note-taking and quotes of bo
 - [[Humanities]] - the collective subjectivity we created
 - [[Growth]] - emotional well-being, business acumen
 - And of course, [[Knowledge]] in the sense of Epistemology — how we know what we know
+
 *Or* just [[Random]] pieces of stories and ideas I've collected along the way~
 
 You’ll notice that the notes in this vault are **interlinked** like Wikipedia articles — any [[underlined text]] is a link to another note in the vault. Instead of sorting ideas into folders or rigid categories (even the books appear across many themes), the vault follows a **relational structure**. This means ideas connect through context rather than hierarchy, letting you move between related concepts with a single click and see how knowledge weaves together across topics (try [[Categorical Thinking]] and see for yourself). You can also see an **interactive graph view** that shows the current article and its connections to others.
