@@ -1,15 +1,17 @@
 ---
-title: 🚧 Under Construction 建设中
+title: 🧑🏼‍🔬 Hi, I'm Spencer!
 ---
+I am deeply interested in interdisciplinary studies that combine **biology, anthropology, and psychology** to explore the complexities of human behavior, technological evolution, and societal development, as discussed by leading thinkers like **Robert Sapolsky** and **Richard Dawkins**. My reading also focuses on how our understanding of neuroscience and the evolution of brains informs the designs of neural networks and influence the advancement of machine learning techniques.
 
-> [!note] This site is still a work in progress, but the core functionalities have been built to a minimum viable product (MVP) level. You can explore the scripts for my first social media content and notes on books I've read as I continue migrating everything here. 本网站仍在建设中，但尽量保证核心功能已达到最小可行产品水平。你可以浏览我的自媒体内容脚本，以及我的阅读笔记（仍在迁移过程中）。
+Start by checking out notes/quotes about...
+-  [[Physical World]] - the one we live in with all its bizarre properties
+- [[Biology]] - the study of life, which as Dawkins puts it, is "the Greatest Show on Earth"
+- [[Humans]] - the science of us — from body, to brain, to what we build
+- [[Humanities]] - the collective subjectivity we created
+- [[Growth]] - emotional well-being, business acumen
+- And of course, [[Knowledge]] — how we know what we know is true
+Or just [[Random]] pieces of stories and ideas I've collected along the way~
 
-**IT'S SIMPLY COMPLICATED!**
+The notes in this vault are **linked together** like Wikipedia articles. If you see [[underlined text]], this is a link to another note in the vault. This provides an alternative logic where ideas are relational compared to hierarchical folders, making it easy to go from one idea to any related one in one click. You can also see an **interactive graph view** that shows the current article and its connections to others.
 
-
-我是一个热衷于探索技术与人文、科学与普及，以及我们自身系统与世界运作机制之间**交汇点**的学者。  
-在这里，你会找到影响我思考的作品，以及我认为值得分享的观点——按领域分类整理。而在理解我们自身以及所处的系统时，我希望你能和我一样意识到…… **事情总是简单是表象，复杂是本质！**  
-
-查看我的第一篇自媒体笔记：[[调研]]
-
-了解更多关于我和这个网站的信息，请访问 [[我是谁 About Me]]
+I will continually update my most recent studies through note-taking and quotes of book, courses, and documentaries. And when it comes to understanding ourselves and the systems we live in, I hope you, like me, will come to realize that... IT'S SIMPLY COMPLICATED!

@@ -1,5 +1,11 @@
+##### [[Ideologies]]
+- **2006  [[The God Delusion]] - Richard Dawkins**
 
 ##### [[Civilizations]]
+- 2019 How to Hide an Empire - Daniel Immerwahr
+- **2018  [[枢纽]]**
+- **2015 [[政治学通识]]**
+- **1922 [[The Problem of China]]**
 - **1854 [[Walden]]**
 
 ##### Philosophy
