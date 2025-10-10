@@ -1,11 +1,11 @@
 
-[[Knowledge]]
+[[Knowledge]] 
 
-[[Physical World]]
-[[Biology]]
-[[Humans]]
-[[Humanities]]
-[[Growth]]
+[[Physical World]] 
+[[Biology]] 
+[[Humans]] 
+[[Humanities]] 
+[[Growth]] 
 
-[[Channel]]
-[[Random]]
+[[Channel]] 
+[[Random]] 

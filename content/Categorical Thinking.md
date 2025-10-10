@@ -1,5 +1,5 @@
 
-VS whole picture
+The whole picture vs categorical thinking
 ![[Behave#^8adc93]]
 
 They are the same thing or intertwined as [[Entangled Causation]]

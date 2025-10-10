@@ -1,2 +1,2 @@
 
-You nailed it! Go back to [[index]].
+You nailed it! Go back to home [[index]].
